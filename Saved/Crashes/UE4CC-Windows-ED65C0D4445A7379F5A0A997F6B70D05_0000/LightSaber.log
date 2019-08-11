@@ -1,0 +1,1197 @@
+﻿Log file open, 04/30/19 21:29:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LightSaber
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.519351
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogStreaming: Display: Took  0.071s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: U:/UnrealEngine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.01-01.29.56:466][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.01-01.29.56:466][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.01-01.29.56:467][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.01-01.29.56:467][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.01-01.29.56:476][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.01-01.29.56:477][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.01-01.29.56:477][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.01-01.29.56:477][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.01-01.29.56:489][  0]LogHAL: Display: Platform has ~ 16 GB [17104732160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.01-01.29.56:489][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.01-01.29.56:489][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.01-01.29.56:489][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.01-01.29.56:489][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.01-01.29.56:490][  0]LogInit: Computer: DESKTOP-G3P6UN7
+[2019.05.01-01.29.56:490][  0]LogInit: User: stott
+[2019.05.01-01.29.56:490][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.05.01-01.29.56:490][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.01-01.29.56:490][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.01-01.29.56:490][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.01-01.29.56:490][  0]LogMemory: Process Physical Memory: 106.32 MB used, 106.33 MB peak
+[2019.05.01-01.29.56:490][  0]LogMemory: Process Virtual Memory: 91.59 MB used, 91.59 MB peak
+[2019.05.01-01.29.56:490][  0]LogMemory: Physical Memory: 6739.48 MB used,  9572.86 MB free, 16312.34 MB total
+[2019.05.01-01.29.56:490][  0]LogMemory: Virtual Memory: 4683.40 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.05.01-01.29.56:501][  0]LogInit: Using OS detected language (en-US).
+[2019.05.01-01.29.56:501][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.01-01.29.56:501][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.01-01.29.56:755][  0]LogStreaming: Display: Took  0.255s to InitEngineTextLocalization.
+[2019.05.01-01.29.56:756][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.01-01.29.56:795][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.01-01.29.56:795][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.01-01.29.56:973][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.01-01.29.57:019][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.05.01-01.29.57:019][  0]LogD3D11RHI:       8010/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.01-01.29.57:020][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.01-01.29.57:020][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.01-01.29.57:020][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.01-01.29.57:026][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.01-01.29.57:026][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.01-01.29.57:026][  0]LogWindows: EnumDisplayDevices:
+[2019.05.01-01.29.57:026][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2019.05.01-01.29.57:026][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.05.01-01.29.57:027][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.05.01-01.29.57:027][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.05.01-01.29.57:027][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.01-01.29.57:027][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.05.01-01.29.57:027][  0]LogD3D11RHI:   Driver Version: 425.31 (internal:25.21.14.2531, unified:425.31)
+[2019.05.01-01.29.57:027][  0]LogD3D11RHI:      Driver Date: 4-9-2019
+[2019.05.01-01.29.57:027][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.05.01-01.29.57:055][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.01-01.29.57:076][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.01-01.29.57:119][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2019.05.01-01.29.57:333][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.01-01.29.57:342][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.01-01.29.57:351][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.01-01.29.57:360][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.01-01.29.57:368][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.01-01.29.57:377][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.01-01.29.57:386][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.01-01.29.57:394][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.01-01.29.57:398][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.01-01.29.57:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:447][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:448][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.01-01.29.57:448][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.01-01.29.57:499][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.01-01.29.57:499][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.01-01.29.57:515][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.01-01.29.57:515][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.01-01.29.57:523][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.01-01.29.57:532][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.01-01.29.57:540][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.01-01.29.57:549][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.01-01.29.57:579][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.01-01.29.57:580][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.01-01.29.57:580][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.01-01.29.57:605][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Intermediate/Shaders/WorkingDirectory/24000/).
+[2019.05.01-01.29.57:605][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/stott/AppData/Local/Temp/UnrealShaderWorkingDir/16BED3A946B866BC9EFEB28605E9A92C/'.
+[2019.05.01-01.29.57:606][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.01-01.29.57:606][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.01-01.29.57:606][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.01-01.29.57:981][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.01-01.29.58:026][  0]LogDerivedDataCache: Loaded boot cache 0.04s 85MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.01-01.29.58:026][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.01-01.29.58:026][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.01-01.29.58:026][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.01-01.29.58:026][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.01-01.29.58:026][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.01-01.29.58:037][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.01-01.29.58:037][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.01-01.29.58:037][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.01-01.29.58:049][  0]LogDerivedDataCache: Using Local data cache path C:/Users/stott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.01-01.29.58:049][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.01-01.29.58:049][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.01-01.29.58:065][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.01-01.29.58:066][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.01-01.29.58:066][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.01-01.29.58:129][  0]LogAssetRegistry: FAssetRegistry took 0.0303 seconds to start up
+[2019.05.01-01.29.58:333][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.01-01.29.58:432][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.01-01.29.58:433][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.01-01.29.58:433][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.01-01.29.58:433][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.01-01.29.58:433][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.01-01.29.58:442][  0]LogNetVersion: LightSaber 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3724247427)
+[2019.05.01-01.29.58:485][  0]LogNavigation: Error: [/Script/Engine.NavigationSystem] found in the DefaultEngine.ini file. This class has been moved. Please rename that section to [/Script/NavigationSystem.NavigationSystemV1]
+[2019.05.01-01.29.58:823][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.082986 seconds
+[2019.05.01-01.29.58:828][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.01-01.29.58:828][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.05.01-01.29.58:828][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.01-01.29.59:374][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.01-01.29.59:386][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.01-01.29.59:857][  0]SourceControl: Source control is disabled
+[2019.05.01-01.29.59:857][  0]SourceControl: Source control is disabled
+[2019.05.01-01.29.59:858][  0]SourceControl: Source control is disabled
+[2019.05.01-01.29.59:858][  0]SourceControl: Source control is disabled
+[2019.05.01-01.29.59:988][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.01-01.30.00:122][  0]LogOcInput: OculusInput pre-init called
+[2019.05.01-01.30.00:131][  0]LogPython: Python Scripts search path: C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Scripts
+[2019.05.01-01.30.00:131][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2019.05.01-01.30.00:131][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2019.05.01-01.30.00:213][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2019.05.01-01.30.00:213][  0]LogPython: 
+
+[2019.05.01-01.30.00:213][  0]LogPython: U:\UnrealEngine\UE_4.21\Engine\Plugins\UnrealEnginePython\
+[2019.05.01-01.30.00:213][  0]LogPython: 
+
+[2019.05.01-01.30.00:249][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2019.05.01-01.30.00:249][  0]LogPython: 
+
+[2019.05.01-01.30.00:250][  0]LogPython: ue_site Python module successfully imported
+[2019.05.01-01.30.00:367][  0]LogEngine: Initializing Engine...
+[2019.05.01-01.30.00:369][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-FCDAF386
+[2019.05.01-01.30.00:370][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.01-01.30.00:370][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.01-01.30.00:370][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.01-01.30.00:370][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.01-01.30.00:539][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.01-01.30.00:545][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.01-01.30.00:632][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.01-01.30.00:644][  0]LogInit: FAudioDevice initialized.
+[2019.05.01-01.30.00:644][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.01-01.30.00:715][  0]LogDerivedDataCache: Saved boot cache 0.07s 85MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.01-01.30.00:725][  0]LogInit: Texture streaming: Enabled
+[2019.05.01-01.30.00:734][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.01-01.30.00:742][  0]LogInit: Transaction tracking system initialized
+[2019.05.01-01.30.00:751][  0]BlueprintLog: New page: Editor Load
+[2019.05.01-01.30.00:783][  0]LocalizationService: Localization service is disabled
+[2019.05.01-01.30.01:334][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.01-01.30.01:334][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.01-01.30.01:334][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.01-01.30.01:334][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.01-01.30.01:334][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.01-01.30.01:335][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.01-01.30.01:335][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.01-01.30.01:397][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/' took 0.02s
+[2019.05.01-01.30.01:397][  0]SourceControl: Source control is disabled
+[2019.05.01-01.30.01:397][  0]Cmd: MAP LOAD FILE="C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.01-01.30.01:398][  0]LightingResults: New page: Lighting Build
+[2019.05.01-01.30.01:399][  0]MapCheck: New page: Map Check
+[2019.05.01-01.30.01:399][  0]LightingResults: New page: Lighting Build
+[2019.05.01-01.30.01:695][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; please replace or remove it.
+[2019.05.01-01.30.01:695][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; Please use the Motion Source property instead of Hand
+[2019.05.01-01.30.01:721][  0]LogBlueprint: Warning: [Compiler BP_MotionController] [0006.83] Compile of BP_MotionController successful, but with 2 Warning(s) [in 41 ms] (/Game/Lightsaber/Blueprints/BP_MotionController.BP_MotionController)
+[2019.05.01-01.30.02:314][  0]LogLinker: Warning: Can't find file '/Game/Landscape/metal'
+[2019.05.01-01.30.02:314][  0]LogLinker: Warning: Can't find file for asset '/Game/Landscape/metal' while loading C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/LAATinterior.uasset.
+[2019.05.01-01.30.02:314][  0]LoadErrors: Error: /Game/BF2_Assets/Vehicles/LAAT/LAATinterior : Can't find file for asset. /Game/Landscape/metal
+[2019.05.01-01.30.02:314][  0]LogLinker: Warning: Can't find file '/Game/Landscape/metal'
+[2019.05.01-01.30.02:314][  0]LogLinker: Warning: Can't find file for asset '/Game/Landscape/metal' while loading C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/LAATinterior.uasset.
+[2019.05.01-01.30.02:314][  0]LoadErrors: Error: /Game/BF2_Assets/Vehicles/LAAT/LAATinterior : Can't find file for asset. /Game/Landscape/metal
+[2019.05.01-01.30.02:319][  0]LogLinker: Warning: Can't find file '/Game/Landscape/metal'
+[2019.05.01-01.30.02:319][  0]LogLinker: Warning: Can't find file for asset '/Game/Landscape/metal' while loading C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/LAATwings.uasset.
+[2019.05.01-01.30.02:319][  0]LoadErrors: Error: /Game/BF2_Assets/Vehicles/LAAT/LAATwings : Can't find file for asset. /Game/Landscape/metal
+[2019.05.01-01.30.02:319][  0]LogLinker: Warning: Can't find file '/Game/Landscape/metal'
+[2019.05.01-01.30.02:319][  0]LogLinker: Warning: Can't find file for asset '/Game/Landscape/metal' while loading C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/LAATwings.uasset.
+[2019.05.01-01.30.02:319][  0]LoadErrors: Error: /Game/BF2_Assets/Vehicles/LAAT/LAATwings : Can't find file for asset. /Game/Landscape/metal
+[2019.05.01-01.30.02:623][  0]LogLinker: Warning: Can't find file '/Game/Landscape/metal'
+[2019.05.01-01.30.02:623][  0]LoadErrors: Failed to load /Game/Landscape/metal.metal Referenced by LAATwings
+[2019.05.01-01.30.02:623][  0]LogLinker: Warning: Can't find file for asset '/Game/Landscape/metal' while loading NULL.
+[2019.05.01-01.30.02:623][  0]LoadErrors: Failed to load /Game/Landscape/metal.metal Referenced by LAATwings
+[2019.05.01-01.30.02:625][  0]LogLinker: Warning: Can't find file '/Game/Landscape/metal'
+[2019.05.01-01.30.02:625][  0]LoadErrors: Failed to load /Game/Landscape/metal.metal Referenced by LAATinterior
+[2019.05.01-01.30.02:626][  0]LogLinker: Warning: Can't find file for asset '/Game/Landscape/metal' while loading NULL.
+[2019.05.01-01.30.02:626][  0]LoadErrors: Failed to load /Game/Landscape/metal.metal Referenced by LAATinterior
+[2019.05.01-01.30.03:275][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2019.05.01-01.30.03:275][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2019.05.01-01.30.03:370][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2019.05.01-01.30.03:370][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2019.05.01-01.30.04:049][  0]LogAIModule: Creating AISystem for world Test
+[2019.05.01-01.30.04:143][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.01-01.30.04:175][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.01-01.30.04:176][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2019.05.01-01.30.04:176][  0]LogFileHelpers: Loading map 'Test' took 2.779
+[2019.05.01-01.30.04:299][  0]LogCollectionManager: Loaded 0 collections in 0.000649 seconds
+[2019.05.01-01.30.04:314][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Collections/' took 0.01s
+[2019.05.01-01.30.04:314][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Developers/stott/Collections/' took 0.00s
+[2019.05.01-01.30.04:314][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Collections/' took 0.00s
+[2019.05.01-01.30.04:314][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.01-01.30.04:320][  0]LogContentBrowser: Native class hierarchy populated in 0.0059 seconds. Added 2670 classes and 627 folders.
+[2019.05.01-01.30.04:324][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.01-01.30.04:330][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:353][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:369][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:377][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:381][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:385][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:389][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:397][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:411][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:415][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:419][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:422][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:440][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:443][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:452][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.01-01.30.04:569][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.01-01.30.04:591][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-01.30.04:596][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-01.30.04:602][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-01.30.04:607][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-01.30.04:612][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.05.01-01.30.04:700][  0]LogSlate: Took 0.000086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.01-01.30.04:706][  0]LogSlate: Took 0.004598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.01-01.30.04:706][  0]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.01-01.30.04:786][  0]LogRenderer: Reallocating scene render targets to support 1212x1280 Format 26 NumSamples 1 (Frame:1).
+[2019.05.01-01.30.04:946][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.01-01.30.04:946][  0]LogLoad: (Engine Initialization) Total time: 10.06 seconds
+[2019.05.01-01.30.04:946][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.01-01.30.05:008][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.01-01.30.05:012][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-01.30.05:047][  0]LogSlate: Took 0.008894 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.01-01.30.05:190][  2]LogAnimation: Warning: AnimBP ABP_hand_right_C is incompatible with skeleton SK_hand_left_Skeleton, removing AnimBP from actor.
+[2019.05.01-01.30.05:349][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2019.05.01-01.30.05:505][  6]LogAssetRegistry: Asset discovery search completed in 7.3986 seconds
+[2019.05.01-01.30.05:506][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.01-01.30.05:506][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000033 seconds (updated 0 objects)
+[2019.05.01-01.30.05:969][ 56]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.01-01.30.13:884][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-01.30.17:219][114]LogSlate: Window 'Message Log' being destroyed
+[2019.05.01-01.30.17:265][114]LogSlate: Window 'Message Log' being destroyed
+[2019.05.01-01.30.18:846][291]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/BF2_Assets/Vehicles/LAAT/LAATwings.LAATwings
+[2019.05.01-01.30.19:926][355]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/BF2_Assets/Vehicles/LAAT/LAATinterior.LAATinterior
+[2019.05.01-01.30.26:367][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BF2_Assets/Vehicles/LAAT/LAATinterior" FILE="C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/LAATinterior.uasset" SILENT=true
+[2019.05.01-01.30.26:415][990]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/LAATinterior85A8EC3243FB76B43C4FD497931AD768.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/LAATinterior.uasset'
+[2019.05.01-01.30.31:952][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BF2_Assets/Vehicles/LAAT/LAATwings" FILE="C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/LAATwings.uasset" SILENT=true
+[2019.05.01-01.30.31:996][561]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/LAATwingsFEFD11054052B3BECEAF8FA3179A5C86.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/LAATwings.uasset'
+[2019.05.01-01.30.33:575][736]LogSlate: Window 'LAATinterior' being destroyed
+[2019.05.01-01.30.33:620][736]LogSlate: Window 'LAATinterior' being destroyed
+[2019.05.01-01.30.45:489][ 90]LogEditorViewport: Clicking on Actor (LMB): BP_BerserkerAI_C (BP_BerserkerAI3)
+[2019.05.01-01.30.46:851][232]LogEditorViewport: Clicking on Actor (LMB): BP_BerserkerAI_C (BP_BerserkerAI4)
+[2019.05.01-01.30.49:253][491]Cmd: DELETE
+[2019.05.01-01.30.49:253][491]Cmd: ACTOR DELETE
+[2019.05.01-01.30.49:273][491]LogEditorActor: Deleted Actor: BP_BerserkerAI_C
+[2019.05.01-01.30.49:274][491]LogEditorActor: Deleted Actor: BP_BerserkerAI_C
+[2019.05.01-01.30.49:275][491]LogEditorActor: Deleted Actor: BP_BXAI_C
+[2019.05.01-01.30.49:296][491]LogEditorActor: Deleted 3 Actors (0.034 secs)
+[2019.05.01-01.30.49:903][562]LogEditorViewport: Clicking on Actor (LMB): BP_BXAI_C (BP_BXAI2)
+[2019.05.01-01.30.52:414][849]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.05.01-01.30.52:463][849]LogSlate: Took 0.001624 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.05.01-01.32.19:204][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.32.20:669][185]LogEditorViewport: Clicking on Actor (LMB): BP_BerserkerAI_C (BP_BerserkerAI3)
+[2019.05.01-01.32.21:798][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.32.38:127][172]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.BerserkerDroidAnimBP
+[2019.05.01-01.32.38:173][172]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.05.01-01.32.38:188][172]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.01-01.32.38:196][172]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.05.01-01.32.38:496][172]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2019.05.01-01.32.39:024][172]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.01-01.32.39:327][172]LogSlate: Took 0.004505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.01-01.32.39:381][172]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.05.01-01.33.03:048][280]LogHMD: SteamVR Shutting down.
+[2019.05.01-01.37.50:264][150]LogSlate: Window 'Pick Skeleton' being destroyed
+[2019.05.01-01.37.58:977][900]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/BF2_Assets/Characters/Droids/B2/anims/idlewalksprint.idlewalksprint
+[2019.05.01-01.37.58:983][900]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.01-01.37.59:006][900]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.01-01.37.59:294][900]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.01-01.39.08:127][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.39.23:768][999]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/idlewalksprint77C5A6764D2E60BFB53CA89C74F62132.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/anims/idlewalksprint.uasset'
+[2019.05.01-01.39.30:506][561]LogRenderer: Reallocating scene render targets to support 1528x1280 Format 26 NumSamples 1 (Frame:7846).
+[2019.05.01-01.39.38:807][240]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/idlewalksprint7A8B198947E61004AAA9EABFC680A4D6.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/anims/idlewalksprint.uasset'
+[2019.05.01-01.39.41:330][352]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/BF2_Assets/Characters/Droids/B2/anims/idlewalksprint.idlewalksprint
+[2019.05.01-01.39.41:334][352]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.01-01.39.41:356][352]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.01-01.39.41:640][352]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.01-01.40.05:678][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.40.05:837][257]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/idlewalksprintE948836E4BF90CBD66D94DA37BDCDA9C.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/anims/idlewalksprint.uasset'
+[2019.05.01-01.40.14:269][994]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/idlewalksprintAA632A96456048746B006B967C1717AA.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/anims/idlewalksprint.uasset'
+[2019.05.01-01.40.37:492][277]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.01-01.41.02:440][563]BlueprintLog: New page: Compile BerserkerDroidAnimBP
+[2019.05.01-01.41.02:715][563]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBP685CF0344C8D2A6524EBD4B90BE9EF20.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.41.26:317][345]LogSlate: Took 0.008724 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.05.01-01.41.29:427][602]BlueprintLog: New page: Compile BerserkerDroidAnimBP
+[2019.05.01-01.41.29:683][602]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBP1BA74CB7477A8DB47B502BA988DF15C2.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.42.02:259][336]BlueprintLog: New page: Compile BerserkerDroidAnimBP
+[2019.05.01-01.42.02:514][336]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBPF3C1E0EC4E366AF007E05DA3FB365EE7.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.42.04:677][513]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBP9634CE14471F5DDC2589AD828B327DED.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.42.05:233][551]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBP99E0D6344BE6C83EB56EC9868B2E8456.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.42.43:254][106]BlueprintLog: New page: Compile BerserkerDroidAnimBP
+[2019.05.01-01.42.43:258][106]LogBlueprint: Warning: [Compiler BerserkerDroidAnimBP] Entry node  Berserker  is not connected to state
+[2019.05.01-01.42.43:259][106]LogBlueprint: Warning: [Compiler BerserkerDroidAnimBP] There was no entry state connection in  Berserker
+[2019.05.01-01.42.43:518][106]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBP275A91624BDA4C8078100CA4C2F61DB0.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.42.43:565][106]LogBlueprint: Warning: [Compiler BerserkerDroidAnimBP] [0768.68] Compile of BerserkerDroidAnimBP successful, but with 2 Warning(s) [in 311 ms] (/Game/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.BerserkerDroidAnimBP)
+[2019.05.01-01.42.44:009][136]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBPE611783043F4D61A0728F1A12E3C8F58.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.43.38:477][899]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Test_Auto178733C774EF68BBC61245BAE4AAFEF56.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Autosaves/Game/Lightsaber/Maps/Test_Auto1.umap'
+[2019.05.01-01.43.38:479][899]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Lightsaber/Maps/Test' took 0.336
+[2019.05.01-01.43.38:479][899]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.336
+[2019.05.01-01.43.38:481][899]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP] ([1] browsable assets)...
+[2019.05.01-01.43.38:490][899]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.BerserkerDroidAnimBP]
+[2019.05.01-01.43.38:490][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP]
+[2019.05.01-01.43.38:542][899]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBP_Auto1D09DC4ED41644A995AF341814F2DEAAE.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Autosaves/Game/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP_Auto1.uasset'
+[2019.05.01-01.43.38:542][899]LogFileHelpers: Auto-saving content packages took 0.062
+[2019.05.01-01.43.58:480][562]BlueprintLog: New page: Compile BerserkerDroidAnimBP
+[2019.05.01-01.43.58:745][562]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBP17CB3EB4405C243E3B6633B355B2589F.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.43.59:981][657]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBPB332B03F41B0445EFE1DCBB74F527692.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.44.02:005][819]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.01-01.44.05:242][ 67]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/BF2_Assets/Characters/Droids/B2/anims/Mutant_Jumping.Mutant_Jumping
+[2019.05.01-01.44.22:242][231]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBP1FBA2AD34689433E98DCA5AE8508643C.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.44.32:719][ 49]BlueprintLog: New page: Compile BerserkerDroidAnimBP
+[2019.05.01-01.44.32:986][ 49]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBPEDF4D8C547AF731727E550BD215A0410.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.44.34:355][150]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBP3159972D465706949A9545941F518306.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.44.40:581][676]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBP53E251094B4DF181942CE682EC8519F6.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.44.49:537][450]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBPFCC69E33463F2DD493D97485C14B5E01.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.45.40:393][960]BlueprintLog: New page: Compile BerserkerDroidAnimBP
+[2019.05.01-01.45.40:667][960]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBP59E71A2D41A0637CB7ACA288F1AD857A.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.45.41:295][  2]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBPF80848E24EC55F6651ABDC9181B630D8.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.46.01:829][254]BlueprintLog: New page: Compile BerserkerDroidAnimBP
+[2019.05.01-01.46.02:108][254]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBP6AD40A1B438AB0FB6D3D10B04344723A.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.46.02:648][287]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBP3DF12F1847483462D3094B8D451079CB.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.46.03:916][363]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBPF074B26347613152422A08842E866255.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.46.04:317][385]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBPEA3D08AD46327623C31B2E81BE60C480.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.46.04:573][395]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBP2192AB2C421F0A02501C35970F180E49.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.46.04:829][404]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBP7858A6EB45C691CF636F22A9B53AA47E.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.46.05:152][419]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBP1853CFA244C2F290B852DDA1993F8919.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.46.05:474][434]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBPFF92FFE3411AABCACA6655BA2E28D4DE.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.46.20:541][ 73]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBPAC02A28C45C8C1757D19D1868850D157.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.46.26:686][386]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BerserkerDroidAnimBPAD6621F24E3BBD2857D99B939607EF6A.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Characters/Droids/B2/BerserkerDroidAnimBP.uasset'
+[2019.05.01-01.46.28:099][494]LogSlate: Window 'BerserkerDroidAnimBP' being destroyed
+[2019.05.01-01.46.28:145][494]LogSlate: Window 'BerserkerDroidAnimBP' being destroyed
+[2019.05.01-01.46.32:425][963]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lightsaber/Blueprints/EnemyAI/BP_BerserkerAI.BP_BerserkerAI
+[2019.05.01-01.46.40:438][544]BlueprintLog: New page: Compile BP_BerserkerAI
+[2019.05.01-01.46.40:855][544]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BP_BerserkerAI591EA39E478912B59DDF31988A17F6F3.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Blueprints/EnemyAI/BP_BerserkerAI.uasset'
+[2019.05.01-01.46.41:338][569]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BP_BerserkerAI5A898FC84BCF82EBD5EEBEBA55E129C8.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Blueprints/EnemyAI/BP_BerserkerAI.uasset'
+[2019.05.01-01.46.44:134][834]LogSlate: Window 'BP_BerserkerAI' being destroyed
+[2019.05.01-01.46.44:179][834]LogSlate: Window 'BP_BerserkerAI' being destroyed
+[2019.05.01-01.46.49:238][340]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lightsaber/Blueprints/EnemyAI/BP_BerserkerAI.BP_BerserkerAI
+[2019.05.01-01.47.11:846][943]BlueprintLog: New page: Compile BP_BerserkerAI
+[2019.05.01-01.47.12:236][943]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BP_BerserkerAIED4E88084BF72BE4A30152962BD58E15.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Blueprints/EnemyAI/BP_BerserkerAI.uasset'
+[2019.05.01-01.47.13:159][ 11]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BP_BerserkerAIB0955DE149FE8C0B5E96BAB4F53D3949.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Blueprints/EnemyAI/BP_BerserkerAI.uasset'
+[2019.05.01-01.47.29:333][190]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BP_BerserkerAI5833AD6546B630A29036D09C0F3E83C7.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Blueprints/EnemyAI/BP_BerserkerAI.uasset'
+[2019.05.01-01.47.34:679][760]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.05.01-01.47.49:817][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-01.48.05:056][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.48.06:213][407]LogSlate: Window 'Save Content' being destroyed
+[2019.05.01-01.48.06:311][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightsaber/Maps/Test" FILE="C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-01.48.06:643][407]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Test244FCF90457EF259ED6448838034174D.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap'
+[2019.05.01-01.48.06:666][407]LogFileHelpers: Saving map 'Test' took 0.357
+[2019.05.01-01.48.17:740][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (texturedLAAT)
+[2019.05.01-01.48.29:882][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.49.03:386][766]LogEditorViewport: Clicking on Actor (LMB): BP_BXAI_C (BP_BXAI)
+[2019.05.01-01.49.08:619][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.01-01.49.09:535][440]LogEditorViewport: Clicking on Actor (LMB): BP_BerserkerAI_C (BP_BerserkerAI2)
+[2019.05.01-01.49.14:168][967]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_BXAI_C (BP_BXAI2)
+[2019.05.01-01.49.17:734][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.01-01.49.18:891][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.49.19:811][483]LogSlate: Window 'Save Content' being destroyed
+[2019.05.01-01.49.19:908][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightsaber/Maps/Test" FILE="C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-01.49.20:239][483]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Test2073F67A493FF009B60E5A89C9296FC5.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap'
+[2019.05.01-01.49.20:263][483]LogFileHelpers: Saving map 'Test' took 0.355
+[2019.05.01-01.49.20:618][517]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.05.01-01.49.34:720][324]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2019.05.01-01.49.50:490][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.50.00:672][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.01-01.50.03:721][525]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2019.05.01-01.50.20:404][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.50.26:734][110]LogActorFactory: Actor Factory created Cube
+[2019.05.01-01.50.27:681][210]LogActorFactory: Actor Factory created Cube
+[2019.05.01-01.50.56:145][395]Cmd: DUPLICATE
+[2019.05.01-01.50.56:145][395]Cmd: ACTOR DUPLICATE
+[2019.05.01-01.51.11:226][155]Cmd: DUPLICATE
+[2019.05.01-01.51.11:226][155]Cmd: ACTOR DUPLICATE
+[2019.05.01-01.51.18:210][982]Cmd: DUPLICATE
+[2019.05.01-01.51.18:210][982]Cmd: ACTOR DUPLICATE
+[2019.05.01-01.51.53:370][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.01-01.52.00:153][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.52.12:963][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.52.31:292][468]LogEditorViewport: Clicking on Actor (LMB): BP_BerserkerAI_C (BP_BerserkerAI)
+[2019.05.01-01.52.32:195][564]Cmd: DELETE
+[2019.05.01-01.52.32:195][564]Cmd: ACTOR DELETE
+[2019.05.01-01.52.32:203][564]LogEditorActor: Deleted Actor: BP_BerserkerAI_C
+[2019.05.01-01.52.32:231][564]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.05.01-01.52.36:440][ 27]LogEditorViewport: Clicking on Actor (LMB): BP_Turret_C (BP_Turret7)
+[2019.05.01-01.52.38:320][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.52.45:801][132]Cmd: DUPLICATE
+[2019.05.01-01.52.45:801][132]Cmd: ACTOR DUPLICATE
+[2019.05.01-01.52.50:974][742]LogEditorViewport: Clicking on Actor (LMB): BP_Turret_C (BP_Turret7)
+[2019.05.01-01.52.57:050][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.01-01.52.58:210][593]LogEditorViewport: Clicking on Actor (LMB): BP_Turret_C (BP_Turret7)
+[2019.05.01-01.52.58:645][640]Cmd: DELETE
+[2019.05.01-01.52.58:645][640]Cmd: ACTOR DELETE
+[2019.05.01-01.52.58:654][640]LogEditorActor: Deleted Actor: BP_Turret_C
+[2019.05.01-01.52.58:681][640]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.05.01-01.52.59:677][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.53.00:930][765]LogSlate: Window 'Save Content' being destroyed
+[2019.05.01-01.53.01:026][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightsaber/Maps/Test" FILE="C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-01.53.01:355][765]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Test9E8DF0EA4D33AACF8C0B26A17BBF79B7.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap'
+[2019.05.01-01.53.01:378][765]LogFileHelpers: Saving map 'Test' took 0.353
+[2019.05.01-01.53.11:136][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.53.27:714][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.01-01.53.28:275][610]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.05.01-01.53.42:757][335]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-01.53.49:851][167]Cmd: TRANSACTION UNDO
+[2019.05.01-01.53.49:851][167]LogEditorTransaction: Undo Edit Text Material
+[2019.05.01-01.53.52:430][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.53.52:637][447]LogAssetEditorManager: Opening Asset editor for Material /Engine/EngineMaterials/DefaultTextMaterialOpaque.DefaultTextMaterialOpaque
+[2019.05.01-01.53.52:646][447]LogMaterial: Display: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2019.05.01-01.53.52:763][447]LogMaterial: Display: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2019.05.01-01.53.52:782][447]LogMaterial: Display: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2019.05.01-01.53.52:809][447]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.01-01.53.52:809][447]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.01-01.53.52:809][447]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.01-01.53.52:809][447]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.01-01.53.52:809][447]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.01-01.53.52:809][447]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.01-01.53.52:809][447]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.01-01.53.52:809][447]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.01-01.53.52:809][447]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.01-01.53.52:809][447]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.01-01.53.52:809][447]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.01-01.53.52:809][447]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.01-01.53.52:822][447]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2019.05.01-01.53.53:456][470]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.01-01.53.53:482][471]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.01-01.53.53:482][471]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.01-01.53.53:503][472]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.01-01.53.53:503][472]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.01-01.53.53:525][473]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.01-01.53.53:525][473]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.01-01.53.53:546][474]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.01-01.53.53:546][474]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.01-01.53.53:569][475]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.01-01.53.53:569][475]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.01-01.53.53:596][476]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.01-01.53.53:710][480]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.01-01.53.53:710][480]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.01-01.53.53:738][481]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.01-01.53.53:739][481]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.01-01.53.53:764][482]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.01-01.53.53:764][482]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.01-01.53.53:764][482]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.01-01.53.53:787][483]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.01-01.53.53:809][484]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.01-01.53.53:832][485]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.01-01.53.53:856][486]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.01-01.53.53:927][489]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.01-01.53.53:927][489]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.01-01.53.53:953][490]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.01-01.53.53:954][490]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.01-01.53.54:037][493]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.01-01.53.54:247][500]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.01-01.53.54:302][502]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.01-01.53.54:335][503]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.01-01.53.54:392][505]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.01-01.53.54:486][508]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.01-01.53.54:567][511]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.01-01.53.55:078][546]MaterialEditorStats: Base pass shader: 167 instructions
+[2019.05.01-01.53.55:078][546]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 241 instructions
+[2019.05.01-01.53.55:078][546]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2019.05.01-01.53.55:078][546]MaterialEditorStats: Texture samplers: 4/16
+[2019.05.01-01.53.55:078][546]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.05.01-01.53.55:078][546]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.05.01-01.54.05:911][672]LogMaterial: Display: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2019.05.01-01.54.05:961][673]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.01-01.54.05:961][673]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.01-01.54.05:961][673]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.01-01.54.05:961][673]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.01-01.54.05:961][673]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.01-01.54.05:961][673]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.01-01.54.05:961][673]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.01-01.54.05:961][673]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.01-01.54.05:961][673]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.01-01.54.05:961][673]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.01-01.54.05:961][673]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.01-01.54.05:961][673]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.01-01.54.06:148][681]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.01-01.54.06:176][682]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.01-01.54.06:196][683]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.01-01.54.06:196][683]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.01-01.54.06:216][684]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.01-01.54.06:237][685]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.01-01.54.06:237][685]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.01-01.54.06:237][685]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.01-01.54.06:258][686]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.01-01.54.06:258][686]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.01-01.54.06:258][686]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.01-01.54.06:258][686]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.01-01.54.06:365][690]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.01-01.54.06:396][691]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.01-01.54.06:427][692]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.01-01.54.06:427][692]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.01-01.54.06:453][693]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.01-01.54.06:453][693]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.01-01.54.06:475][694]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.01-01.54.06:498][695]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.01-01.54.06:525][696]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.01-01.54.06:525][696]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.01-01.54.06:525][696]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.01-01.54.06:582][697]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.01-01.54.06:628][698]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.01-01.54.06:628][698]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.01-01.54.06:655][699]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.01-01.54.06:742][702]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.01-01.54.06:857][706]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.01-01.54.06:966][710]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.01-01.54.06:966][710]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.01-01.54.07:109][715]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.01-01.54.07:534][741]MaterialEditorStats: Base pass shader: 165 instructions
+[2019.05.01-01.54.07:534][741]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 239 instructions
+[2019.05.01-01.54.07:534][741]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2019.05.01-01.54.07:534][741]MaterialEditorStats: Texture samplers: 4/16
+[2019.05.01-01.54.07:534][741]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.05.01-01.54.07:534][741]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.05.01-01.54.24:836][652]LogMaterial: Display: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2019.05.01-01.54.24:858][652]LogMaterial: Display: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2019.05.01-01.54.24:897][653]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.01-01.54.24:898][653]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.01-01.54.24:898][653]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.01-01.54.24:898][653]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.01-01.54.24:898][653]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.01-01.54.24:898][653]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.01-01.54.24:898][653]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.01-01.54.24:898][653]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.01-01.54.24:898][653]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.01-01.54.24:898][653]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.01-01.54.24:898][653]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.01-01.54.24:898][653]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.01-01.54.25:113][663]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.01-01.54.25:139][664]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.01-01.54.25:161][665]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.01-01.54.25:161][665]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.01-01.54.25:180][666]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.01-01.54.25:181][666]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.01-01.54.25:201][667]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.01-01.54.25:220][668]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.01-01.54.25:220][668]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.01-01.54.25:243][669]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.01-01.54.25:243][669]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.01-01.54.25:243][669]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.01-01.54.25:347][673]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.01-01.54.25:347][673]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.01-01.54.25:398][675]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.01-01.54.25:398][675]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.01-01.54.25:421][676]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.01-01.54.25:421][676]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.01-01.54.25:442][677]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.01-01.54.25:443][677]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.01-01.54.25:443][677]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.01-01.54.25:465][678]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.01-01.54.25:488][679]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.01-01.54.25:583][683]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.01-01.54.25:610][684]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.01-01.54.25:637][685]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.01-01.54.25:663][686]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.01-01.54.25:741][689]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.01-01.54.25:881][694]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.01-01.54.25:933][696]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.01-01.54.25:958][697]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.01-01.54.26:065][701]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.01-01.54.26:541][731]MaterialEditorStats: Base pass shader: 166 instructions
+[2019.05.01-01.54.26:541][731]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 240 instructions
+[2019.05.01-01.54.26:541][731]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2019.05.01-01.54.26:541][731]MaterialEditorStats: Texture samplers: 4/16
+[2019.05.01-01.54.26:541][731]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.05.01-01.54.26:541][731]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.05.01-01.54.29:877][ 78]LogMaterial: Display: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2019.05.01-01.54.29:902][ 78]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.01-01.54.29:902][ 78]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.01-01.54.29:902][ 78]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.01-01.54.29:902][ 78]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.01-01.54.29:902][ 78]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.01-01.54.29:902][ 78]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.01-01.54.29:902][ 78]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.01-01.54.29:902][ 78]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.01-01.54.29:902][ 78]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.01-01.54.29:902][ 78]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.01-01.54.29:902][ 78]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.01-01.54.29:902][ 78]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.01-01.54.30:061][ 84]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.01-01.54.30:140][ 85]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.01-01.54.30:140][ 85]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.01-01.54.30:140][ 85]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.01-01.54.30:160][ 85]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.01-01.54.30:160][ 85]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.01-01.54.30:208][ 86]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.01-01.54.30:208][ 86]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.01-01.54.30:208][ 86]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.01-01.54.30:208][ 86]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.01-01.54.30:208][ 86]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.01-01.54.30:208][ 86]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.01-01.54.30:280][ 87]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.01-01.54.30:309][ 87]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.01-01.54.30:357][ 88]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.01-01.54.30:357][ 88]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.01-01.54.30:357][ 88]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.01-01.54.30:357][ 88]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.01-01.54.30:357][ 88]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.01-01.54.30:397][ 90]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.01-01.54.30:397][ 90]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.01-01.54.30:413][ 91]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.01-01.54.30:413][ 91]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.01-01.54.30:435][ 92]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.01-01.54.30:498][ 95]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.01-01.54.30:523][ 96]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.01-01.54.30:545][ 97]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.01-01.54.30:596][ 99]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.01-01.54.30:604][ 99]LogMaterial: Display: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2019.05.01-01.54.30:678][ 99]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.01-01.54.30:747][101]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.01-01.54.30:801][103]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.01-01.54.30:905][105]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.01-01.54.30:934][106]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.01-01.54.30:964][107]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.01-01.54.31:015][109]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.01-01.54.31:042][110]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.01-01.54.31:071][111]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.01-01.54.31:071][111]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.01-01.54.31:097][112]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.01-01.54.31:124][113]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.01-01.54.31:156][113]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.01-01.54.31:202][114]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.01-01.54.31:232][115]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.01-01.54.31:232][115]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.01-01.54.31:260][116]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.01-01.54.31:283][117]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.01-01.54.31:315][118]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.01-01.54.31:315][118]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.01-01.54.31:315][118]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.01-01.54.31:340][119]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.01-01.54.31:364][120]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.01-01.54.31:364][120]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.01-01.54.31:364][120]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.01-01.54.31:416][122]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.01-01.54.31:443][123]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.01-01.54.31:473][124]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.01-01.54.31:502][125]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.01-01.54.31:502][125]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.01-01.54.31:502][125]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.01-01.54.31:551][127]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.01-01.54.31:576][128]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.01-01.54.31:576][128]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.01-01.54.31:601][129]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.01-01.54.31:626][130]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.01-01.54.31:649][131]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.01-01.54.31:649][131]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.01-01.54.31:695][133]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.01-01.54.31:741][135]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.01-01.54.31:946][143]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.01-01.54.31:946][143]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.01-01.54.32:018][146]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.01-01.54.32:085][149]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.01-01.54.32:552][176]MaterialEditorStats: Base pass shader: 167 instructions
+[2019.05.01-01.54.32:552][176]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 241 instructions
+[2019.05.01-01.54.32:552][176]MaterialEditorStats: Base pass vertex shader: 132 instructions
+[2019.05.01-01.54.32:552][176]MaterialEditorStats: Texture samplers: 4/16
+[2019.05.01-01.54.32:552][176]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.05.01-01.54.32:552][176]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.05.01-01.54.36:193][448]LogSlate: Window 'Message' being destroyed
+[2019.05.01-01.54.42:953][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.54.43:157][754]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BP_BerserkerAI221375464C8AFA9BF5D2F6A69CBC24EE.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Blueprints/EnemyAI/BP_BerserkerAI.uasset'
+[2019.05.01-01.54.44:175][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.54.48:212][166]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BP_BerserkerAIB16062BD44E0B943A6BE5485AEBD021C.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Blueprints/EnemyAI/BP_BerserkerAI.uasset'
+[2019.05.01-01.54.51:731][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.54.51:906][449]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/BP_BerserkerAI70DD959646A669CB6BDB6A8C4A216EC3.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Blueprints/EnemyAI/BP_BerserkerAI.uasset'
+[2019.05.01-01.54.53:351][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.54.54:811][722]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.05.01-01.54.57:834][ 77]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.05.01-01.54.59:902][315]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-01.55.14:569][ 64]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.01-01.55.15:451][163]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.05.01-01.55.16:818][321]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.05.01-01.55.18:200][479]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-01.55.33:830][343]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.01-01.55.35:205][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.01-01.55.36:365][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.01-01.55.37:160][725]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.05.01-01.55.38:208][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-01.55.54:579][485]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.01-01.55.55:346][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.01-01.55.56:573][710]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.05.01-01.56.00:866][173]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.05.01-01.56.02:738][388]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.05.01-01.56.03:749][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.56.05:082][508]LogSlate: Window 'Save Content' being destroyed
+[2019.05.01-01.56.05:133][508]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-01.56.05:181][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightsaber/Maps/Test" FILE="C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-01.56.05:510][508]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/TestB9F98528466CD673C90A88BC3B777C35.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap'
+[2019.05.01-01.56.05:534][508]LogFileHelpers: Saving map 'Test' took 0.355
+[2019.05.01-01.56.10:974][907]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2019.05.01-01.56.27:097][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (texturedLAAT)
+[2019.05.01-01.56.30:115][125]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.05.01-01.56.34:355][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (texturedLAAT)
+[2019.05.01-01.56.46:495][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.56.49:641][224]LogSlate: Window 'Save Content' being destroyed
+[2019.05.01-01.56.49:694][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-01.56.49:741][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightsaber/Maps/Test" FILE="C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-01.56.50:076][224]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/TestDDA1E9E84FA8884C79A6299C2C868923.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap'
+[2019.05.01-01.56.50:099][224]LogFileHelpers: Saving map 'Test' took 0.358
+[2019.05.01-01.56.50:661][284]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.05.01-01.56.52:140][423]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-01.56.53:409][531]MapCheck: New page: Map Check
+[2019.05.01-01.56.53:422][531]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-01.56.53:426][531]LightingResults: New page: Lighting Build - Apr 30, 2019, 5:56:53 PM
+[2019.05.01-01.56.53:496][531]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.05.01-01.56.53:633][531]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.05.01-01.56.53:645][531]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.05.01-01.56.54:168][531]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.05.01-01.56.54:168][531]LogSwarmInterface: [TryOpenConnection] Local Process ID is 24000
+[2019.05.01-01.56.56:601][531]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.05.01-01.56.56:602][531]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.05.01-01.56.56:602][531]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.05.01-01.56.56:602][531]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.05.01-01.56.56:602][531]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.05.01-01.56.56:602][531]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.05.01-01.56.56:742][531]LogEditorBuildUtils: Build time 0:03
+[2019.05.01-01.56.59:190][650]Job is a success!
+[2019.05.01-01.56.59:742][651]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2019.05.01-01.56.59:742][651]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.05.01-01.56.59:742][651]LogVolumetricLightmapImport:      BrickData 140x5x5 = 0.1Mb (trimmed 0.6Mb due to 0.010000 MinBrickError)
+[2019.05.01-01.56.59:742][651]LogVolumetricLightmapImport:      Bricks at Level
+[2019.05.01-01.56.59:742][651]LogVolumetricLightmapImport:          0: 3.6% covering 100.0% of volume
+[2019.05.01-01.56.59:742][651]LogVolumetricLightmapImport:          1: 57.1% covering 25.0% of volume
+[2019.05.01-01.56.59:742][651]LogVolumetricLightmapImport:          2: 39.3% covering 0.3% of volume
+[2019.05.01-01.56.59:789][651]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2019.05.01-01.56.59:789][651]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.05.01-01.56.59:789][651]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.05.01-01.56.59:789][651]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X64)
+[2019.05.01-01.56.59:810][651]Lightmass on DESKTOP-G3P6UN7: 2.52 sec total, 105 ms importing, 17 ms setup, 1.10 sec photons, 1.27 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 18.1 sec total, 271 ms processing.
+[2019.05.01-01.56.59:891][651]LogStaticLightingSystem: Illumination: 6.07 sec (21 ms encoding lightmaps, 5 ms encoding shadowmaps)
+[2019.05.01-01.56.59:891][651]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.05.01-01.56.59:891][651]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.05.01-01.57.00:601][651]DumpUnbuiltLightIteractions
+[2019.05.01-01.57.00:601][651]Lights with unbuilt interactions: 0
+[2019.05.01-01.57.00:601][651]
+[2019.05.01-01.57.00:601][651]Primitives with unbuilt interactions: 0
+[2019.05.01-01.57.00:611][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-01.57.00:720][652]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.05.01-01.57.00:720][652]MapCheck: New page: Test - Apr 30, 2019, 5:57:00 PM
+[2019.05.01-01.57.00:723][652]MapCheck: Warning: BP_GoodSky_5 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.05.01-01.57.00:724][652]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 3.789ms to complete.
+[2019.05.01-01.57.02:976][870]LogEditorViewport: Clicking on Actor (LMB): MaulSaber_C (MaulSaber)
+[2019.05.01-01.57.06:306][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.57.09:525][441]LogSlate: Window 'Message Log' being destroyed
+[2019.05.01-01.57.09:571][441]LogSlate: Window 'Message Log' being destroyed
+[2019.05.01-01.57.10:062][500]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.05.01-01.57.18:280][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.57.20:550][553]LogSlate: Window 'Save Content' being destroyed
+[2019.05.01-01.57.20:601][553]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.01-01.57.20:648][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightsaber/Maps/Test" FILE="C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.01-01.57.20:978][553]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/TestC4EF3955493B029D6AD003AA958CB104.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap'
+[2019.05.01-01.57.21:002][553]LogFileHelpers: Saving map 'Test' took 0.355
+[2019.05.01-01.57.21:003][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightsaber/Maps/Test_BuiltData" FILE="C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test_BuiltData.uasset" SILENT=true
+[2019.05.01-01.57.21:053][553]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Test_BuiltData3D7A600E4F5DEA7BA988DFBF10FE8C47.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test_BuiltData.uasset'
+[2019.05.01-01.57.30:778][619]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2019.05.01-01.58.07:722][761]LogEditorViewport: Clicking on Actor (LMB): BP_BerserkerAI_C (BP_BerserkerAI2)
+[2019.05.01-01.58.55:459][308]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.05.01-01.58.56:035][370]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.05.01-01.59.16:832][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.01-01.59.19:836][ 97]LogEditorViewport: Clicking on Actor (LMB): BP_BXAI_C (BP_BXAI)
+[2019.05.01-01.59.29:492][942]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2019.05.01-01.59.34:208][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-01.59.56:596][172]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.01-02.00.13:591][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-02.00.19:472][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-02.00.21:006][127]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2019.05.01-02.00.21:032][127]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.05.01-02.00.23:749][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.01-02.00.24:658][437]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2019.05.01-02.00.32:648][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.01-02.00.32:732][387]LogTemp: Repeating last play command: VR Preview
+[2019.05.01-02.00.32:755][387]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lightsaber/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Lightsaber/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/Test.Test:PersistentLevel.Test'
+[2019.05.01-02.00.32:755][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.01-02.00.32:755][387]PIE: New page: PIE session: Test (Apr 30, 2019, 6:00:32 PM)
+[2019.05.01-02.00.32:768][387]LogPlayLevel: Creating play world package: /Game/Lightsaber/Maps/UEDPIE_0_Test
+[2019.05.01-02.00.32:782][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013593s)
+[2019.05.01-02.00.32:782][387]LogAIModule: Creating AISystem for world Test
+[2019.05.01-02.00.32:782][387]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2019.05.01-02.00.32:782][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lightsaber/Maps/Test.Test to /Game/Lightsaber/Maps/UEDPIE_0_Test.Test (0.014367s)
+[2019.05.01-02.00.32:849][387]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.01-02.00.32:858][387]LogInit: FAudioDevice initialized.
+[2019.05.01-02.00.32:864][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.01-02.00.32:904][387]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.05.01-02.00.33:319][387]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.415 s
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: 
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: Ensure condition failed: VRSystem && VRCompositor [File:D:\Build\++UE4\Sync\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Private\SteamVRHMD.cpp] [Line: 1596]
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: 
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: Stack: 
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: [Callstack] 0x00007ffdc40083fe UE4Editor-SteamVR.dll!UnknownFunction []
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: [Callstack] 0x00007ffdc3ff40f3 UE4Editor-SteamVR.dll!UnknownFunction []
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: [Callstack] 0x00007ffded50a80e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: [Callstack] 0x00007ffded52b350 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: [Callstack] 0x00007ffded5492e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: [Callstack] 0x00007ffdecf41891 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: [Callstack] 0x00007ffded862346 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: [Callstack] 0x00007ff6b8346225 UE4Editor.exe!UnknownFunction []
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: [Callstack] 0x00007ff6b835596c UE4Editor.exe!UnknownFunction []
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: [Callstack] 0x00007ff6b83559ea UE4Editor.exe!UnknownFunction []
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: [Callstack] 0x00007ff6b83648da UE4Editor.exe!UnknownFunction []
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: [Callstack] 0x00007ff6b836659a UE4Editor.exe!UnknownFunction []
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: [Callstack] 0x00007ffe54e87974 KERNEL32.DLL!UnknownFunction []
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: [Callstack] 0x00007ffe55f9a271 ntdll.dll!UnknownFunction []
+[2019.05.01-02.00.33:319][387]LogOutputDevice: Error: 
+[2019.05.01-02.00.33:329][387]LogStats:                SubmitErrorReport -  0.000 s

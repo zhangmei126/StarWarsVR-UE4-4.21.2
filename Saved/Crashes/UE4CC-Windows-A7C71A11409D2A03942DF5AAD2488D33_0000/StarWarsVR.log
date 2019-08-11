@@ -1,0 +1,1494 @@
+﻿Log file open, 07/26/19 00:03:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: StarWarsVR
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.585001
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ParticleText
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogPluginManager: Mounting plugin OpenVRExpansionPlugin
+LogPluginManager: Mounting plugin VRExpansionPlugin
+LogStreaming: Display: Took  0.080s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: U:/UnrealEngine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.07.26-04.03.59:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.26-04.03.59:409][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.26-04.03.59:410][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.07.26-04.03.59:410][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.07.26-04.03.59:438][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.26-04.03.59:438][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.07.26-04.03.59:439][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.26-04.03.59:439][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.26-04.03.59:439][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.26-04.03.59:439][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.26-04.03.59:439][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.26-04.03.59:439][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.26-04.03.59:439][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.26-04.03.59:439][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.07.26-04.03.59:439][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.26-04.03.59:439][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.26-04.03.59:446][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.26-04.03.59:446][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.26-04.03.59:464][  0]LogHAL: Display: Platform has ~ 16 GB [17104732160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.07.26-04.03.59:464][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.26-04.03.59:464][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.26-04.03.59:464][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.26-04.03.59:465][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.26-04.03.59:468][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.26-04.03.59:469][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.07.26-04.03.59:470][  0]LogInit: Computer: DESKTOP-G3P6UN7
+[2019.07.26-04.03.59:470][  0]LogInit: User: stott
+[2019.07.26-04.03.59:470][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.07.26-04.03.59:470][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.07.26-04.03.59:470][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.07.26-04.03.59:470][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.26-04.03.59:470][  0]LogMemory: Process Physical Memory: 107.16 MB used, 107.16 MB peak
+[2019.07.26-04.03.59:470][  0]LogMemory: Process Virtual Memory: 105.25 MB used, 105.25 MB peak
+[2019.07.26-04.03.59:470][  0]LogMemory: Physical Memory: 5436.09 MB used,  10876.26 MB free, 16312.34 MB total
+[2019.07.26-04.03.59:470][  0]LogMemory: Virtual Memory: 4696.98 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2019.07.26-04.03.59:924][  0]LogInit: Using OS detected language (en-US).
+[2019.07.26-04.03.59:924][  0]LogInit: Using OS detected locale (en-US).
+[2019.07.26-04.03.59:930][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.07.26-04.04.00:332][  0]LogStreaming: Display: Took  0.408s to InitEngineTextLocalization.
+[2019.07.26-04.04.00:333][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.26-04.04.00:422][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.26-04.04.00:422][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.26-04.04.04:452][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.26-04.04.04:519][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.07.26-04.04.04:519][  0]LogD3D11RHI:       8010/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.07.26-04.04.04:522][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.26-04.04.04:523][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.26-04.04.04:523][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.26-04.04.04:532][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.26-04.04.04:532][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.26-04.04.04:532][  0]LogWindows: EnumDisplayDevices:
+[2019.07.26-04.04.04:532][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2019.07.26-04.04.04:533][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.07.26-04.04.04:533][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.07.26-04.04.04:533][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.07.26-04.04.04:533][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.07.26-04.04.04:533][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.07.26-04.04.04:534][  0]LogD3D11RHI:   Driver Version: 431.36 (internal:26.21.14.3136, unified:431.36)
+[2019.07.26-04.04.04:534][  0]LogD3D11RHI:      Driver Date: 7-3-2019
+[2019.07.26-04.04.04:534][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.07.26-04.04.04:594][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.26-04.04.04:685][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.07.26-04.04.04:730][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2019.07.26-04.04.05:235][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.07.26-04.04.05:256][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.07.26-04.04.05:274][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.07.26-04.04.05:290][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.07.26-04.04.05:310][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.07.26-04.04.05:341][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.07.26-04.04.05:358][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.07.26-04.04.05:377][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.07.26-04.04.05:389][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:453][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.26-04.04.05:522][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.07.26-04.04.05:606][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.07.26-04.04.05:606][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.07.26-04.04.05:629][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.07.26-04.04.05:629][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.07.26-04.04.05:646][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.07.26-04.04.05:662][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.07.26-04.04.05:684][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.07.26-04.04.05:706][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.07.26-04.04.05:746][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.07.26-04.04.05:746][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.07.26-04.04.05:746][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.26-04.04.06:048][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../Unreal Projects/StarWarsVR 4.21/Intermediate/Shaders/WorkingDirectory/10024/).
+[2019.07.26-04.04.06:048][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/stott/AppData/Local/Temp/UnrealShaderWorkingDir/17FEB1DD417AF080165A58BF6EFA1235/'.
+[2019.07.26-04.04.06:054][  0]LogXGEController: Cleaning working directory: C:/Users/stott/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.07.26-04.04.06:054][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.26-04.04.06:054][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.26-04.04.06:054][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.26-04.04.07:503][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.26-04.04.07:682][  0]LogDerivedDataCache: Loaded boot cache 0.18s 72MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.07.26-04.04.07:682][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.07.26-04.04.07:682][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/StarWarsVR 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.26-04.04.07:682][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.26-04.04.07:682][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/StarWarsVR 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.26-04.04.07:682][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.26-04.04.07:704][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.26-04.04.07:704][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.26-04.04.07:704][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.07.26-04.04.07:717][  0]LogDerivedDataCache: Using Local data cache path C:/Users/stott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.26-04.04.07:717][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.26-04.04.07:717][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.26-04.04.07:752][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.26-04.04.07:780][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.26-04.04.07:794][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.26-04.04.08:116][  0]LogAssetRegistry: FAssetRegistry took 0.0341 seconds to start up
+[2019.07.26-04.04.09:603][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.26-04.04.10:338][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.07.26-04.04.10:377][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.07.26-04.04.10:377][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.26-04.04.10:378][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.26-04.04.10:378][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.07.26-04.04.10:924][  0]LogNetVersion: StarWarsVR 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3577061868)
+[2019.07.26-04.04.11:197][  0]LogNavigation: Error: [/Script/Engine.NavigationSystem] found in the DefaultEngine.ini file. This class has been moved. Please rename that section to [/Script/NavigationSystem.NavigationSystemV1]
+[2019.07.26-04.04.12:561][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.083176 seconds
+[2019.07.26-04.04.12:582][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.07.26-04.04.12:582][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.07.26-04.04.12:582][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.26-04.04.15:897][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.26-04.04.15:922][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.26-04.04.17:007][  0]SourceControl: Source control is disabled
+[2019.07.26-04.04.17:008][  0]SourceControl: Source control is disabled
+[2019.07.26-04.04.17:027][  0]SourceControl: Source control is disabled
+[2019.07.26-04.04.17:038][  0]SourceControl: Source control is disabled
+[2019.07.26-04.04.17:988][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.26-04.04.18:318][  0]LogOcInput: OculusInput pre-init called
+[2019.07.26-04.04.18:464][  0]LogPython: Python Scripts search path: ../../../../../Unreal Projects/StarWarsVR 4.21/Content/Scripts
+[2019.07.26-04.04.18:464][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2019.07.26-04.04.18:464][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2019.07.26-04.04.18:979][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2019.07.26-04.04.18:979][  0]LogPython: 
+
+[2019.07.26-04.04.18:979][  0]LogPython: U:\UnrealEngine\UE_4.21\Engine\Plugins\UnrealEnginePython\
+[2019.07.26-04.04.18:979][  0]LogPython: 
+
+[2019.07.26-04.04.19:417][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2019.07.26-04.04.19:417][  0]LogPython: 
+
+[2019.07.26-04.04.19:419][  0]LogPython: ue_site Python module successfully imported
+[2019.07.26-04.04.20:065][  0]LogEngine: Initializing Engine...
+[2019.07.26-04.04.20:092][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-FCDAF386
+[2019.07.26-04.04.20:150][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.020 s
+[2019.07.26-04.04.20:150][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.07.26-04.04.20:150][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.07.26-04.04.20:150][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.07.26-04.04.20:565][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.26-04.04.20:851][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.26-04.04.21:342][  0]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.26-04.04.21:356][  0]LogInit: FAudioDevice initialized.
+[2019.07.26-04.04.21:356][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.26-04.04.21:418][  0]LogDerivedDataCache: Saved boot cache 0.06s 72MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.07.26-04.04.21:426][  0]LogInit: Texture streaming: Enabled
+[2019.07.26-04.04.21:495][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.26-04.04.21:642][  0]LogInit: Transaction tracking system initialized
+[2019.07.26-04.04.21:815][  0]BlueprintLog: New page: Editor Load
+[2019.07.26-04.04.22:349][  0]LocalizationService: Localization service is disabled
+[2019.07.26-04.04.23:626][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.26-04.04.23:627][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.26-04.04.23:648][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR 4.21/Content/' took 0.03s
+[2019.07.26-04.04.23:648][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.07.26-04.04.23:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.07.26-04.04.23:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.07.26-04.04.23:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.07.26-04.04.23:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.07.26-04.04.24:455][  0]SourceControl: Source control is disabled
+[2019.07.26-04.04.24:458][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.26-04.04.24:464][  0]LightingResults: New page: Lighting Build
+[2019.07.26-04.04.24:546][  0]MapCheck: New page: Map Check
+[2019.07.26-04.04.24:546][  0]LightingResults: New page: Lighting Build
+[2019.07.26-04.04.25:879][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; please replace or remove it.
+[2019.07.26-04.04.25:879][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; Please use the Motion Source property instead of Hand
+[2019.07.26-04.04.25:907][  0]LogBlueprint: Warning: [Compiler BP_MotionController] [0034.28] Compile of BP_MotionController successful, but with 2 Warning(s) [in 55 ms] (/Game/Lightsaber/Blueprints/BP_MotionController.BP_MotionController)
+[2019.07.26-04.04.28:415][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.07.26-04.04.28:415][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/StarterContent/Shapes/Shape_Cylinder.uasset.
+[2019.07.26-04.04.28:415][  0]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Cylinder : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall
+[2019.07.26-04.04.28:415][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.07.26-04.04.28:415][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/StarterContent/Shapes/Shape_Cylinder.uasset.
+[2019.07.26-04.04.28:415][  0]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Cylinder : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall
+[2019.07.26-04.04.29:831][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.07.26-04.04.29:831][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.07.26-04.04.29:831][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2019.07.26-04.04.29:831][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.07.26-04.04.29:831][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.07.26-04.04.29:831][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.07.26-04.04.29:831][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2019.07.26-04.04.29:831][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.07.26-04.04.29:867][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2019.07.26-04.04.29:867][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2019.07.26-04.04.29:867][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2019.07.26-04.04.29:867][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2019.07.26-04.04.32:272][  0]LogAIModule: Creating AISystem for world Test
+[2019.07.26-04.04.33:047][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.26-04.04.33:125][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.26-04.04.33:125][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.388ms to complete.
+[2019.07.26-04.04.33:126][  0]LogFileHelpers: Loading map 'Test' took 8.669
+[2019.07.26-04.04.33:422][  0]LogCollectionManager: Loaded 0 collections in 0.000722 seconds
+[2019.07.26-04.04.33:487][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR 4.21/Saved/Collections/' took 0.01s
+[2019.07.26-04.04.33:487][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR 4.21/Content/Developers/stott/Collections/' took 0.01s
+[2019.07.26-04.04.33:487][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR 4.21/Content/Collections/' took 0.00s
+[2019.07.26-04.04.33:487][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.07.26-04.04.33:498][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2727 classes and 641 folders.
+[2019.07.26-04.04.33:537][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.07.26-04.04.33:543][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:569][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:595][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:599][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:603][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:608][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:612][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:616][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:620][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:623][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:627][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.26-04.04.33:848][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.07.26-04.04.33:944][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.26-04.04.33:950][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.26-04.04.33:955][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.26-04.04.33:960][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.26-04.04.33:980][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.07.26-04.04.34:380][  0]LogSlate: Took 0.004013 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.26-04.04.34:387][  0]LogSlate: Took 0.004620 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.26-04.04.34:405][  0]LogSlate: Took 0.016899 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.26-04.04.34:609][  0]LogRenderer: Reallocating scene render targets to support 1304x1280 Format 26 NumSamples 1 (Frame:1).
+[2019.07.26-04.04.34:952][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.07.26-04.04.34:952][  0]LogLoad: (Engine Initialization) Total time: 43.32 seconds
+[2019.07.26-04.04.34:952][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.26-04.04.35:026][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.07.26-04.04.35:145][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.26-04.04.35:158][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.26-04.04.35:215][  0]LogSlate: Took 0.040883 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.26-04.04.35:654][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2019.07.26-04.04.35:868][  7]LogAssetRegistry: Asset discovery search completed in 27.7756 seconds
+[2019.07.26-04.04.35:869][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.07.26-04.04.35:869][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2019.07.26-04.04.42:983][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.26-04.04.44:156][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.26-04.04.44:247][732]LogSlate: Window 'Message Log' being destroyed
+[2019.07.26-04.04.44:293][732]LogSlate: Window 'Message Log' being destroyed
+[2019.07.26-04.04.44:612][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.26-04.05.24:715][892]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.07.26-04.05.24:715][892]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.07.26-04.05.24:715][892]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.07.26-04.05.24:715][892]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.07.26-04.05.24:715][892]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.07.26-04.05.24:715][892]LogWindows: Warning: URL: C:\Users\stott\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.07.26-04.05.24:716][892]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.07.26-04.05.24:716][892]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.07.26-04.05.24:716][892]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.07.26-04.05.24:716][892]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.07.26-04.05.24:716][892]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.07.26-04.05.24:716][892]LogWindows: Warning: URL: C:\Users\stott\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.07.26-04.05.24:716][892]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.07.26-04.05.24:716][892]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.07.26-04.05.59:986][177]LogSourceControl: Warning: '../../../../../Unreal Projects/StarWarsVR 4.21/' is not part of a Git repository
+[2019.07.26-04.07.18:645][275]LogSlate: Window 'Source Control Login' being destroyed
+[2019.07.26-04.09.54:305][301]SourceControl: Error: warning: LF will be replaced by CRLF in .gitignore.
+[2019.07.26-04.09.54:305][301]SourceControl: Error: The file will have its original line endings in your working directory
+[2019.07.26-04.32.23:488][470]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave AmbientMusic2...
+[2019.07.26-04.32.23:593][470]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1094656 while cooking SoundWave /Game/Lightsaber/Sound/AmbientSounds/AmbientMusic2.AmbientMusic2.
+[2019.07.26-04.33.11:723][359]LogSlate: Took 0.013636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.26-04.33.18:529][359]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.26-04.33.20:215][359]SourceControl: rm 'Content/Lightsaber/Sound/AmbientSounds/AmbientMusic.uasset'
+[2019.07.26-04.33.20:215][359]SourceControl: rm 'Content/Lightsaber/Sound/AmbientSounds/AmbientMusic_Cue.uasset'
+[2019.07.26-04.34.04:670][171]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.07.26-04.34.05:975][171]LogBlueprint: Warning: [Compiler ChameleonDemoCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2019.07.26-04.34.05:975][171]LogBlueprint: Warning: [Compiler ChameleonDemoCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2019.07.26-04.34.05:975][171]LogBlueprint: Warning: [Compiler ChameleonDemoCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2019.07.26-04.34.05:975][171]LogBlueprint: Warning: [Compiler ChameleonDemoCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2019.07.26-04.34.05:975][171]LogBlueprint: Warning: [Compiler ChameleonDemoCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2019.07.26-04.34.05:976][171]LogBlueprint: Warning: [Compiler ChameleonDemoCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.07.26-04.34.05:976][171]LogBlueprint: Warning: [Compiler ChameleonDemoCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.07.26-04.34.05:981][171]LogBlueprint: Warning: [Compiler ChameleonDemoCharacter] [1814.35] Compile of ChameleonDemoCharacter successful, but with 7 Warning(s) [in 13 ms] (/Game/ChameleonDemo/Blueprints/ChameleonDemoCharacter.ChameleonDemoCharacter)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Steam5 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Steam4 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Steam3 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: T_Screendrops (AutoDXT, 256X256)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: T_White (AutoDXT, 256X256)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: T_WaterDrops (AutoDXT, 2560X1440)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: T_ShadowRocks2 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: T_BulletHole (BGRA8, 682X608)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Movie3 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Movie4 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Movie2 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: T_Mask1 (BGRA8, 2560X1440)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Movie7 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: T_GameOver (BGRA8, 1278X718)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Movie1 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Old3 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Old2 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Movie5 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Movie6 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Posterize1 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Old4 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: T_Mask9 (BGRA8, 2560X1440)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Saturate2 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Old1 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Saturate1 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_3_Strip (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Steam2 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_Bleach_Bypass (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_Film2Vid_2 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_Kodachrome (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_Fuj_3510_3 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_General_Filmstock (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Saturate3 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_Kodk_2383 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_Fuj_3510_1 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_Kodk_2393_1 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_Fuj_3510_2 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_Kodk_2393_2 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_Kodk_2395_1 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_SA6 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Steam1 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Steam6 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_Steam7 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_Kodk_2395_2 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_SA7_2 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_SA8 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_SA7_3 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_Cineon (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Filmic_Cold_Blood_Murderer (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Filmic_First_Date (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Filmic_Futurama (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_SA9 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Filmic_Hacker_Room (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_SA7_4 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_SA5 (BGRA8, 256X16)
+[2019.07.26-04.34.06:363][171]LogTexture: Display: Building textures: LUT_U1_Emulation_Film2Vid_1 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Emulation_SA7_1 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Filmic_Abduction (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Filmic_Golden_Age (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Emulation_JR45 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Filmic_Gladiators (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: T_Mask3 (BGRA8, 2560X1440)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Filmic_Horror_Night (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Filmic_Nature_Rise (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Filmic_Rogue (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Lighting_Day_to_Night (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Filmic_Hazard (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Filmic_Middle_Earth (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Weather_Everest_M (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Weather_Everest_H (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Filmic_Pandora (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Weather_Heavy_Sunset (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Weather_Lightning (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Lighting_Candle_Light (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Weather_Winter (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Enhance3 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Enhance6 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_CLayerAqua (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Filmic_Holy_TealOrange (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Filmic_Last_hope (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Weather_Everest_L (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Enhance5 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Classic9 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_CLayerBlue (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_CLayerGreen (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_CLayerOrange (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Weather_Underwater (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Classic7 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Weather_Late_Sunset (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Color1 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_CLayerYellow (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Color2 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Enhance4 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Color3 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_CLayerPurple (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Classic8 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Color6 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Dark2 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Dark1 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Dark3 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Dark4 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Dark6 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Color4 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_CLayerRed (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Classic6 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Color5 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Mono7 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_U1_Lighting_Moonlight (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Mono6 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Mono9 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Mono8 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Mono3 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Mono5 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Mono4 (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_InvertGray (BGRA8, 256X16)
+[2019.07.26-04.34.06:364][171]LogTexture: Display: Building textures: LUT_Draw3 (BGRA8, 256X16)
+[2019.07.26-04.34.06:365][171]LogTexture: Display: Building textures: LUT_Draw2 (BGRA8, 256X16)
+[2019.07.26-04.34.06:365][171]LogTexture: Display: Building textures: LUT_Mono2 (BGRA8, 256X16)
+[2019.07.26-04.34.06:365][171]LogTexture: Display: Building textures: LUT_Draw5 (BGRA8, 256X16)
+[2019.07.26-04.34.06:365][171]LogTexture: Display: Building textures: LUT_Enhance2 (BGRA8, 256X16)
+[2019.07.26-04.34.06:365][171]LogTexture: Display: Building textures: LUT_Draw4 (BGRA8, 256X16)
+[2019.07.26-04.34.06:365][171]LogTexture: Display: Building textures: LUT_Draw8 (BGRA8, 256X16)
+[2019.07.26-04.34.06:365][171]LogTexture: Display: Building textures: LUT_Mono1 (BGRA8, 256X16)
+[2019.07.26-04.34.06:365][171]LogTexture: Display: Building textures: LUT_Enhance10 (BGRA8, 256X16)
+[2019.07.26-04.34.06:365][171]LogTexture: Display: Building textures: LUT_Draw6 (BGRA8, 256X16)
+[2019.07.26-04.34.06:365][171]LogTexture: Display: Building textures: LUT_Dark5 (BGRA8, 256X16)
+[2019.07.26-04.34.06:365][171]LogTexture: Display: Building textures: LUT_Mono10 (BGRA8, 256X16)
+[2019.07.26-04.34.06:365][171]LogMaterial: Display: Missing cached shader map for material M_GridCell, compiling. 
+[2019.07.26-04.34.06:435][171]LogTexture: Display: Building textures: LUT_Draw7 (BGRA8, 256X16)
+[2019.07.26-04.34.06:435][171]LogTexture: Display: Building textures: LUT_Draw9 (BGRA8, 256X16)
+[2019.07.26-04.34.06:435][171]LogTexture: Display: Building textures: LUT_FakeHDR1 (BGRA8, 256X16)
+[2019.07.26-04.34.06:435][171]LogTexture: Display: Building textures: LUT_FakeHDR3 (BGRA8, 256X16)
+[2019.07.26-04.34.06:435][171]LogTexture: Display: Building textures: LUT_Invert (BGRA8, 256X16)
+[2019.07.26-04.34.06:435][171]LogTexture: Display: Building textures: LUT_Dark8 (BGRA8, 256X16)
+[2019.07.26-04.34.06:435][171]LogTexture: Display: Building textures: LUT_Draw1 (BGRA8, 256X16)
+[2019.07.26-04.34.06:435][171]LogTexture: Display: Building textures: LUT_Dark7 (BGRA8, 256X16)
+[2019.07.26-04.34.06:435][171]LogTexture: Display: Building textures: LUT_Enhance8 (BGRA8, 256X16)
+[2019.07.26-04.34.06:435][171]LogTexture: Display: Building textures: LUT_Enhance9 (BGRA8, 256X16)
+[2019.07.26-04.34.06:435][171]LogTexture: Display: Building textures: LUT_FakeHDR2 (BGRA8, 256X16)
+[2019.07.26-04.34.06:435][171]LogTexture: Display: Building textures: LUT_Enhance7 (BGRA8, 256X16)
+[2019.07.26-04.34.06:435][171]LogTexture: Display: Building textures: LUT_Enhance1 (BGRA8, 256X16)
+[2019.07.26-04.34.06:435][171]LogTexture: Display: Building textures: T_Organic03 (AutoDXT, 512X512)
+[2019.07.26-04.34.06:435][171]LogTexture: Display: Building textures: T_RoomTiles_M (DXT1, 2048X2048)
+[2019.07.26-04.34.06:435][171]LogMaterial: Display: Missing cached shader map for material M_DistanceFog, compiling. 
+[2019.07.26-04.34.06:451][171]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.07.26-04.34.06:451][171]LogMaterial: Display: Missing cached shader map for material M_Drawing, compiling. 
+[2019.07.26-04.34.06:465][171]LogTexture: Display: Building textures: T_UnrealEngineDecal (DXT1, 2048X2048)
+[2019.07.26-04.34.06:465][171]LogMaterial: Display: Missing cached shader map for material M_DistanceDistortion, compiling. 
+[2019.07.26-04.34.06:477][171]LogMaterial: Display: Missing cached shader map for material M_DiscoBall, compiling. 
+[2019.07.26-04.34.06:488][171]LogMaterial: Display: Missing cached shader map for material M_PixelDissolve, compiling. 
+[2019.07.26-04.34.06:497][171]LogTexture: Display: Building textures: T_RoomTiles_N (BC5, 2048X2048)
+[2019.07.26-04.34.06:497][171]LogMaterial: Display: Missing cached shader map for material M_Digitize, compiling. 
+[2019.07.26-04.34.06:507][171]LogMaterial: Display: Missing cached shader map for material M_ActorFeaturette, compiling. 
+[2019.07.26-04.34.06:523][171]LogMaterial: Display: Missing cached shader map for material M_Alarm, compiling. 
+[2019.07.26-04.34.06:696][171]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.07.26-04.34.06:696][171]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.07.26-04.34.06:696][171]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.07.26-04.34.06:696][171]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.07.26-04.34.06:696][171]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.07.26-04.34.06:696][171]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.07.26-04.34.06:696][171]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.07.26-04.34.06:696][171]LogStaticMesh: Building static mesh SM_NamePlate...
+[2019.07.26-04.34.06:703][171]LogStaticMesh: Built static mesh [0.02s] /Game/ChameleonDemo/Meshes/SM_NamePlate.SM_NamePlate
+[2019.07.26-04.34.06:918][171]LogTexture: Display: Building textures: T_BloodDrops (BGRA8, 4000X2067)
+[2019.07.26-04.34.06:918][171]LogTexture: Display: Building textures: T_Paper2 (AutoDXT, 1920X1080)
+[2019.07.26-04.34.06:918][171]LogTexture: Display: Building textures: T_Pattern_M (AutoDXT, 2048X2048)
+[2019.07.26-04.34.06:918][171]LogStaticMesh: Building static mesh SM_BaseRoom...
+[2019.07.26-04.34.07:143][171]LogTexture: Display: Building textures: T_Mask7 (BGRA8, 2560X1440)
+[2019.07.26-04.34.07:144][171]LogTexture: Display: Building textures: T_Mask13 (BGRA8, 2560X1440)
+[2019.07.26-04.34.07:144][171]LogTexture: Display: Building textures: LUT_Classic12 (BGRA8, 256X16)
+[2019.07.26-04.34.07:144][171]LogTexture: Display: Building textures: T_NoiseDspatial (BGRA8, 1010X1006)
+[2019.07.26-04.34.07:144][171]LogTexture: Display: Building textures: T_Mask5 (BGRA8, 2560X1440)
+[2019.07.26-04.34.07:144][171]LogStaticMesh: Built static mesh [0.23s] /Game/ChameleonDemo/Meshes/SM_BaseRoom.SM_BaseRoom
+[2019.07.26-04.34.07:153][171]LogStaticMesh: Building static mesh SM_Base_FlatWall...
+[2019.07.26-04.34.07:156][171]LogStaticMesh: Built static mesh [0.00s] /Game/ChameleonDemo/Meshes/SM_Base_FlatWall.SM_Base_FlatWall
+[2019.07.26-04.34.07:174][171]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.07:174][171]LogMaterial: Display: Missing cached shader map for material M_CustomDepthHighlighterClip, compiling. 
+[2019.07.26-04.34.07:187][171]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.07.26-04.34.07:187][171]LogMaterial: Display: Missing cached shader map for material M_ComicEdgeHLSL, compiling. 
+[2019.07.26-04.34.07:197][171]LogTexture: Display: Building textures: LUT_Classic14 (BGRA8, 256X16)
+[2019.07.26-04.34.07:197][171]LogTexture: Display: Building textures: LUT_Classic11 (BGRA8, 256X16)
+[2019.07.26-04.34.07:197][171]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.07.26-04.34.07:198][171]LogMaterial: Display: Missing cached shader map for material M_BlurHLSL, compiling. 
+[2019.07.26-04.34.07:209][171]LogTexture: Display: Building textures: T_Mask4 (BGRA8, 2560X1440)
+[2019.07.26-04.34.07:209][171]LogMaterial: Display: Missing cached shader map for material M_CameraShake, compiling. 
+[2019.07.26-04.34.07:221][171]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.07:221][171]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.07.26-04.34.07:221][171]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.07.26-04.34.07:221][171]LogMaterial: Display: Missing cached shader map for material M_ChannelSwapper, compiling. 
+[2019.07.26-04.34.07:234][171]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.07:234][171]LogTexture: Display: Building textures: LUT_Classic13 (BGRA8, 256X16)
+[2019.07.26-04.34.07:234][171]LogTexture: Display: Building textures: LUT_Alienize1 (BGRA8, 256X16)
+[2019.07.26-04.34.07:234][171]LogTexture: Display: Building textures: LUT_Alienize2 (BGRA8, 256X16)
+[2019.07.26-04.34.07:234][171]LogTexture: Display: Building textures: T_ChameleonLogoTransparent (BGRA8, 175X175)
+[2019.07.26-04.34.07:234][171]LogTexture: Display: Building textures: LUT_Classic10 (BGRA8, 256X16)
+[2019.07.26-04.34.07:234][171]LogTexture: Display: Building textures: T_MossyWood (AutoDXT, 1024X1024)
+[2019.07.26-04.34.07:234][171]LogMaterial: Display: Missing cached shader map for material M_Circles, compiling. 
+[2019.07.26-04.34.07:266][171]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.07:266][171]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.07:266][171]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.07:266][171]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.07:266][171]LogMaterial: Display: Missing cached shader map for material M_ChannelClamper, compiling. 
+[2019.07.26-04.34.07:351][171]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.07:351][171]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.07:351][171]LogTexture: Display: Building textures: T_ScopePlaceholder (AutoDXT, 2048X2048)
+[2019.07.26-04.34.07:351][171]LogMaterial: Display: Missing cached shader map for material M_ColorizeHLSL, compiling. 
+[2019.07.26-04.34.07:360][171]LogMaterial: Display: Missing cached shader map for material M_ScreenFire, compiling. 
+[2019.07.26-04.34.07:387][171]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.07:387][171]LogMaterial: Display: Missing cached shader map for material M_MonitorEffects, compiling. 
+[2019.07.26-04.34.07:408][171]LogMaterial: Display: Missing cached shader map for material M_Neon, compiling. 
+[2019.07.26-04.34.07:425][171]LogMaterial: Display: Missing cached shader map for material M_MosaicTile, compiling. 
+[2019.07.26-04.34.07:434][171]LogMaterial: Display: Missing cached shader map for material M_MonochromeHLSL, compiling. 
+[2019.07.26-04.34.07:451][171]LogMaterial: Display: Missing cached shader map for material M_MeltedWorld, compiling. 
+[2019.07.26-04.34.07:488][171]LogTexture: Display: Building textures: T_Mask19 (AutoDXT, 2560X1440)
+[2019.07.26-04.34.07:807][171]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.07:807][171]LogMaterial: Display: Missing cached shader map for material M_Mojo, compiling. 
+[2019.07.26-04.34.07:831][171]LogMaterial: Display: Missing cached shader map for material M_MagicTransitions, compiling. 
+[2019.07.26-04.34.07:843][171]LogMaterial: Display: Missing cached shader map for material M_ScreenDrops, compiling. 
+[2019.07.26-04.34.07:854][171]LogMaterial: Display: Missing cached shader map for material M_Pulse, compiling. 
+[2019.07.26-04.34.07:866][171]LogTexture: Display: Building textures: T_ChameleonXWatermark (BGRA8, 305X146)
+[2019.07.26-04.34.07:878][171]LogMaterial: Display: Missing cached shader map for material M_ChameleonXWatermark_Mat, compiling. 
+[2019.07.26-04.34.07:918][171]LogMaterial: Display: Missing cached shader map for material M_RadialBlurHLSL, compiling. 
+[2019.07.26-04.34.07:936][171]LogMaterial: Display: Missing cached shader map for material M_Pyramid, compiling. 
+[2019.07.26-04.34.07:953][171]LogMaterial: Display: Missing cached shader map for material M_AnamorphicLensFlares, compiling. 
+[2019.07.26-04.34.07:978][171]LogMaterial: Display: Missing cached shader map for material M_AsciiHLSL, compiling. 
+[2019.07.26-04.34.07:988][171]LogMaterial: Display: Missing cached shader map for material M_2DTransform, compiling. 
+[2019.07.26-04.34.07:996][171]LogMaterial: Display: Missing cached shader map for material M_DefaultDecalMaterial, compiling. 
+[2019.07.26-04.34.08:127][171]LogMaterial: Display: Missing cached shader map for material M_HUEPanner, compiling. 
+[2019.07.26-04.34.08:138][171]LogMaterial: Display: Missing cached shader map for material M_Infected, compiling. 
+[2019.07.26-04.34.08:153][171]LogMaterial: Display: Missing cached shader map for material M_Invert, compiling. 
+[2019.07.26-04.34.08:160][171]LogMaterial: Display: Missing cached shader map for material M_Iridescent, compiling. 
+[2019.07.26-04.34.08:168][171]LogMaterial: Display: Missing cached shader map for material M_Kaleidescope, compiling. 
+[2019.07.26-04.34.08:184][171]LogMaterial: Display: Missing cached shader map for material M_Kuwahara, compiling. 
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 256X256)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap1_27 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap1_28 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap1_29 (AutoDXT, 512X512)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap1_30 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap1_31 (AutoDXT, 256X256)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:817][171]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 256X256)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: LQ_Lightmap_1_26 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: LQ_Lightmap_1_27 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: LQ_Lightmap_1_28 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: LQ_Lightmap_1_29 (DXT1, 512X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: LQ_Lightmap_1_30 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: LQ_Lightmap_1_31 (DXT1, 256X256)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_23 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_24 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_25 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_32 (AutoDXT, 256X128)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion1_26 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion1_27 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion1_28 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion1_29 (AutoDXT, 512X256)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:818][171]LogTexture: Display: Building textures: SkyOcclusion1_30 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: SkyOcclusion1_31 (AutoDXT, 256X128)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_119 (G8, 512X512)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_120 (BGRA8, 1024X1024)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_123 (BGRA8, 1024X1024)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_122 (BGRA8, 1024X1024)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_121 (BGRA8, 1024X1024)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_124 (BGRA8, 1024X1024)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_125 (BGRA8, 1024X1024)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_126 (BGRA8, 1024X1024)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_128 (BGRA8, 1024X1024)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_127 (BGRA8, 1024X1024)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_129 (BGRA8, 1024X1024)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_136 (BGRA8, 64X64)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_135 (BGRA8, 1024X128)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_133 (BGRA8, 1024X256)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_131 (BGRA8, 1024X512)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_134 (BGRA8, 1024X512)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_130 (BGRA8, 1024X1024)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: ShadowMapTexture2D_132 (BGRA8, 1024X1024)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: T_MonitorCalibration (AutoDXT, 1920X1080)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: T_ChameleonXLogo (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: LUT_Alienize5 (BGRA8, 256X16)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: T_WASD (BGRA8, 50X32)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: LUT_Classic2 (BGRA8, 256X16)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: LUT_Alienize6 (BGRA8, 256X16)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: T_Toy_Cow_N (BC5, 1024X1024)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: LUT_Alienize3 (BGRA8, 256X16)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: LUT_Classic3 (BGRA8, 256X16)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: LUT_Classic5 (BGRA8, 256X16)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: LUT_Alienize4 (BGRA8, 256X16)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: T_Toy_Cow_M (AutoDXT, 1024X1024)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: LUT_Classic4 (BGRA8, 256X16)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: LUT_Classic1 (BGRA8, 256X16)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: LUT_Bloom1 (BGRA8, 256X16)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: LUT_Bloom3 (BGRA8, 256X16)
+[2019.07.26-04.34.12:819][171]LogTexture: Display: Building textures: LUT_Bloom2 (BGRA8, 256X16)
+[2019.07.26-04.34.12:819][171]LogMaterial: Display: Missing cached shader map for material M_LensDistortion, compiling. 
+[2019.07.26-04.34.12:835][171]LogMaterial: Display: Missing cached shader map for material M_HazyLights, compiling. 
+[2019.07.26-04.34.13:091][171]LogMaterial: Display: Missing cached shader map for material M_Alcohol, compiling. 
+[2019.07.26-04.34.13:105][171]LogMaterial: Display: Missing cached shader map for material M_BleachBypass, compiling. 
+[2019.07.26-04.34.13:123][171]LogMaterial: Display: Missing cached shader map for material M_DemoWall, compiling. 
+[2019.07.26-04.34.13:248][171]LogShaderCompilers: Display: Shaders left to compile 358
+[2019.07.26-04.34.13:248][171]LogMaterial: Display: Missing cached shader map for material M_CustomDepthHighlighter, compiling. 
+[2019.07.26-04.34.13:269][171]LogMaterial: Display: Missing cached shader map for material M_Drug, compiling. 
+[2019.07.26-04.34.13:286][171]LogMaterial: Display: Missing cached shader map for material M_EdgeDetect3x3HLSL, compiling. 
+[2019.07.26-04.34.13:297][171]LogMaterial: Display: Missing cached shader map for material M_Emboss3x3HLSL, compiling. 
+[2019.07.26-04.34.13:309][171]LogMaterial: Display: Missing cached shader map for material M_Frost, compiling. 
+[2019.07.26-04.34.13:325][171]LogMaterial: Display: Missing cached shader map for material M_GlitchHLSL, compiling. 
+[2019.07.26-04.34.13:341][171]LogMaterial: Display: Missing cached shader map for material M_HardEmbossHLSL, compiling. 
+[2019.07.26-04.34.13:360][171]LogMaterial: Display: Missing cached shader map for material M_Haunted, compiling. 
+[2019.07.26-04.34.13:381][171]LogMaterial: Display: Missing cached shader map for material M_Letterboxing, compiling. 
+[2019.07.26-04.34.13:447][171]LogMaterial: Display: Missing cached shader map for material M_ScratchesHLSL, compiling. 
+[2019.07.26-04.34.13:487][171]LogMaterial: Display: Missing cached shader map for material M_ScreenDamage, compiling. 
+[2019.07.26-04.34.13:530][171]LogMaterial: Display: Missing cached shader map for material M_ScreenDecals, compiling. 
+[2019.07.26-04.34.13:545][171]LogMaterial: Display: Missing cached shader map for material M_ScreenWavesHLSL, compiling. 
+[2019.07.26-04.34.13:564][171]LogMaterial: Display: Missing cached shader map for material M_SelectiveColor, compiling. 
+[2019.07.26-04.34.13:586][171]LogMaterial: Display: Missing cached shader map for material M_Sharpen, compiling. 
+[2019.07.26-04.34.13:601][171]LogMaterial: Display: Missing cached shader map for material M_Sketch, compiling. 
+[2019.07.26-04.34.13:614][171]LogMaterial: Display: Missing cached shader map for material M_Snow, compiling. 
+[2019.07.26-04.34.13:626][171]LogMaterial: Display: Missing cached shader map for material M_Sonar, compiling. 
+[2019.07.26-04.34.13:639][171]LogMaterial: Display: Missing cached shader map for material M_Squares, compiling. 
+[2019.07.26-04.34.13:651][171]LogMaterial: Display: Missing cached shader map for material M_Tiles, compiling. 
+[2019.07.26-04.34.13:661][171]LogMaterial: Display: Missing cached shader map for material M_ToonShading, compiling. 
+[2019.07.26-04.34.13:674][171]LogMaterial: Display: Missing cached shader map for material M_TVNoise, compiling. 
+[2019.07.26-04.34.13:690][171]LogMaterial: Display: Missing cached shader map for material M_Wired, compiling. 
+[2019.07.26-04.34.13:705][171]LogMaterial: Display: Missing cached shader map for material M_WorldGlitch, compiling. 
+[2019.07.26-04.34.13:720][171]LogMaterial: Display: Missing cached shader map for material M_WorldSplash, compiling. 
+[2019.07.26-04.34.13:737][171]LogMaterial: Display: Missing cached shader map for material M_Zone, compiling. 
+[2019.07.26-04.34.13:754][171]LogStaticMesh: Building static mesh SM_DemoRoomU...
+[2019.07.26-04.34.13:786][171]LogStaticMesh: Built static mesh [0.03s] /Game/ChameleonDemo/Meshes/SM_DemoRoomU.SM_DemoRoomU
+[2019.07.26-04.34.13:797][171]LogStaticMesh: Building static mesh SM_DemoRoomBackWall...
+[2019.07.26-04.34.13:809][171]LogStaticMesh: Built static mesh [0.01s] /Game/ChameleonDemo/Meshes/SM_DemoRoomBackWall.SM_DemoRoomBackWall
+[2019.07.26-04.34.13:925][171]LogStaticMesh: Building static mesh SM_DemoRoomClamp...
+[2019.07.26-04.34.13:997][171]LogStaticMesh: Built static mesh [0.07s] /Game/ChameleonDemo/Meshes/SM_DemoRoomClamp.SM_DemoRoomClamp
+[2019.07.26-04.34.14:131][171]LogStaticMesh: Building static mesh SM_URoom_Wall...
+[2019.07.26-04.34.14:139][171]LogStaticMesh: Built static mesh [0.01s] /Game/ChameleonDemo/Meshes/SM_URoom_Wall.SM_URoom_Wall
+[2019.07.26-04.34.14:164][171]LogStaticMesh: Building static mesh SM_Toy_Cow...
+[2019.07.26-04.34.14:191][171]LogStaticMesh: Built static mesh [0.03s] /Game/ChameleonDemo/Meshes/SM_Toy_Cow.SM_Toy_Cow
+[2019.07.26-04.34.14:220][171]LogStaticMesh: Building static mesh SM_DemoRoomBackWall2...
+[2019.07.26-04.34.14:232][171]LogStaticMesh: Built static mesh [0.01s] /Game/ChameleonDemo/Meshes/SM_DemoRoomBackWall2.SM_DemoRoomBackWall2
+[2019.07.26-04.34.14:236][171]LogMaterial: Display: Missing cached shader map for material M_LightTube, compiling. 
+[2019.07.26-04.34.14:249][171]LogStaticMesh: Building static mesh SM_DemoRoomL...
+[2019.07.26-04.34.14:256][171]LogStaticMesh: Built static mesh [0.01s] /Game/ChameleonDemo/Meshes/SM_DemoRoomL.SM_DemoRoomL
+[2019.07.26-04.34.14:532][171]LogShaderCompilers: Display: Shaders left to compile 702
+[2019.07.26-04.34.14:532][171]LogMaterial: Display: Missing cached shader map for material M_DemoWallPattern, compiling. 
+[2019.07.26-04.34.14:565][171]LogMaterial: Display: Missing cached shader map for material M_DemoWallPattern, compiling. 
+[2019.07.26-04.34.14:593][171]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2019.07.26-04.34.14:636][171]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2019.07.26-04.34.14:931][171]LogShaderCompilers: Display: Shaders left to compile 797
+[2019.07.26-04.34.14:931][171]LogMaterial: Display: Missing cached shader map for material M_DemoRoomTiles, compiling. 
+[2019.07.26-04.34.14:979][171]LogMaterial: Display: Missing cached shader map for material M_RoomNumbers, compiling. 
+[2019.07.26-04.34.15:010][171]LogMaterial: Display: Missing cached shader map for material M_DemoWallPattern, compiling. 
+[2019.07.26-04.34.15:076][171]LogMaterial: Display: Missing cached shader map for material M_Editor_ChameleonIcon, compiling. 
+[2019.07.26-04.34.15:603][171]LogMaterial: Display: Missing cached shader map for material M_ChameleonLight, compiling. 
+[2019.07.26-04.34.15:619][171]LogMaterial: Display: Missing cached shader map for material MonitorCalibration_edited_Mat, compiling. 
+[2019.07.26-04.34.15:629][171]LogMaterial: Display: Missing cached shader map for material M_ChameleonXLogo_Mat, compiling. 
+[2019.07.26-04.34.15:645][171]LogMaterial: Display: Missing cached shader map for material M_Trans, compiling. 
+[2019.07.26-04.34.15:658][171]LogMaterial: Display: Missing cached shader map for material M_Toy_Cow, compiling. 
+[2019.07.26-04.34.15:685][171]LogMaterial: Display: Missing cached shader map for material M_Emissive, compiling. 
+[2019.07.26-04.34.15:737][171]LogAIModule: Creating AISystem for world ChameleonDemoHall
+[2019.07.26-04.34.16:024][171]LogMaterial: Display: Missing cached shader map for material M_LightFunction_Flicker, compiling. 
+[2019.07.26-04.34.16:074][171]LogMaterial: Display: Missing cached shader map for material M_RoomEntrance, compiling. 
+[2019.07.26-04.34.16:157][171]LogShaderCompilers: Display: Shaders left to compile 1113
+[2019.07.26-04.34.16:228][171]LogShaderCompilers: Display: Shaders left to compile 1115
+[2019.07.26-04.34.16:240][171]LogShaderCompilers: Display: Shaders left to compile 1105
+[2019.07.26-04.34.16:268][171]LogShaderCompilers: Display: Shaders left to compile 1095
+[2019.07.26-04.34.17:014][171]LogShaderCompilers: Display: Shaders left to compile 1085
+[2019.07.26-04.34.17:014][171]LogShaderCompilers: Display: Shaders left to compile 1075
+[2019.07.26-04.34.17:014][171]LogShaderCompilers: Display: Shaders left to compile 1065
+[2019.07.26-04.34.17:446][171]LogShaderCompilers: Display: Shaders left to compile 1055
+[2019.07.26-04.34.17:447][171]LogShaderCompilers: Display: Shaders left to compile 1045
+[2019.07.26-04.34.21:182][171]LogShaderCompilers: Display: Shaders left to compile 1035
+[2019.07.26-04.34.21:182][171]LogShaderCompilers: Display: Shaders left to compile 1025
+[2019.07.26-04.34.21:182][171]LogShaderCompilers: Display: Shaders left to compile 1015
+[2019.07.26-04.34.21:182][171]LogShaderCompilers: Display: Shaders left to compile 1005
+[2019.07.26-04.34.21:182][171]LogShaderCompilers: Display: Shaders left to compile 995
+[2019.07.26-04.34.21:182][171]LogShaderCompilers: Display: Shaders left to compile 985
+[2019.07.26-04.34.21:182][171]LogShaderCompilers: Display: Shaders left to compile 975
+[2019.07.26-04.34.21:182][171]LogShaderCompilers: Display: Shaders left to compile 965
+[2019.07.26-04.34.21:182][171]LogShaderCompilers: Display: Shaders left to compile 955
+[2019.07.26-04.34.21:182][171]LogShaderCompilers: Display: Shaders left to compile 945
+[2019.07.26-04.34.21:182][171]LogShaderCompilers: Display: Shaders left to compile 935
+[2019.07.26-04.34.21:182][171]LogShaderCompilers: Display: Shaders left to compile 925
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 915
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 905
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 895
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 885
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 875
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 865
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 855
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 845
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 835
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 825
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 815
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 805
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 795
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 785
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 775
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 765
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 755
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 745
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 735
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 725
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 715
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 705
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 695
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 685
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 675
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 665
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 655
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 645
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 635
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 625
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 615
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 605
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 595
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 585
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 575
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 565
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 555
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 545
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 535
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 525
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 515
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 505
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 495
+[2019.07.26-04.34.50:416][171]LogShaderCompilers: Display: Shaders left to compile 485
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 475
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 465
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 455
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 445
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 435
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 425
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 415
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 405
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 395
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 385
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 375
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 365
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 355
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 345
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 335
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 325
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 315
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 305
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 295
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 285
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 275
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 265
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 255
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 245
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 235
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 225
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 215
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 205
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 195
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 185
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 175
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 165
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 155
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 145
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 135
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 125
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.07.26-04.34.50:418][171]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.07.26-04.34.50:419][171]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.07.26-04.35.21:892][171]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.26-04.35.24:244][171]LogStaticMesh: Building static mesh SM_DemoRoomLTrim...
+[2019.07.26-04.35.24:244][171]LogStaticMesh: Built static mesh [0.00s] /Game/ChameleonDemo/Meshes/SM_DemoRoomLTrim.SM_DemoRoomLTrim
+[2019.07.26-04.35.24:264][171]LogStaticMesh: Building static mesh SM_DemoRoomClamp2...
+[2019.07.26-04.35.24:293][171]LogStaticMesh: Built static mesh [0.03s] /Game/ChameleonDemo/Meshes/SM_DemoRoomClamp2.SM_DemoRoomClamp2
+[2019.07.26-04.35.24:334][171]LogStaticMesh: Building static mesh SM_DemoRoomClamp...
+[2019.07.26-04.35.24:360][171]LogStaticMesh: Built static mesh [0.03s] /Game/ChameleonDemo/Meshes/SM_DemoRoomClamp.SM_DemoRoomClamp
+[2019.07.26-04.35.24:405][171]LogStaticMesh: Building static mesh SM_DemoRoomTrim...
+[2019.07.26-04.35.24:448][171]LogStaticMesh: Built static mesh [0.04s] /Game/ChameleonDemo/Meshes/SM_DemoRoomTrim.SM_DemoRoomTrim
+[2019.07.26-04.35.24:519][171]LogStaticMesh: Building static mesh SM_DemoRoomTrim2...
+[2019.07.26-04.35.24:562][171]LogStaticMesh: Built static mesh [0.04s] /Game/ChameleonDemo/Meshes/SM_DemoRoomTrim2.SM_DemoRoomTrim2
+[2019.07.26-04.35.24:625][171]LogStaticMesh: Building static mesh SM_DemoRoomBackWall2...
+[2019.07.26-04.35.24:625][171]LogStaticMesh: Built static mesh [0.00s] /Game/ChameleonDemo/Meshes/SM_DemoRoomBackWall2.SM_DemoRoomBackWall2
+[2019.07.26-04.35.24:627][171]LogStaticMesh: Building static mesh SM_DemoRoomBackWall...
+[2019.07.26-04.35.24:627][171]LogStaticMesh: Built static mesh [0.00s] /Game/ChameleonDemo/Meshes/SM_DemoRoomBackWall.SM_DemoRoomBackWall
+[2019.07.26-04.35.24:640][171]LogStaticMesh: Building static mesh SM_DemoRoomTrimAdd...
+[2019.07.26-04.35.24:666][171]LogStaticMesh: Built static mesh [0.03s] /Game/ChameleonDemo/Meshes/SM_DemoRoomTrimAdd.SM_DemoRoomTrimAdd
+[2019.07.26-04.35.24:678][171]LogMaterial: Display: Missing cached shader map for material M_DemoWallPattern, compiling. 
+[2019.07.26-04.35.24:683][171]LogMaterial: Warning: U:\Unreal Projects\StarWarsVR 4.21\Content\ChameleonDemo\Materials\M_DemoWallPattern.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.07.26-04.35.24:683][171]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.07.26-04.35.24:686][171]LogMaterial: Display: Missing cached shader map for material M_DemoWallPattern, compiling. 
+[2019.07.26-04.35.24:686][171]LogMaterial: Warning: U:\Unreal Projects\StarWarsVR 4.21\Content\ChameleonDemo\Materials\M_DemoWallPattern.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.07.26-04.35.24:686][171]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.07.26-04.35.24:691][171]LogStaticMesh: Building static mesh SM_URoom_Wall2...
+[2019.07.26-04.35.24:691][171]LogStaticMesh: Built static mesh [0.00s] /Game/ChameleonDemo/Meshes/SM_URoom_Wall2.SM_URoom_Wall2
+[2019.07.26-04.35.24:700][171]LogStaticMesh: Building static mesh SM_DemoDivider_1...
+[2019.07.26-04.35.24:710][171]LogStaticMesh: Built static mesh [0.01s] /Game/ChameleonDemo/Meshes/SM_DemoDivider_1.SM_DemoDivider_1
+[2019.07.26-04.35.24:718][171]LogStaticMesh: Building static mesh SM_URoom_Wall...
+[2019.07.26-04.35.24:718][171]LogStaticMesh: Built static mesh [0.00s] /Game/ChameleonDemo/Meshes/SM_URoom_Wall.SM_URoom_Wall
+[2019.07.26-04.35.24:727][171]LogStaticMesh: Building static mesh SM_DemoDivider_2...
+[2019.07.26-04.35.24:736][171]LogStaticMesh: Built static mesh [0.01s] /Game/ChameleonDemo/Meshes/SM_DemoDivider_2.SM_DemoDivider_2
+[2019.07.26-04.35.24:749][171]LogMaterial: Display: Missing cached shader map for material M_DemoRoomTiles, compiling. 
+[2019.07.26-04.35.24:749][171]LogMaterial: Warning: U:\Unreal Projects\StarWarsVR 4.21\Content\ChameleonDemo\Materials\M_DemoRoomTiles.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.07.26-04.35.24:749][171]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.07.26-04.35.24:752][171]LogMaterial: Display: Missing cached shader map for material M_DemoRoomTiles, compiling. 
+[2019.07.26-04.35.24:752][171]LogMaterial: Warning: U:\Unreal Projects\StarWarsVR 4.21\Content\ChameleonDemo\Materials\M_DemoRoomTiles.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.07.26-04.35.24:752][171]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.07.26-04.35.24:754][171]LogStaticMesh: Building static mesh SM_DemoRoomU...
+[2019.07.26-04.35.24:761][171]LogStaticMesh: Built static mesh [0.01s] /Game/ChameleonDemo/Meshes/SM_DemoRoomU.SM_DemoRoomU
+[2019.07.26-04.35.24:771][171]LogStaticMesh: Building static mesh SM_DemoRoomU2...
+[2019.07.26-04.35.24:779][171]LogStaticMesh: Built static mesh [0.01s] /Game/ChameleonDemo/Meshes/SM_DemoRoomU2.SM_DemoRoomU2
+[2019.07.26-04.35.24:783][171]LogStaticMesh: Building static mesh SM_DemoRoomL...
+[2019.07.26-04.35.24:786][171]LogStaticMesh: Built static mesh [0.00s] /Game/ChameleonDemo/Meshes/SM_DemoRoomL.SM_DemoRoomL
+[2019.07.26-04.35.24:791][171]LogStaticMesh: Building static mesh SM_DemoRoomU_Hole...
+[2019.07.26-04.35.24:803][171]LogStaticMesh: Built static mesh [0.01s] /Game/ChameleonDemo/Meshes/SM_DemoRoomU_Hole.SM_DemoRoomU_Hole
+[2019.07.26-04.35.24:813][171]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2019.07.26-04.35.24:843][171]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.07.26-04.35.24:843][171]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.07.26-04.35.24:843][171]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.07.26-04.35.24:843][171]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.07.26-04.35.24:843][171]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.07.26-04.35.24:843][171]LogStaticMesh: Building static mesh SM_Base...
+[2019.07.26-04.35.24:911][171]LogStaticMesh: Built static mesh [0.07s] /Game/ChameleonDemo/Meshes/SM_Base.SM_Base
+[2019.07.26-04.35.25:013][171]LogStaticMesh: Building static mesh SM_Base2...
+[2019.07.26-04.35.25:042][171]LogStaticMesh: Built static mesh [0.03s] /Game/ChameleonDemo/Meshes/SM_Base2.SM_Base2
+[2019.07.26-04.35.25:052][171]LogStaticMesh: Warning: SM_Base2 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2019.07.26-04.35.25:052][171]LogStaticMesh: Warning: SM_Base2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.07.26-04.35.25:081][171]LogStaticMesh: Building static mesh SM_Base_FlatWall...
+[2019.07.26-04.35.25:083][171]LogStaticMesh: Built static mesh [0.00s] /Game/ChameleonDemo/Meshes/SM_Base_FlatWall.SM_Base_FlatWall
+[2019.07.26-04.35.25:088][171]LogStaticMesh: Building static mesh SM_BaseRoom...
+[2019.07.26-04.35.25:205][171]LogStaticMesh: Built static mesh [0.12s] /Game/ChameleonDemo/Meshes/SM_BaseRoom.SM_BaseRoom
+[2019.07.26-04.35.25:384][171]LogStaticMesh: Building static mesh SM_NamePlate...
+[2019.07.26-04.35.25:388][171]LogStaticMesh: Built static mesh [0.00s] /Game/ChameleonDemo/Meshes/SM_NamePlate.SM_NamePlate
+[2019.07.26-04.35.25:393][171]LogMaterial: Display: Missing cached shader map for material M_ChameleonXWatermark_Mat, compiling. 
+[2019.07.26-04.35.25:393][171]LogMaterial: Warning: U:\Unreal Projects\StarWarsVR 4.21\Content\ChameleonDemo\Materials\M_ChameleonXWatermark_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.07.26-04.35.25:393][171]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.07.26-04.35.26:861][171]LogMaterial: Display: Missing cached shader map for material M_ChameleonXLogo_Mat, compiling. 
+[2019.07.26-04.35.26:861][171]LogMaterial: Warning: U:\Unreal Projects\StarWarsVR 4.21\Content\ChameleonDemo\Materials\M_ChameleonXLogo_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.07.26-04.35.26:861][171]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.07.26-04.35.26:864][171]LogMaterial: Display: Missing cached shader map for material MonitorCalibration_edited_Mat, compiling. 
+[2019.07.26-04.35.26:864][171]LogMaterial: Warning: U:\Unreal Projects\StarWarsVR 4.21\Content\ChameleonDemo\Materials\MonitorCalibration_edited_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.07.26-04.35.26:864][171]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.07.26-04.35.26:869][171]LogMaterial: Display: Missing cached shader map for material M_Toy_Cow, compiling. 
+[2019.07.26-04.35.26:869][171]LogMaterial: Warning: U:\Unreal Projects\StarWarsVR 4.21\Content\ChameleonDemo\Materials\M_Toy_Cow.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.07.26-04.35.26:869][171]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.07.26-04.35.26:872][171]LogMaterial: Display: Missing cached shader map for material M_Toy_Cow, compiling. 
+[2019.07.26-04.35.26:872][171]LogMaterial: Warning: U:\Unreal Projects\StarWarsVR 4.21\Content\ChameleonDemo\Materials\M_Toy_Cow.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.07.26-04.35.26:872][171]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.07.26-04.35.26:873][171]LogStaticMesh: Building static mesh SM_Toy_Cow...
+[2019.07.26-04.35.26:886][171]LogStaticMesh: Built static mesh [0.01s] /Game/ChameleonDemo/Meshes/SM_Toy_Cow.SM_Toy_Cow
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_Emissive_Inst_Inst.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_Emissive_Inst_Inst1.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_Emissive_Inst_Inst2.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_Emissive_Inst_Inst3.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_Glass.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_Glass_Inst.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_LightFunction_Flicker.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_LightTube.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_LightTube_Inst.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_RoomEntrance.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_RoomEntrance_Inst.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_RoomNumbers.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_RoomNumbers_Inst.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_Toy_Cow.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_Trans.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_Base.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_Base2.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_BaseRoom.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_Base_FlatWall.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_DemoDivider_1.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_DemoDivider_2.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_DemoRoomBackWall.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_DemoRoomBackWall2.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_DemoRoomClamp.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_DemoRoomClamp2.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_DemoRoomL.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_DemoRoomLTrim.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_DemoRoomTrim.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_DemoRoomTrim2.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_DemoRoomTrimAdd.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_DemoRoomU.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_DemoRoomU2.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_DemoRoomU_Hole.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_NamePlate.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_Toy_Cow.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_URoom_Wall.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Meshes/SM_URoom_Wall2.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Textures/T_ChameleonXLogo.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Textures/T_ChameleonXWatermark.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Textures/T_MonitorCalibration.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Textures/T_Pattern_M.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Textures/T_RoomTiles_M.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Textures/T_RoomTiles_N.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Textures/T_Toy_Cow_M.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Textures/T_Toy_Cow_N.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Textures/T_UE4_LOGO_CARD.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Textures/T_UnrealEngineDecal.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Textures/T_WASD.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/UI/SumFXChameleonHUD.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/UI/SumFXChameleonInfo.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Blueprints/BP_CDemoRoom.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Blueprints/BP_DemoDisplay.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Blueprints/BP_MagicTransitionsAnimator.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Blueprints/BP_SonarAnimator.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Blueprints/ChameleonDemoCharacter.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Blueprints/DemoRoomStruct.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Blueprints/FirstPersonGameMode.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Blueprints/RoomDescription.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/ChameleonDemoHall.umap'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/ChameleonDemoHall_BuiltData.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_ChameleonLight.uasset'
+[2019.07.26-04.35.40:453][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_ChameleonLight_Inst.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_ChameleonXLogo_Mat.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_ChameleonXWatermark_Mat.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_DefaultDecalMaterial.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_DemoRoomTiles.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_DemoRoomTiles_Inst.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_DemoWall.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_DemoWallPattern.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_DemoWallPattern_Inst.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_DemoWallPattern_Inst_Mirrored.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_DemoWallPattern_NoText.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_DemoWall_Inst.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_DemoWall_Inst2.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_DemoWall_Inst_3.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_DemoWall_Inst_4.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_DemoWall_Inst_BaseFloor_Inst.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_DemoWall_Inst_NamePlate.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_DemoWall_MattPlastic.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_Emissive.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_Emissive_Inst.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/M_Emissive_Inst1.uasset'
+[2019.07.26-04.35.40:454][171]SourceControl: rm 'Content/ChameleonDemo/Materials/MonitorCalibration_edited_Mat.uasset'
+[2019.07.26-04.35.40:600][172]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.26-04.35.40:991][172]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Lightsaber/Maps/Test' took 0.023
+[2019.07.26-04.35.40:993][172]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Lightsaber/Blueprints/BP_MotionControllerPawn] ([1] browsable assets)...
+[2019.07.26-04.35.40:994][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lightsaber/Blueprints/BP_MotionControllerPawn]
+[2019.07.26-04.35.41:165][172]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/BP_MotionControllerPawn_Auto1F109FA7A4965549CA9C3AF8AF8AE744A.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/Autosaves/Game/Lightsaber/Blueprints/BP_MotionControllerPawn_Auto1.uasset'
+[2019.07.26-04.35.41:166][172]LogFileHelpers: Auto-saving content packages took 0.175
+[2019.07.26-04.35.46:984][753]LogSlate: Window 'Save Content' being destroyed
+[2019.07.26-04.35.47:290][753]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/BP_MotionControllerPawn088FCACA42EA2BB8572E64858A0F019D.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/BP_MotionControllerPawn.uasset'
+[2019.07.26-04.40.43:942][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.26-04.43.12:594][440]LogLinker: Warning: Can't find file '/Game/Lightsaber/Sound/AmbientSounds/AmbientMusic_Cue'
+[2019.07.26-04.43.12:594][440]LogLinker: Warning: Can't find file for asset '/Game/Lightsaber/Sound/AmbientSounds/AmbientMusic_Cue' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset.
+[2019.07.26-04.43.12:594][440]LoadErrors: Error: /Game/BF2_Assets/Characters/Grievous/VRGrievousAnimBP : Can't find file for asset. /Game/Lightsaber/Sound/AmbientSounds/AmbientMusic_Cue
+[2019.07.26-04.43.12:595][440]LogLinker: Warning: Can't find file '/Game/Lightsaber/Sound/AmbientSounds/AmbientMusic_Cue'
+[2019.07.26-04.43.12:595][440]LogLinker: Warning: Can't find file for asset '/Game/Lightsaber/Sound/AmbientSounds/AmbientMusic_Cue' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset.
+[2019.07.26-04.43.12:599][440]LogLinker: Warning: Can't find file '/Game/Lightsaber/Sound/AmbientSounds/AmbientMusic_Cue'
+[2019.07.26-04.43.12:599][440]LoadErrors: Failed to load /Game/Lightsaber/Sound/AmbientSounds/AmbientMusic_Cue.AmbientMusic_Cue Referenced by K2Node_CallFunction_21
+[2019.07.26-04.43.12:599][440]LogLinker: Warning: Can't find file for asset '/Game/Lightsaber/Sound/AmbientSounds/AmbientMusic_Cue' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset.
+[2019.07.26-04.43.12:688][440]LogLinker: Warning: Can't find file '/Game/Lightsaber/Sound/AmbientSounds/AmbientMusic_Cue'
+[2019.07.26-04.43.12:688][440]LogLinker: Warning: Can't find file for asset '/Game/Lightsaber/Sound/AmbientSounds/AmbientMusic_Cue' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset.
+[2019.07.26-04.43.12:688][440]LoadErrors: Error: /Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous : Can't find file for asset. /Game/Lightsaber/Sound/AmbientSounds/AmbientMusic_Cue
+[2019.07.26-04.43.12:688][440]LogLinker: Warning: Can't find file '/Game/Lightsaber/Sound/AmbientSounds/AmbientMusic_Cue'
+[2019.07.26-04.43.12:688][440]LogLinker: Warning: Can't find file for asset '/Game/Lightsaber/Sound/AmbientSounds/AmbientMusic_Cue' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset.
+[2019.07.26-04.43.12:802][440]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.07.26-04.43.12:802][440]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/StarterContent/Props/SM_TableRound.uasset.
+[2019.07.26-04.43.12:803][440]LoadErrors: Error: /Game/StarterContent/Props/SM_TableRound : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound
+[2019.07.26-04.43.12:803][440]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.07.26-04.43.12:803][440]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/StarterContent/Props/SM_TableRound.uasset.
+[2019.07.26-04.43.12:813][440]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.07.26-04.43.12:813][440]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound.M_TableRound Referenced by SM_TableRound
+[2019.07.26-04.43.12:813][440]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading NULL.
+[2019.07.26-04.43.12:813][440]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.07.26-04.43.12:813][440]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading NULL.
+[2019.07.26-04.43.13:162][440]LogAIModule: Creating AISystem for world VRCharTest
+[2019.07.26-04.43.13:268][440]LogAssetEditorManager: Opening Asset editor for World /Game/Lightsaber/Maps/VRCharTest.VRCharTest
+[2019.07.26-04.43.13:299][440]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Maps/VRCharTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.26-04.43.13:299][440]LightingResults: New page: Lighting Build
+[2019.07.26-04.43.13:300][440]LoadErrors: New page: Loading map: VRCharTest.umap
+[2019.07.26-04.43.13:311][440]MapCheck: New page: Map Check
+[2019.07.26-04.43.13:311][440]LightingResults: New page: Lighting Build
+[2019.07.26-04.43.13:529][440]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.26-04.43.13:605][440]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.26-04.43.13:605][440]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2019.07.26-04.43.13:605][440]LogFileHelpers: Loading map 'VRCharTest' took 0.308
+[2019.07.26-04.43.28:879][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.26-04.43.39:149][248]LogTemp: Repeating last play command: VR Preview
+[2019.07.26-04.43.39:185][248]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.07.26-04.43.39:187][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.26-04.43.39:189][248]PIE: New page: PIE session: VRCharTest (Jul 25, 2019, 8:43:39 PM)
+[2019.07.26-04.43.39:208][248]LogPlayLevel: Creating play world package: /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest
+[2019.07.26-04.43.39:217][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008594s)
+[2019.07.26-04.43.39:217][248]LogAIModule: Creating AISystem for world VRCharTest
+[2019.07.26-04.43.39:218][248]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2019.07.26-04.43.39:218][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lightsaber/Maps/VRCharTest.VRCharTest to /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest (0.010342s)
+[2019.07.26-04.43.39:340][248]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.26-04.43.39:348][248]LogInit: FAudioDevice initialized.
+[2019.07.26-04.43.39:357][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.26-04.43.39:547][248]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.07.26-04.43.39:547][248]LogLoad: Game class is 'GameModeBase'
+[2019.07.26-04.43.39:574][248]LogWorld: Bringing World /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest up for play (max tick rate 0) at 2019.07.26-00.43.39
+[2019.07.26-04.43.39:582][248]LogWorld: Bringing up level for play took: 0.010796
+[2019.07.26-04.43.39:656][248]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.07.26-04.43.39:669][248]PIE: Play in editor start time for /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest -0.153
+[2019.07.26-04.43.39:669][248]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.07.26-04.43.39:746][250]LogRenderer: Reallocating scene render targets to support 3704x2056 Format 26 NumSamples 1 (Frame:1).
+[2019.07.26-04.43.42:294][444]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.26-04.43.49:230][ 60]Cmd: LevelEditor.ToggleImmersive
+[2019.07.26-04.43.49:361][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.26-04.44.28:163][542]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.07.26-04.44.28:279][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.26-04.44.28:395][542]LogSlate: Window 'StarWarsVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.26-04.44.28:475][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.26-04.44.28:475][542]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.07.26-04.44.28:536][543]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.07.26-04.44.33:772][699]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.26-04.44.34:967][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.26-04.44.39:925][929]LogTemp: Repeating last play command: VR Preview
+[2019.07.26-04.44.39:953][929]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.07.26-04.44.39:953][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.26-04.44.39:953][929]PIE: New page: PIE session: VRCharTest (Jul 25, 2019, 8:44:39 PM)
+[2019.07.26-04.44.39:953][929]LogPlayLevel: Creating play world package: /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest
+[2019.07.26-04.44.39:959][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005765s)
+[2019.07.26-04.44.39:959][929]LogAIModule: Creating AISystem for world VRCharTest
+[2019.07.26-04.44.39:959][929]LogPlayLevel: PIE: World Init took: (0.000439s)
+[2019.07.26-04.44.39:959][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lightsaber/Maps/VRCharTest.VRCharTest to /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest (0.006314s)
+[2019.07.26-04.44.40:033][929]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.26-04.44.40:041][929]LogInit: FAudioDevice initialized.
+[2019.07.26-04.44.40:047][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.26-04.44.40:158][929]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.07.26-04.44.40:158][929]LogLoad: Game class is 'GameModeBase'
+[2019.07.26-04.44.40:161][929]LogWorld: Bringing World /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest up for play (max tick rate 0) at 2019.07.26-00.44.40
+[2019.07.26-04.44.40:161][929]LogWorld: Bringing up level for play took: 0.002498
+[2019.07.26-04.44.40:178][929]PIE: Play in editor start time for /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest 0.356
+[2019.07.26-04.44.40:179][929]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.07.26-04.44.48:509][672]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.07.26-04.44.48:625][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.26-04.44.48:667][672]LogSlate: Window 'StarWarsVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.26-04.44.48:744][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.26-04.44.48:744][672]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.07.26-04.44.48:785][673]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.07.26-04.44.54:381][733]LogTemp: Repeating last play command: VR Preview
+[2019.07.26-04.44.54:410][733]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.07.26-04.44.54:410][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.26-04.44.54:410][733]PIE: New page: PIE session: VRCharTest (Jul 25, 2019, 8:44:54 PM)
+[2019.07.26-04.44.54:410][733]LogPlayLevel: Creating play world package: /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest
+[2019.07.26-04.44.54:416][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005650s)
+[2019.07.26-04.44.54:417][733]LogAIModule: Creating AISystem for world VRCharTest
+[2019.07.26-04.44.54:417][733]LogPlayLevel: PIE: World Init took: (0.000434s)
+[2019.07.26-04.44.54:417][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lightsaber/Maps/VRCharTest.VRCharTest to /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest (0.006180s)
+[2019.07.26-04.44.54:494][733]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.26-04.44.54:501][733]LogInit: FAudioDevice initialized.
+[2019.07.26-04.44.54:511][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.26-04.44.54:625][733]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.07.26-04.44.54:625][733]LogLoad: Game class is 'GameModeBase'
+[2019.07.26-04.44.54:628][733]LogWorld: Bringing World /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest up for play (max tick rate 0) at 2019.07.26-00.44.54
+[2019.07.26-04.44.54:628][733]LogWorld: Bringing up level for play took: 0.002644
+[2019.07.26-04.44.54:644][733]PIE: Play in editor start time for /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest 0.822
+[2019.07.26-04.44.54:644][733]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.07.26-04.44.57:354][972]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.26-04.45.47:913][828]LogBlueprintUserMessages: [BP_CloneAI_C_0] Clone DEAD
+[2019.07.26-04.45.47:957][830]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.07.26-04.46.11:507][300]LogBlueprintUserMessages: [BP_CloneAI_C_2] Clone DEAD
+[2019.07.26-04.46.22:020][ 47]LogBlueprintUserMessages: [BP_CloneAI_C_1] Clone DEAD
+[2019.07.26-04.47.18:277][185]LogBlueprintUserMessages: [BP_CloneAI_C_5] Clone DEAD
+[2019.07.26-04.47.22:281][316]LogBlueprintUserMessages: [BP_CloneAI_C_3] Clone DEAD
+[2019.07.26-04.47.24:602][417]LogBlueprintUserMessages: [BP_CloneAI_C_4] Clone DEAD
+[2019.07.26-04.47.27:948][601]LogBlueprintUserMessages: [BP_CloneAI_C_6] Clone DEAD
+[2019.07.26-04.47.53:346][964]LogBlueprintUserMessages: [BP_CloneAI_C_7] Clone DEAD
+[2019.07.26-04.48.29:380][171]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.07.26-04.48.29:496][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.26-04.48.29:539][171]LogSlate: Window 'StarWarsVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.26-04.48.29:621][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.26-04.48.29:622][171]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.07.26-04.48.29:662][172]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.07.26-04.53.39:808][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.26-04.57.43:739][469]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Lightsaber/Maps/VRCharTest' took 0.024
+[2019.07.26-05.06.41:262][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.26-05.07.26:436][959]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2019.07.26-05.07.28:435][959]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2019.07.26-05.07.28:445][959]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:140 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.07.26-05.07.28:445][959]LogD3D11RHI: [Aftermath] GDynamicRHI=00000256F2048100, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.07.26-05.07.28:472][959]LogWindows: Windows GetLastError: The operation completed successfully. (0)

@@ -1,0 +1,1036 @@
+﻿Log file open, 06/08/19 13:07:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: StarWarsVR
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.553934
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ParticleText
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogPluginManager: Mounting plugin OpenVRExpansionPlugin
+LogPluginManager: Mounting plugin VRExpansionPlugin
+LogStreaming: Display: Took  0.112s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: U:/UnrealEngine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.08-17.07.12:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.08-17.07.12:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.08-17.07.12:054][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.08-17.07.12:063][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.08-17.07.12:063][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.08-17.07.12:064][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.08-17.07.12:065][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.08-17.07.12:080][  0]LogHAL: Display: Platform has ~ 16 GB [17104732160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.08-17.07.12:082][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.08-17.07.12:082][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.08-17.07.12:082][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.08-17.07.12:083][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.08-17.07.12:085][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.08-17.07.12:085][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.08-17.07.12:086][  0]LogInit: Computer: DESKTOP-G3P6UN7
+[2019.06.08-17.07.12:086][  0]LogInit: User: stott
+[2019.06.08-17.07.12:086][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.06.08-17.07.12:086][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.08-17.07.12:086][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.08-17.07.12:086][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.08-17.07.12:086][  0]LogMemory: Process Physical Memory: 106.19 MB used, 106.19 MB peak
+[2019.06.08-17.07.12:086][  0]LogMemory: Process Virtual Memory: 89.19 MB used, 89.19 MB peak
+[2019.06.08-17.07.12:086][  0]LogMemory: Physical Memory: 4148.46 MB used,  12163.88 MB free, 16312.34 MB total
+[2019.06.08-17.07.12:086][  0]LogMemory: Virtual Memory: 4681.03 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.06.08-17.07.12:391][  0]LogInit: Using OS detected language (en-US).
+[2019.06.08-17.07.12:391][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.08-17.07.12:395][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.08-17.07.12:750][  0]LogStreaming: Display: Took  0.362s to InitEngineTextLocalization.
+[2019.06.08-17.07.12:751][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.08-17.07.12:859][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.08-17.07.12:859][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.08-17.07.17:412][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.08-17.07.17:479][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.06.08-17.07.17:479][  0]LogD3D11RHI:       8010/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.06.08-17.07.17:481][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.08-17.07.17:481][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.08-17.07.17:481][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.08-17.07.17:486][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.08-17.07.17:486][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.08-17.07.17:486][  0]LogWindows: EnumDisplayDevices:
+[2019.06.08-17.07.17:486][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2019.06.08-17.07.17:486][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.06.08-17.07.17:487][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.06.08-17.07.17:487][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.06.08-17.07.17:487][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.08-17.07.17:487][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.06.08-17.07.17:487][  0]LogD3D11RHI:   Driver Version: 430.64 (internal:26.21.14.3064, unified:430.64)
+[2019.06.08-17.07.17:487][  0]LogD3D11RHI:      Driver Date: 5-5-2019
+[2019.06.08-17.07.17:488][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.06.08-17.07.17:517][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.08-17.07.17:601][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.08-17.07.17:646][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2019.06.08-17.07.18:052][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.08-17.07.18:067][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.08-17.07.18:085][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.08-17.07.18:101][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.08-17.07.18:120][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.08-17.07.18:136][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.08-17.07.18:151][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.08-17.07.18:184][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.08-17.07.18:195][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-17.07.18:269][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.08-17.07.18:345][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.08-17.07.18:345][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.08-17.07.18:370][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.08-17.07.18:370][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.08-17.07.18:385][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.08-17.07.18:400][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.08-17.07.18:416][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.08-17.07.18:439][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.08-17.07.18:483][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.08-17.07.18:483][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.08-17.07.18:483][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.08-17.07.18:823][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../Unreal Projects/StarWarsVR 4.21/Intermediate/Shaders/WorkingDirectory/2792/).
+[2019.06.08-17.07.18:823][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/stott/AppData/Local/Temp/UnrealShaderWorkingDir/5464C5744F72D7195A632A8AA13AD631/'.
+[2019.06.08-17.07.18:824][  0]LogXGEController: Cleaning working directory: C:/Users/stott/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.08-17.07.18:825][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.08-17.07.18:825][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.08-17.07.18:825][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.08-17.07.20:108][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.08-17.07.20:346][  0]LogDerivedDataCache: Loaded boot cache 0.24s 85MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.08-17.07.20:346][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.08-17.07.20:346][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/StarWarsVR 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.08-17.07.20:346][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.08-17.07.20:346][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/StarWarsVR 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.08-17.07.20:346][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.08-17.07.20:370][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.08-17.07.20:370][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.08-17.07.20:370][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.08-17.07.20:384][  0]LogDerivedDataCache: Using Local data cache path C:/Users/stott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.08-17.07.20:384][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.08-17.07.20:384][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.08-17.07.20:426][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.08-17.07.20:433][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.08-17.07.20:443][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.08-17.07.20:677][  0]LogAssetRegistry: FAssetRegistry took 0.0320 seconds to start up
+[2019.06.08-17.07.21:111][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.08-17.07.21:553][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.08-17.07.21:583][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.08-17.07.21:584][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.08-17.07.21:585][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.08-17.07.21:585][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.08-17.07.21:633][  0]LogNetVersion: StarWarsVR 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3577061868)
+[2019.06.08-17.07.21:858][  0]LogNavigation: Error: [/Script/Engine.NavigationSystem] found in the DefaultEngine.ini file. This class has been moved. Please rename that section to [/Script/NavigationSystem.NavigationSystemV1]
+[2019.06.08-17.07.22:833][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.070432 seconds
+[2019.06.08-17.07.22:838][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.08-17.07.22:838][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.06.08-17.07.22:838][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.08-17.07.25:953][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.08-17.07.25:976][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.08-17.07.26:897][  0]SourceControl: Source control is disabled
+[2019.06.08-17.07.26:898][  0]SourceControl: Source control is disabled
+[2019.06.08-17.07.26:915][  0]SourceControl: Source control is disabled
+[2019.06.08-17.07.26:926][  0]SourceControl: Source control is disabled
+[2019.06.08-17.07.27:534][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.08-17.07.27:782][  0]LogOcInput: OculusInput pre-init called
+[2019.06.08-17.07.27:868][  0]LogPython: Python Scripts search path: ../../../../../Unreal Projects/StarWarsVR 4.21/Content/Scripts
+[2019.06.08-17.07.27:868][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2019.06.08-17.07.27:868][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2019.06.08-17.07.28:388][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2019.06.08-17.07.28:388][  0]LogPython: 
+
+[2019.06.08-17.07.28:388][  0]LogPython: U:\UnrealEngine\UE_4.21\Engine\Plugins\UnrealEnginePython\
+[2019.06.08-17.07.28:388][  0]LogPython: 
+
+[2019.06.08-17.07.28:721][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2019.06.08-17.07.28:721][  0]LogPython: 
+
+[2019.06.08-17.07.28:723][  0]LogPython: ue_site Python module successfully imported
+[2019.06.08-17.07.29:062][  0]LogEngine: Initializing Engine...
+[2019.06.08-17.07.29:069][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-FCDAF386
+[2019.06.08-17.07.29:075][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2019.06.08-17.07.29:075][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.08-17.07.29:075][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.08-17.07.29:075][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.08-17.07.29:582][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.08-17.07.29:636][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.08-17.07.29:709][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.08-17.07.29:734][  0]LogInit: FAudioDevice initialized.
+[2019.06.08-17.07.29:734][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.08-17.07.29:803][  0]LogDerivedDataCache: Saved boot cache 0.07s 85MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.08-17.07.29:808][  0]LogInit: Texture streaming: Enabled
+[2019.06.08-17.07.29:849][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.08-17.07.29:944][  0]LogInit: Transaction tracking system initialized
+[2019.06.08-17.07.30:040][  0]BlueprintLog: New page: Editor Load
+[2019.06.08-17.07.30:354][  0]LocalizationService: Localization service is disabled
+[2019.06.08-17.07.31:314][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.08-17.07.31:315][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.08-17.07.31:315][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.08-17.07.31:315][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.08-17.07.31:315][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.08-17.07.31:315][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.08-17.07.31:315][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.08-17.07.31:976][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR 4.21/Content/' took 0.03s
+[2019.06.08-17.07.31:976][  0]SourceControl: Source control is disabled
+[2019.06.08-17.07.31:978][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.08-17.07.31:982][  0]LightingResults: New page: Lighting Build
+[2019.06.08-17.07.31:989][  0]MapCheck: New page: Map Check
+[2019.06.08-17.07.31:989][  0]LightingResults: New page: Lighting Build
+[2019.06.08-17.07.32:772][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; please replace or remove it.
+[2019.06.08-17.07.32:772][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; Please use the Motion Source property instead of Hand
+[2019.06.08-17.07.32:798][  0]LogBlueprint: Warning: [Compiler BP_MotionController] [0024.62] Compile of BP_MotionController successful, but with 2 Warning(s) [in 43 ms] (/Game/Lightsaber/Blueprints/BP_MotionController.BP_MotionController)
+[2019.06.08-17.07.34:979][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.06.08-17.07.34:979][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/StarterContent/Shapes/Shape_Cylinder.uasset.
+[2019.06.08-17.07.34:979][  0]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Cylinder : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall
+[2019.06.08-17.07.34:980][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.06.08-17.07.34:980][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/StarterContent/Shapes/Shape_Cylinder.uasset.
+[2019.06.08-17.07.34:980][  0]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Cylinder : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall
+[2019.06.08-17.07.35:987][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.06.08-17.07.35:987][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.06.08-17.07.35:987][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2019.06.08-17.07.35:987][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.06.08-17.07.35:987][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.06.08-17.07.35:987][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.06.08-17.07.35:987][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2019.06.08-17.07.35:987][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.06.08-17.07.37:934][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2019.06.08-17.07.37:934][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2019.06.08-17.07.37:934][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2019.06.08-17.07.37:966][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2019.06.08-17.07.38:069][  0]LogAIModule: Creating AISystem for world Test
+[2019.06.08-17.07.38:275][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.08-17.07.38:321][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.08-17.07.38:321][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2019.06.08-17.07.38:321][  0]LogFileHelpers: Loading map 'Test' took 6.344
+[2019.06.08-17.07.38:445][  0]LogCollectionManager: Loaded 0 collections in 0.000800 seconds
+[2019.06.08-17.07.38:481][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR 4.21/Saved/Collections/' took 0.01s
+[2019.06.08-17.07.38:482][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR 4.21/Content/Developers/stott/Collections/' took 0.01s
+[2019.06.08-17.07.38:482][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR 4.21/Content/Collections/' took 0.00s
+[2019.06.08-17.07.38:482][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.08-17.07.38:488][  0]LogContentBrowser: Native class hierarchy populated in 0.0059 seconds. Added 2727 classes and 641 folders.
+[2019.06.08-17.07.38:493][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.08-17.07.38:502][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:508][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:517][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:527][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:531][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:537][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:540][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:544][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:548][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:552][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:555][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:559][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:562][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:566][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:570][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:574][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:592][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:595][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:599][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:616][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:619][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:623][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:627][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:630][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-17.07.38:770][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.08-17.07.38:809][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-17.07.38:814][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-17.07.38:819][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-17.07.38:824][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-17.07.38:839][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.06.08-17.07.39:026][  0]LogSlate: Took 0.003748 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.08-17.07.39:031][  0]LogSlate: Took 0.003865 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.08-17.07.39:035][  0]LogSlate: Took 0.003165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.08-17.07.39:156][  0]LogRenderer: Reallocating scene render targets to support 1304x1280 Format 26 NumSamples 1 (Frame:1).
+[2019.06.08-17.07.39:401][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.08-17.07.39:401][  0]LogLoad: (Engine Initialization) Total time: 31.22 seconds
+[2019.06.08-17.07.39:401][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.08-17.07.39:459][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.08-17.07.39:464][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-17.07.39:487][  0]LogSlate: Took 0.012257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.08-17.07.39:816][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2019.06.08-17.07.40:052][  7]LogAssetRegistry: Asset discovery search completed in 19.3980 seconds
+[2019.06.08-17.07.40:055][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.08-17.07.40:055][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2019.06.08-17.07.41:438][113]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-17.07.41:484][113]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-17.07.42:347][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.08.28:964][899]LogSlate: Window 'Source Control Login' being destroyed
+[2019.06.08-17.08.48:364][925]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BF2_Assets/Characters/Maul/VRMaulAnimBP.VRMaulAnimBP
+[2019.06.08-17.08.48:406][925]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.06.08-17.08.48:631][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.08-17.08.48:640][925]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.06.08-17.08.49:074][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:074][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:074][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:074][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:074][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:074][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:075][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:075][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:075][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:075][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:075][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:078][925]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.08-17.08.49:078][925]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.08-17.08.49:078][925]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.08-17.08.49:079][925]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.08-17.08.49:079][925]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.08-17.08.49:079][925]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.08-17.08.49:079][925]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.08-17.08.49:083][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:083][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:083][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:083][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:083][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:083][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:083][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:083][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:083][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:083][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:083][925]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.08-17.08.49:087][925]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.08-17.08.49:087][925]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.08-17.08.49:087][925]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.08-17.08.49:087][925]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.08-17.08.49:087][925]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.08-17.08.49:087][925]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.08-17.08.49:087][925]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.08-17.08.49:152][925]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2019.06.08-17.08.49:756][925]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.08-17.08.50:062][925]LogSlate: Took 0.003600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.08-17.08.50:118][925]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.06.08-17.08.50:194][925]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.08-17.08.50:218][926]LogSlate: Took 0.004132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.08-17.08.53:253][113]LogAnimation: Warning: AnimBP ABP_hand_right_C is incompatible with skeleton SK_hand_left_Skeleton, removing AnimBP from actor.
+[2019.06.08-17.09.14:968][ 86]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/BF2_Assets/Characters/Grievous/anims/idlepose.idlepose
+[2019.06.08-17.09.14:992][ 86]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.08-17.09.15:024][ 86]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.08-17.09.15:367][ 86]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.08-17.09.23:699][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.09.23:881][768]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/idlepose8EFBEC3D4B58EA5B98BAF3AF2EDDFF62.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/idlepose.uasset'
+[2019.06.08-17.09.24:787][834]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/idleposeC9634789469C355D3B94929A087CF41E.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/idlepose.uasset'
+[2019.06.08-17.09.30:891][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.09.30:979][344]LogSlate: Window 'idlepose' being destroyed
+[2019.06.08-17.09.31:025][344]LogSlate: Window 'idlepose' being destroyed
+[2019.06.08-17.10.00:484][ 81]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BF2_Assets/Characters/Grievous/VRGrievousBP.VRGrievousBP
+[2019.06.08-17.10.00:493][ 81]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.08-17.10.00:700][ 81]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.08-17.10.00:988][ 81]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.08-17.10.18:011][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.10.22:462][554]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP
+[2019.06.08-17.10.22:479][554]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.08-17.10.22:693][554]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.08-17.10.23:017][554]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.08-17.10.37:515][732]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BF2_Assets/Characters/Maul/VRMaulAnimBP.VRMaulAnimBP
+[2019.06.08-17.10.37:532][732]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.08-17.10.37:733][732]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.08-17.10.38:032][732]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.08-17.11.30:237][345]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.SKEL_VRGrievous_C' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Maul/VRGrievous.PackageMetaData'
+[2019.06.08-17.11.30:237][345]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.VRGrievous_C' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Maul/VRGrievous.PackageMetaData'
+[2019.06.08-17.11.30:237][345]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.SKEL_VRGrievous_C:ReceiveBeginPlay' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Maul/VRGrievous.PackageMetaData'
+[2019.06.08-17.11.30:237][345]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.SKEL_VRGrievous_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Maul/VRGrievous.PackageMetaData'
+[2019.06.08-17.11.30:237][345]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.SKEL_VRGrievous_C:ReceiveTick' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Maul/VRGrievous.PackageMetaData'
+[2019.06.08-17.11.30:237][345]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.SKEL_VRGrievous_C:InpAxisKeyEvt_MotionController_Left_Thumbstick_Y_K2Node_InputAxisKeyEvent_0' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Maul/VRGrievous.PackageMetaData'
+[2019.06.08-17.11.30:237][345]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.SKEL_VRGrievous_C:InpAxisKeyEvt_MotionController_Left_Thumbstick_X_K2Node_InputAxisKeyEvent_2' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Maul/VRGrievous.PackageMetaData'
+[2019.06.08-17.11.30:237][345]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.SKEL_VRGrievous_C:Maul' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Maul/VRGrievous.PackageMetaData'
+[2019.06.08-17.11.30:237][345]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.SKEL_VRGrievous_C:UserConstructionScript' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Maul/VRGrievous.PackageMetaData'
+[2019.06.08-17.11.30:237][345]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.VRGrievous_C:Maul' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Maul/VRGrievous.PackageMetaData'
+[2019.06.08-17.11.30:237][345]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.VRGrievous_C:ReceiveTick' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Maul/VRGrievous.PackageMetaData'
+[2019.06.08-17.11.30:238][345]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.VRGrievous_C:UserConstructionScript' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/Maul/VRGrievous.PackageMetaData'
+[2019.06.08-17.11.30:366][345]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous0D95069E4765EEC94B6B158F4EF5FFE3.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.11.32:044][425]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.VRGrievous
+[2019.06.08-17.11.44:440][441]BlueprintLog: New page: Compile VRGrievous
+[2019.06.08-17.11.44:732][441]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous719432F347ACC3F1DA6369BA78A97302.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.11.45:228][470]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousA604C7F341D66BF8EC6B3FA92567AC83.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.11.50:331][997]LogAnimation: Warning: AnimBP VRMaulAnimBP_C is incompatible with skeleton Grievous_Skeleton, removing AnimBP from actor.
+[2019.06.08-17.11.50:332][997]LogAnimation: Warning: AnimBP VRMaulAnimBP_C is incompatible with skeleton Grievous_Skeleton, removing AnimBP from actor.
+[2019.06.08-17.11.50:332][997]LogAnimation: Warning: AnimBP VRMaulAnimBP_C is incompatible with skeleton Grievous_Skeleton, removing AnimBP from actor.
+[2019.06.08-17.11.58:213][634]BlueprintLog: New page: Compile VRGrievous
+[2019.06.08-17.11.58:496][634]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous84A47516435AB1770DF6EB9411A80A2F.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.11.58:843][652]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousA7A259754061FDE0A1F38C8CEAB43D55.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.12.05:391][321]BlueprintLog: New page: Compile VRGrievous
+[2019.06.08-17.12.05:675][321]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous7269AD7344DB15814BA34D987543B4B5.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.12.06:504][379]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous2779A63F4136C462557521AC76A9BB0B.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.12.28:283][444]BlueprintLog: New page: Compile VRGrievousBP
+[2019.06.08-17.12.28:295][444]LogBlueprint: Warning: [Compiler VRGrievousBP] Could not find a variable named "MC_Trans_L" in 'VRGrievousBP_C'.
+Make sure 'VRGrievousBP_C' has been compiled for  Set MC_Trans_L
+[2019.06.08-17.12.28:295][444]LogBlueprint: Warning: [Compiler VRGrievousBP] Could not find a variable named "MC_Trans_R" in 'VRGrievousBP_C'.
+Make sure 'VRGrievousBP_C' has been compiled for  Set MC_Trans_R
+[2019.06.08-17.12.28:295][444]LogBlueprint: Warning: [Compiler VRGrievousBP] Could not find a variable named "IsInAir?" in 'VRGrievousBP_C'.
+Make sure 'VRGrievousBP_C' has been compiled for  Set IsInAir?
+[2019.06.08-17.12.28:295][444]LogBlueprint: Warning: [Compiler VRGrievousBP] Could not find a variable named "Speed" in 'VRGrievousBP_C'.
+Make sure 'VRGrievousBP_C' has been compiled for  Set Speed
+[2019.06.08-17.12.28:296][444]LogBlueprint: Warning: [Compiler VRGrievousBP] Could not find a variable named "MC_Trans_L" in 'VRGrievousBP_C'.
+Make sure 'VRGrievousBP_C' has been compiled for  Set MC_Trans_L
+[2019.06.08-17.12.28:296][444]LogBlueprint: Warning: [Compiler VRGrievousBP] Could not find a variable named "MC_Trans_R" in 'VRGrievousBP_C'.
+Make sure 'VRGrievousBP_C' has been compiled for  Set MC_Trans_R
+[2019.06.08-17.12.28:296][444]LogBlueprint: Warning: [Compiler VRGrievousBP] Could not find a variable named "IsInAir?" in 'VRGrievousBP_C'.
+Make sure 'VRGrievousBP_C' has been compiled for  Set IsInAir?
+[2019.06.08-17.12.28:296][444]LogBlueprint: Warning: [Compiler VRGrievousBP] Could not find a variable named "Speed" in 'VRGrievousBP_C'.
+Make sure 'VRGrievousBP_C' has been compiled for  Set Speed
+[2019.06.08-17.12.28:297][444]LogBlueprint: Error: [Compiler VRGrievousBP] The property associated with  MC Trans L  could not be found in '/Game/BF2_Assets/Characters/Grievous/VRGrievousBP.VRGrievousBP_C'
+[2019.06.08-17.12.28:297][444]LogBlueprint: Error: [Compiler VRGrievousBP] The property associated with  MC Trans R  could not be found in '/Game/BF2_Assets/Characters/Grievous/VRGrievousBP.VRGrievousBP_C'
+[2019.06.08-17.12.28:297][444]LogBlueprint: Error: [Compiler VRGrievousBP] The property associated with  Speed  could not be found in '/Game/BF2_Assets/Characters/Grievous/VRGrievousBP.VRGrievousBP_C'
+[2019.06.08-17.12.28:297][444]LogBlueprint: Error: [Compiler VRGrievousBP] The property associated with  Is in Air?  could not be found in '/Game/BF2_Assets/Characters/Grievous/VRGrievousBP.VRGrievousBP_C'
+[2019.06.08-17.12.28:562][444]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousBP83F85F264D4257853ECA51BB3B49CB7E.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousBP.uasset'
+[2019.06.08-17.12.28:610][444]LogBlueprint: Warning: [Compiler VRGrievousBP] [0320.43] Compile of VRGrievousBP failed. 4 Fatal Issue(s) 8 Warning(s) [in 327 ms] (/Game/BF2_Assets/Characters/Grievous/VRGrievousBP.VRGrievousBP)
+[2019.06.08-17.13.22:985][109]BlueprintLog: New page: Compile VRGrievousBP
+[2019.06.08-17.13.22:992][109]LogBlueprint: Warning: [Compiler VRGrievousBP] Could not find a variable named "MC_Trans_L" in 'VRGrievousBP_C'.
+Make sure 'VRGrievousBP_C' has been compiled for  Set MC_Trans_L
+[2019.06.08-17.13.22:993][109]LogBlueprint: Warning: [Compiler VRGrievousBP] Could not find a variable named "MC_Trans_R" in 'VRGrievousBP_C'.
+Make sure 'VRGrievousBP_C' has been compiled for  Set MC_Trans_R
+[2019.06.08-17.13.22:993][109]LogBlueprint: Warning: [Compiler VRGrievousBP] Could not find a variable named "IsInAir?" in 'VRGrievousBP_C'.
+Make sure 'VRGrievousBP_C' has been compiled for  Set IsInAir?
+[2019.06.08-17.13.22:993][109]LogBlueprint: Warning: [Compiler VRGrievousBP] Could not find a variable named "Speed" in 'VRGrievousBP_C'.
+Make sure 'VRGrievousBP_C' has been compiled for  Set Speed
+[2019.06.08-17.13.22:993][109]LogBlueprint: Warning: [Compiler VRGrievousBP] Could not find a variable named "MC_Trans_L" in 'VRGrievousBP_C'.
+Make sure 'VRGrievousBP_C' has been compiled for  Set MC_Trans_L
+[2019.06.08-17.13.22:993][109]LogBlueprint: Warning: [Compiler VRGrievousBP] Could not find a variable named "MC_Trans_R" in 'VRGrievousBP_C'.
+Make sure 'VRGrievousBP_C' has been compiled for  Set MC_Trans_R
+[2019.06.08-17.13.22:993][109]LogBlueprint: Warning: [Compiler VRGrievousBP] Could not find a variable named "IsInAir?" in 'VRGrievousBP_C'.
+Make sure 'VRGrievousBP_C' has been compiled for  Set IsInAir?
+[2019.06.08-17.13.22:993][109]LogBlueprint: Warning: [Compiler VRGrievousBP] Could not find a variable named "Speed" in 'VRGrievousBP_C'.
+Make sure 'VRGrievousBP_C' has been compiled for  Set Speed
+[2019.06.08-17.13.22:994][109]LogBlueprint: Error: [Compiler VRGrievousBP] The property associated with  MC Trans R  could not be found in '/Game/BF2_Assets/Characters/Grievous/VRGrievousBP.VRGrievousBP_C'
+[2019.06.08-17.13.22:994][109]LogBlueprint: Error: [Compiler VRGrievousBP] The property associated with  MC Trans L  could not be found in '/Game/BF2_Assets/Characters/Grievous/VRGrievousBP.VRGrievousBP_C'
+[2019.06.08-17.13.22:994][109]LogBlueprint: Error: [Compiler VRGrievousBP] The property associated with  Speed  could not be found in '/Game/BF2_Assets/Characters/Grievous/VRGrievousBP.VRGrievousBP_C'
+[2019.06.08-17.13.22:994][109]LogBlueprint: Error: [Compiler VRGrievousBP] The property associated with  Is in Air?  could not be found in '/Game/BF2_Assets/Characters/Grievous/VRGrievousBP.VRGrievousBP_C'
+[2019.06.08-17.13.23:267][109]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousBP7DDA70DE49B2CCC670D09488A6FCF3A1.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousBP.uasset'
+[2019.06.08-17.13.23:314][109]LogBlueprint: Warning: [Compiler VRGrievousBP] [0375.14] Compile of VRGrievousBP failed. 4 Fatal Issue(s) 8 Warning(s) [in 328 ms] (/Game/BF2_Assets/Characters/Grievous/VRGrievousBP.VRGrievousBP)
+[2019.06.08-17.13.40:899][922]BlueprintLog: New page: Compile VRGrievousBP
+[2019.06.08-17.13.41:173][922]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousBP5E4398DB429C146CBEA406A956BEA914.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousBP.uasset'
+[2019.06.08-17.13.42:133][993]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousBPC97C9063411775FB01FABAB1DAFC941E.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousBP.uasset'
+[2019.06.08-17.14.27:710][195]BlueprintLog: New page: Compile VRGrievousBP
+[2019.06.08-17.14.28:002][195]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousBP8C3B7BBE40549963D8ADF7A0918D855D.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousBP.uasset'
+[2019.06.08-17.14.30:135][357]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousBP8C5D6A4F4C8D25B8926503B96F3CD701.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousBP.uasset'
+[2019.06.08-17.14.30:597][385]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousBP2816AB7547061F6AA40B20A7F44711E3.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousBP.uasset'
+[2019.06.08-17.14.33:862][642]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousB4DE69A64A44E6C30EF6E899B01E2672.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.14.34:389][680]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.08-17.14.40:961][380]BlueprintLog: New page: Compile VRGrievous
+[2019.06.08-17.14.41:247][380]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous776C2BC242EA0D20A88FB5A1A4BEAF83.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.14.42:312][459]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous318C806E4845BD37412C62BBAE3643DC.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.15.11:203][769]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP07DBBBF9463F123D91B0F1B1EF79B5E8.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.15.11:206][769]LogMetaData: Removing '/Game/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.VRGrievousAnimBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/BF2_Assets/Characters/Grievous/VRGrievousBP.PackageMetaData'
+[2019.06.08-17.15.11:206][769]LogMetaData: Removing '/Game/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.SKEL_VRGrievousAnimBP_C' ref from Metadata '/Game/BF2_Assets/Characters/Grievous/VRGrievousBP.PackageMetaData'
+[2019.06.08-17.15.11:206][769]LogMetaData: Removing '/Game/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.VRGrievousAnimBP_C' ref from Metadata '/Game/BF2_Assets/Characters/Grievous/VRGrievousBP.PackageMetaData'
+[2019.06.08-17.15.11:206][769]LogMetaData: Removing '/Game/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.VRGrievousAnimBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BF2_Assets/Characters/Grievous/VRGrievousBP.PackageMetaData'
+[2019.06.08-17.15.11:206][769]LogMetaData: Removing '/Game/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.VRGrievousAnimBP:EventGraph.K2Node_CallFunction_2' ref from Metadata '/Game/BF2_Assets/Characters/Grievous/VRGrievousBP.PackageMetaData'
+[2019.06.08-17.15.11:341][769]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP1D80A19545CB4C47BE39D98D833177FE.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.15.11:923][769]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous6D98F2904DD1EFA1E28F80AD06C4CAA9.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.15.18:939][304]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.08-17.15.24:864][922]BlueprintLog: New page: Compile VRGrievous
+[2019.06.08-17.15.25:154][922]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous7915E98C4F2F3CB72320DD97DB29435F.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.15.25:447][936]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousF9778DAB4D78789E31AB7FA6BCAAAECC.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.15.28:922][295]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.08-17.15.34:122][842]BlueprintLog: New page: Compile VRGrievous
+[2019.06.08-17.15.34:414][842]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous04EC9A894926A8D191F098BF8D94C703.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.15.35:154][893]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous6FE238BF4A4051887776EB90B015EAB7.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.15.39:005][224]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP00EBC1F74161B17295AC7BAD3EE6D8E0.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.15.42:730][538]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/BF2_Assets/Characters/Grievous/anims/idlepose.idlepose
+[2019.06.08-17.15.42:735][538]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.08-17.15.42:767][538]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.08-17.15.43:135][538]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.08-17.15.47:505][884]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/idleposeED1561E846B144990C5500B45FAA0C85.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/idlepose.uasset'
+[2019.06.08-17.15.53:973][372]BlueprintLog: New page: Compile VRGrievous
+[2019.06.08-17.15.54:728][410]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousACF2F1FB4131C8537379199D46EA1E46.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.16.04:381][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-17.16.08:116][541]BlueprintLog: New page: Compile VRGrievous
+[2019.06.08-17.16.08:414][541]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous119894C54E4B44509998C9B93CBA94B3.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.16.09:292][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.16.09:461][619]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous84B877834AC525F94D380AB7069B8DBB.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.16.11:355][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.16.13:098][897]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/idleposeFF6A02E0425F8361A4D5A3B7EC3ED565.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/idlepose.uasset'
+[2019.06.08-17.16.15:732][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.17.22:490][809]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.08-17.17.22:789][809]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP2192AA274673D4704083A59E62385CA0.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.17.23:797][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.17.23:918][893]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPDF2DD2004286A44A3D3E749893B87598.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.17.24:261][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-17.17.28:613][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.18.00:637][321]LogEditorTransaction: Undo Move Node
+[2019.06.08-17.18.00:842][321]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.08-17.18.00:843][321]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.08-17.18.00:849][321]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.08-17.18.01:826][378]LogEditorTransaction: Undo Create Reroute Node
+[2019.06.08-17.18.02:038][378]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.08-17.18.02:039][378]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.08-17.18.02:040][378]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.08-17.18.46:223][ 82]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.08-17.18.46:524][ 82]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPF81CC7B647403F8B2E21AEBF86DD896F.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.18.51:236][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.19.06:234][932]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.08-17.19.06:538][932]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPACBDB3F447E68689BAA6DBAC13FD726E.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.19.06:873][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.19.07:040][963]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPBC408E30450FF417674E2A90DBA9AE89.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.19.09:140][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.24.34:368][504]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.08-17.24.34:701][504]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP4B5A1150436285DD3325F0AD62B83804.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.24.36:311][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.24.36:499][638]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP8A028C4B4893E79ABA3388AF85B9F445.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.24.38:429][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-17.24.44:976][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.24.50:978][787]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.08-17.24.51:657][819]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP023B3BFE457CC0A07AE5B0BBA19C844B.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.24.51:897][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.24.52:057][840]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPD3AE76ED48E554EC880FD39BA0D1584F.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.24.52:329][858]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-17.24.52:411][858]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP4F4CD2B94359B802FB185FA1EF14079E.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.24.53:025][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.24.56:097][150]BlueprintLog: New page: Compile VRGrievous
+[2019.06.08-17.24.57:210][217]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.08-17.25.02:117][729]BlueprintLog: New page: Compile VRGrievous
+[2019.06.08-17.25.02:417][729]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous38D9F68845A3DF2DE376689C4A09462C.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.25.03:150][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.25.03:295][789]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousDB84E0AC41DD1B330AF832A8E8CC90BA.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.25.08:842][223]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-17.25.16:055][999]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/BF2_Assets/Characters/Grievous/Grievous.Grievous
+[2019.06.08-17.25.16:060][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.08-17.25.16:099][999]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.08-17.25.25:055][689]LogSlate: Window 'Grievous' being destroyed
+[2019.06.08-17.25.25:101][689]LogSlate: Window 'Grievous' being destroyed
+[2019.06.08-17.25.26:011][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.25.48:848][583]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.06.08-17.25.48:848][583]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/StarterContent/Props/SM_TableRound.uasset.
+[2019.06.08-17.25.48:849][583]LoadErrors: Error: /Game/StarterContent/Props/SM_TableRound : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound
+[2019.06.08-17.25.48:849][583]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.06.08-17.25.48:849][583]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/StarterContent/Props/SM_TableRound.uasset.
+[2019.06.08-17.25.48:862][583]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.06.08-17.25.48:862][583]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound.M_TableRound Referenced by SM_TableRound
+[2019.06.08-17.25.48:862][583]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading NULL.
+[2019.06.08-17.25.48:862][583]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.06.08-17.25.48:862][583]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading NULL.
+[2019.06.08-17.25.49:039][583]LogAIModule: Creating AISystem for world VRCharTest
+[2019.06.08-17.25.49:049][583]LogAssetEditorManager: Opening Asset editor for World /Game/Lightsaber/Maps/VRCharTest.VRCharTest
+[2019.06.08-17.25.49:076][583]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Maps/VRCharTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.08-17.25.49:076][583]LightingResults: New page: Lighting Build
+[2019.06.08-17.25.49:076][583]LoadErrors: New page: Loading map: VRCharTest.umap
+[2019.06.08-17.25.49:083][583]MapCheck: New page: Map Check
+[2019.06.08-17.25.49:083][583]LightingResults: New page: Lighting Build
+[2019.06.08-17.25.49:226][583]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.08-17.25.49:290][583]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.08-17.25.49:290][583]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.071ms to complete.
+[2019.06.08-17.25.49:290][583]LogFileHelpers: Loading map 'VRCharTest' took 0.215
+[2019.06.08-17.25.50:565][682]LogEditorViewport: Clicking on Actor (LMB): VRMaul_C (VRMaul)
+[2019.06.08-17.25.51:464][739]Cmd: DELETE
+[2019.06.08-17.25.51:464][739]Cmd: ACTOR DELETE
+[2019.06.08-17.25.51:472][739]LogEditorActor: Deleted Actor: VRMaul_C
+[2019.06.08-17.25.51:528][739]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2019.06.08-17.25.54:599][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.26.16:570][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.26.16:663][965]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.VRGrievous
+[2019.06.08-17.26.29:152][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.26.29:225][859]BlueprintLog: New page: Compile VRGrievous
+[2019.06.08-17.26.29:687][859]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous4FD83775493886E8087D3B92C5C99921.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.26.30:226][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.26.30:385][898]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous7A435C47462B398BBC5D5F9818D61182.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.26.30:744][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.26.30:909][932]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous44524F4C44F85A19DE67C089AC6CB4C5.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.26.31:219][951]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-17.26.31:286][951]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous6FCDDF1641189F38D47C1CAD18862C82.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.26.32:334][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.26.32:484][ 36]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous0BB3A54643C65674DD0A0EAE8FFFD55C.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.26.32:818][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-17.26.39:516][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.26.39:598][539]BlueprintLog: New page: Compile VRGrievous
+[2019.06.08-17.26.40:061][539]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous238A16C44E370BF5FE3C7BA716B7E1AB.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.26.40:449][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.26.40:624][569]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAA4703E34B1BD232318D5CAB027094AE.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.26.40:996][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-17.26.41:061][593]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous5210C35F43CB4B87C15DBD8E4782DD9C.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.26.41:233][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.26.41:391][613]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous93D24FC0487543BD37BA13BFDD547343.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.26.44:231][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.26.44:425][837]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous2525ABC2449841418D4843A6F14F3EA6.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.26.45:503][915]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-17.26.57:437][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.26.57:574][811]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous1E317D554A313D012FC391A7C25A36F3.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.26.57:979][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.26.58:100][842]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous9B408DF04F0425DC836808AEA958CF62.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.26.58:380][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-17.26.58:446][859]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous6F4B64524B13447E725F11A52A42E193.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.26.58:617][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.26.58:784][880]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous5137753A42687458CA82669E0577F91A.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.27.08:652][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.27.08:812][627]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousB6ADA42A4C0CF6C509CED9AAB84C0688.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.27.09:250][655]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-17.27.09:316][655]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievous5FEC2FFC4931990AD057A6A7029DDE55.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.27.09:475][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.27.09:623][672]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousA9EBB06C4FB098D56D68F9BBB5D5963D.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.uasset'
+[2019.06.08-17.27.11:195][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.27.11:259][790]LogSlate: Window 'VRGrievous' being destroyed
+[2019.06.08-17.27.11:305][790]LogSlate: Window 'VRGrievous' being destroyed
+[2019.06.08-17.27.12:993][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.27.15:227][970]LogSlate: Window 'Save Content' being destroyed
+[2019.06.08-17.27.15:277][970]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-17.27.15:323][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightsaber/Maps/VRCharTest" FILE="../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Maps/VRCharTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.08-17.27.15:525][970]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRCharTestBAD0D57849027F5A67687FBE85FC38BC.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Maps/VRCharTest.umap'
+[2019.06.08-17.27.15:566][970]LogFileHelpers: Saving map 'VRCharTest' took 0.243
+[2019.06.08-17.27.16:865][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.27.23:432][639]LogSlate: Window 'Save Content' being destroyed
+[2019.06.08-17.27.23:529][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightsaber/Maps/VRCharTest" FILE="../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Maps/VRCharTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.08-17.27.23:735][639]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRCharTest8B1C251249E5A97844A8B38339ACD987.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Maps/VRCharTest.umap'
+[2019.06.08-17.27.23:773][639]LogFileHelpers: Saving map 'VRCharTest' took 0.245
+[2019.06.08-17.28.11:515][446]LogTemp: Repeating last play command: VR Preview
+[2019.06.08-17.28.11:541][446]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.06.08-17.28.11:541][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.08-17.28.11:541][446]PIE: New page: PIE session: VRCharTest (Jun 8, 2019, 9:28:11 AM)
+[2019.06.08-17.28.11:554][446]LogPlayLevel: Creating play world package: /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest
+[2019.06.08-17.28.11:557][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002472s)
+[2019.06.08-17.28.11:557][446]LogAIModule: Creating AISystem for world VRCharTest
+[2019.06.08-17.28.11:557][446]LogPlayLevel: PIE: World Init took: (0.000393s)
+[2019.06.08-17.28.11:557][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lightsaber/Maps/VRCharTest.VRCharTest to /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest (0.003042s)
+[2019.06.08-17.28.11:655][446]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.08-17.28.11:663][446]LogInit: FAudioDevice initialized.
+[2019.06.08-17.28.11:668][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-17.28.11:793][446]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.06.08-17.28.11:793][446]LogLoad: Game class is 'GameModeBase'
+[2019.06.08-17.28.11:795][446]LogWorld: Bringing World /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest up for play (max tick rate 0) at 2019.06.08-13.28.11
+[2019.06.08-17.28.11:802][446]LogWorld: Bringing up level for play took: 0.008178
+[2019.06.08-17.28.11:822][446]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.06.08-17.28.11:826][446]PIE: Play in editor start time for /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest 0.175
+[2019.06.08-17.28.11:826][446]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.06.08-17.28.11:882][448]LogRenderer: Reallocating scene render targets to support 3704x2056 Format 26 NumSamples 1 (Frame:1).
+[2019.06.08-17.29.40:971][335]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.06.08-17.29.41:089][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-17.29.41:135][335]LogSlate: Window 'StarWarsVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-17.29.41:206][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-17.29.41:207][335]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.06.08-17.29.41:250][336]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.06.08-17.29.48:576][960]LogEditorViewport: Clicking on Actor (LMB): VRGrievous_C (VRGrievous)
+[2019.06.08-17.29.51:829][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-17.29.51:923][202]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.VRGrievous
+[2019.06.08-17.29.58:656][675]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.VRGrievousAnimBP
+[2019.06.08-17.29.58:664][675]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.08-17.29.58:869][675]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.08-17.29.59:183][675]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.08-17.30.40:846][636]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.08-17.30.41:165][636]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPB36D16214D9DE7CB19D323BDEEE9BB9A.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.30.42:536][721]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP05196FA34635C5FC1DD29EB9047C789E.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.32.04:936][655]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.08-17.32.05:255][655]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP76D881AA4823A8F070437FA5E9FC716F.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.32.06:192][708]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP2A636B9D467F8F5F1BFEF6A0FE99B54A.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.32.08:807][897]LogSlate: Window 'VRGrievousAnimBP' being destroyed
+[2019.06.08-17.32.08:854][897]LogSlate: Window 'VRGrievousAnimBP' being destroyed
+[2019.06.08-17.32.13:888][256]LogTemp: Repeating last play command: VR Preview
+[2019.06.08-17.32.13:909][256]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.06.08-17.32.13:909][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.08-17.32.13:909][256]PIE: New page: PIE session: VRCharTest (Jun 8, 2019, 9:32:13 AM)
+[2019.06.08-17.32.13:909][256]LogPlayLevel: Creating play world package: /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest
+[2019.06.08-17.32.13:911][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002455s)
+[2019.06.08-17.32.13:912][256]LogAIModule: Creating AISystem for world VRCharTest
+[2019.06.08-17.32.13:912][256]LogPlayLevel: PIE: World Init took: (0.000437s)
+[2019.06.08-17.32.13:912][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lightsaber/Maps/VRCharTest.VRCharTest to /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest (0.002976s)
+[2019.06.08-17.32.14:006][256]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.08-17.32.14:013][256]LogInit: FAudioDevice initialized.
+[2019.06.08-17.32.14:019][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-17.32.14:134][256]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.06.08-17.32.14:134][256]LogLoad: Game class is 'GameModeBase'
+[2019.06.08-17.32.14:136][256]LogWorld: Bringing World /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest up for play (max tick rate 0) at 2019.06.08-13.32.14
+[2019.06.08-17.32.14:136][256]LogWorld: Bringing up level for play took: 0.001645
+[2019.06.08-17.32.14:152][256]PIE: Play in editor start time for /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest 0.501
+[2019.06.08-17.32.14:152][256]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.06.08-17.32.54:538][732]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.06.08-17.32.54:659][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-17.32.54:696][732]LogSlate: Window 'StarWarsVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-17.32.54:768][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-17.32.54:769][732]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.06.08-17.32.54:812][733]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.06.08-17.33.08:113][829]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.VRGrievousAnimBP
+[2019.06.08-17.33.08:122][829]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.08-17.33.08:338][829]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.08-17.33.08:658][829]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.08-17.33.21:674][760]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.08-17.33.21:986][760]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP9309F4A4449459712A1A6CBF0777B91C.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.08-17.33.24:380][942]LogTemp: Repeating last play command: VR Preview
+[2019.06.08-17.33.24:401][942]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.06.08-17.33.24:401][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.08-17.33.24:401][942]PIE: New page: PIE session: VRCharTest (Jun 8, 2019, 9:33:24 AM)
+[2019.06.08-17.33.24:401][942]LogPlayLevel: Creating play world package: /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest
+[2019.06.08-17.33.24:403][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002442s)
+[2019.06.08-17.33.24:404][942]LogAIModule: Creating AISystem for world VRCharTest
+[2019.06.08-17.33.24:404][942]LogPlayLevel: PIE: World Init took: (0.000399s)
+[2019.06.08-17.33.24:404][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lightsaber/Maps/VRCharTest.VRCharTest to /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest (0.002925s)
+[2019.06.08-17.33.24:475][942]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.08-17.33.24:483][942]LogInit: FAudioDevice initialized.
+[2019.06.08-17.33.24:489][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-17.33.24:606][942]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.06.08-17.33.24:606][942]LogLoad: Game class is 'GameModeBase'
+[2019.06.08-17.33.24:608][942]LogWorld: Bringing World /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest up for play (max tick rate 0) at 2019.06.08-13.33.24
+[2019.06.08-17.33.24:608][942]LogWorld: Bringing up level for play took: 0.001424
+[2019.06.08-17.33.24:626][942]PIE: Play in editor start time for /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest 0.975
+[2019.06.08-17.33.24:626][942]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.06.08-17.35.27:237][718]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.06.08-17.35.27:360][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-17.35.27:400][718]LogSlate: Window 'StarWarsVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-17.35.27:476][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-17.35.27:476][718]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.06.08-17.35.27:517][719]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.06.08-17.35.31:787][912]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2019.06.08-17.35.33:787][912]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2019.06.08-17.35.33:801][912]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:140 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.06.08-17.35.33:801][912]LogD3D11RHI: [Aftermath] GDynamicRHI=0000013443D2C180, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.06.08-17.35.33:801][912]LogWindows: Windows GetLastError: The operation completed successfully. (0)

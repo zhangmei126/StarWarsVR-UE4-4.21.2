@@ -1,0 +1,762 @@
+﻿Log file open, 06/10/19 03:01:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: StarWarsVR
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.513857
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ParticleText
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogPluginManager: Mounting plugin OpenVRExpansionPlugin
+LogPluginManager: Mounting plugin VRExpansionPlugin
+LogStreaming: Display: Took  0.049s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: U:/UnrealEngine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.10-07.01.43:780][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.10-07.01.43:780][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.10-07.01.43:780][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.10-07.01.43:785][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-07.01.43:785][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.10-07.01.43:786][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.10-07.01.43:786][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.10-07.01.43:786][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.10-07.01.43:794][  0]LogHAL: Display: Platform has ~ 16 GB [17104732160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.10-07.01.43:794][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.10-07.01.43:794][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.10-07.01.43:794][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.10-07.01.43:795][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.10-07.01.43:795][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.10-07.01.43:795][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.10-07.01.43:795][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.10-07.01.43:795][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.10-07.01.43:795][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.10-07.01.43:795][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.10-07.01.43:795][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.10-07.01.43:795][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.10-07.01.43:795][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.10-07.01.43:795][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.10-07.01.43:795][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-07.01.43:795][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.10-07.01.43:795][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.10-07.01.43:795][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.10-07.01.43:795][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.10-07.01.43:795][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.10-07.01.43:795][  0]LogInit: Computer: DESKTOP-G3P6UN7
+[2019.06.10-07.01.43:795][  0]LogInit: User: stott
+[2019.06.10-07.01.43:795][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.06.10-07.01.43:795][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.10-07.01.43:795][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.10-07.01.43:795][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.10-07.01.43:795][  0]LogMemory: Process Physical Memory: 105.84 MB used, 105.84 MB peak
+[2019.06.10-07.01.43:795][  0]LogMemory: Process Virtual Memory: 89.35 MB used, 89.35 MB peak
+[2019.06.10-07.01.43:795][  0]LogMemory: Physical Memory: 5740.75 MB used,  10571.59 MB free, 16312.34 MB total
+[2019.06.10-07.01.43:795][  0]LogMemory: Virtual Memory: 4681.03 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.06.10-07.01.43:806][  0]LogInit: Using OS detected language (en-US).
+[2019.06.10-07.01.43:806][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.10-07.01.43:807][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.10-07.01.44:066][  0]LogStreaming: Display: Took  0.260s to InitEngineTextLocalization.
+[2019.06.10-07.01.44:066][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.10-07.01.44:104][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.10-07.01.44:104][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.10-07.01.47:293][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.10-07.01.47:337][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.06.10-07.01.47:337][  0]LogD3D11RHI:       8010/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.06.10-07.01.47:339][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.10-07.01.47:339][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.10-07.01.47:339][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.10-07.01.47:343][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.10-07.01.47:343][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.10-07.01.47:343][  0]LogWindows: EnumDisplayDevices:
+[2019.06.10-07.01.47:343][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2019.06.10-07.01.47:343][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.06.10-07.01.47:344][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.06.10-07.01.47:344][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.06.10-07.01.47:344][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.10-07.01.47:344][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.06.10-07.01.47:344][  0]LogD3D11RHI:   Driver Version: 430.64 (internal:26.21.14.3064, unified:430.64)
+[2019.06.10-07.01.47:344][  0]LogD3D11RHI:      Driver Date: 5-5-2019
+[2019.06.10-07.01.47:344][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.06.10-07.01.47:377][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.10-07.01.47:394][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.10-07.01.47:437][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2019.06.10-07.01.47:643][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.10-07.01.47:651][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.10-07.01.47:659][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.10-07.01.47:667][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.10-07.01.47:675][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.10-07.01.47:683][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.10-07.01.47:691][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.10-07.01.47:700][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.10-07.01.47:703][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.10-07.01.47:751][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:751][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:751][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:751][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:751][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:751][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:751][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:752][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-07.01.47:752][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.10-07.01.47:803][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.10-07.01.47:803][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.10-07.01.47:818][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.10-07.01.47:818][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.10-07.01.47:825][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.10-07.01.47:833][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.10-07.01.47:841][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.10-07.01.47:850][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.10-07.01.47:879][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.10-07.01.47:879][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.10-07.01.47:879][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.10-07.01.47:904][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../Unreal Projects/StarWarsVR 4.21/Intermediate/Shaders/WorkingDirectory/17300/).
+[2019.06.10-07.01.47:904][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/stott/AppData/Local/Temp/UnrealShaderWorkingDir/6029AE024C2CDB4E3015BEAFA279C2D2/'.
+[2019.06.10-07.01.47:905][  0]LogXGEController: Cleaning working directory: C:/Users/stott/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.10-07.01.47:905][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.10-07.01.47:905][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.10-07.01.47:905][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.10-07.01.48:272][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.10-07.01.48:310][  0]LogDerivedDataCache: Loaded boot cache 0.04s 72MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.10-07.01.48:310][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.10-07.01.48:310][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/StarWarsVR 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.10-07.01.48:310][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.10-07.01.48:310][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/StarWarsVR 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.10-07.01.48:310][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.10-07.01.48:321][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.10-07.01.48:321][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.10-07.01.48:321][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.10-07.01.48:333][  0]LogDerivedDataCache: Using Local data cache path C:/Users/stott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.10-07.01.48:333][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.10-07.01.48:333][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.10-07.01.48:349][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.10-07.01.48:350][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.10-07.01.48:350][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.10-07.01.48:413][  0]LogAssetRegistry: FAssetRegistry took 0.0295 seconds to start up
+[2019.06.10-07.01.48:619][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.10-07.01.48:718][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.10-07.01.48:719][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.10-07.01.48:719][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.10-07.01.48:719][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.10-07.01.48:719][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.10-07.01.48:730][  0]LogNetVersion: StarWarsVR 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3577061868)
+[2019.06.10-07.01.48:771][  0]LogNavigation: Error: [/Script/Engine.NavigationSystem] found in the DefaultEngine.ini file. This class has been moved. Please rename that section to [/Script/NavigationSystem.NavigationSystemV1]
+[2019.06.10-07.01.49:072][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.053535 seconds
+[2019.06.10-07.01.49:076][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.10-07.01.49:076][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.06.10-07.01.49:076][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.10-07.01.49:609][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.10-07.01.49:621][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.10-07.01.50:069][  0]SourceControl: Source control is disabled
+[2019.06.10-07.01.50:069][  0]SourceControl: Source control is disabled
+[2019.06.10-07.01.50:070][  0]SourceControl: Source control is disabled
+[2019.06.10-07.01.50:070][  0]SourceControl: Source control is disabled
+[2019.06.10-07.01.50:196][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.10-07.01.50:334][  0]LogOcInput: OculusInput pre-init called
+[2019.06.10-07.01.50:343][  0]LogPython: Python Scripts search path: ../../../../../Unreal Projects/StarWarsVR 4.21/Content/Scripts
+[2019.06.10-07.01.50:343][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2019.06.10-07.01.50:343][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2019.06.10-07.01.50:417][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2019.06.10-07.01.50:417][  0]LogPython: 
+
+[2019.06.10-07.01.50:417][  0]LogPython: U:\UnrealEngine\UE_4.21\Engine\Plugins\UnrealEnginePython\
+[2019.06.10-07.01.50:417][  0]LogPython: 
+
+[2019.06.10-07.01.50:452][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2019.06.10-07.01.50:452][  0]LogPython: 
+
+[2019.06.10-07.01.50:453][  0]LogPython: ue_site Python module successfully imported
+[2019.06.10-07.01.50:583][  0]LogEngine: Initializing Engine...
+[2019.06.10-07.01.50:585][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-FCDAF386
+[2019.06.10-07.01.50:586][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.10-07.01.50:586][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.10-07.01.50:586][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.10-07.01.50:586][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.10-07.01.50:751][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.10-07.01.50:757][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.10-07.01.50:849][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.10-07.01.50:872][  0]LogInit: FAudioDevice initialized.
+[2019.06.10-07.01.50:873][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.10-07.01.50:933][  0]LogDerivedDataCache: Saved boot cache 0.06s 72MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.10-07.01.50:941][  0]LogInit: Texture streaming: Enabled
+[2019.06.10-07.01.50:950][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.10-07.01.50:950][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={8F4F9679-40BA-4E1E-8275-0681DDC361A7}
+[2019.06.10-07.01.50:958][  0]LogInit: Transaction tracking system initialized
+[2019.06.10-07.01.50:967][  0]BlueprintLog: New page: Editor Load
+[2019.06.10-07.01.50:998][  0]LocalizationService: Localization service is disabled
+[2019.06.10-07.01.51:344][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.10-07.01.51:345][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.10-07.01.51:345][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.10-07.01.51:345][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.10-07.01.51:345][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.10-07.01.51:345][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.10-07.01.51:345][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.10-07.01.51:413][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR 4.21/Content/' took 0.02s
+[2019.06.10-07.01.51:413][  0]SourceControl: Source control is disabled
+[2019.06.10-07.01.51:413][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.10-07.01.51:413][  0]LightingResults: New page: Lighting Build
+[2019.06.10-07.01.51:414][  0]MapCheck: New page: Map Check
+[2019.06.10-07.01.51:414][  0]LightingResults: New page: Lighting Build
+[2019.06.10-07.01.51:704][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; please replace or remove it.
+[2019.06.10-07.01.51:704][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; Please use the Motion Source property instead of Hand
+[2019.06.10-07.01.51:729][  0]LogBlueprint: Warning: [Compiler BP_MotionController] [0009.51] Compile of BP_MotionController successful, but with 2 Warning(s) [in 41 ms] (/Game/Lightsaber/Blueprints/BP_MotionController.BP_MotionController)
+[2019.06.10-07.01.52:439][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.06.10-07.01.52:439][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/StarterContent/Shapes/Shape_Cylinder.uasset.
+[2019.06.10-07.01.52:439][  0]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Cylinder : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall
+[2019.06.10-07.01.52:439][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.06.10-07.01.52:439][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/StarterContent/Shapes/Shape_Cylinder.uasset.
+[2019.06.10-07.01.52:439][  0]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Cylinder : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall
+[2019.06.10-07.01.52:671][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.06.10-07.01.52:671][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.06.10-07.01.52:671][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2019.06.10-07.01.52:671][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.06.10-07.01.52:671][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.06.10-07.01.52:671][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.06.10-07.01.52:671][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2019.06.10-07.01.52:671][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.06.10-07.01.53:719][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2019.06.10-07.01.53:719][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2019.06.10-07.01.53:719][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2019.06.10-07.01.53:719][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2019.06.10-07.01.53:807][  0]LogAIModule: Creating AISystem for world Test
+[2019.06.10-07.01.53:962][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.10-07.01.54:005][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.10-07.01.54:005][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2019.06.10-07.01.54:005][  0]LogFileHelpers: Loading map 'Test' took 2.592
+[2019.06.10-07.01.54:100][  0]LogCollectionManager: Loaded 0 collections in 0.000562 seconds
+[2019.06.10-07.01.54:124][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR 4.21/Saved/Collections/' took 0.01s
+[2019.06.10-07.01.54:124][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR 4.21/Content/Developers/stott/Collections/' took 0.01s
+[2019.06.10-07.01.54:124][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR 4.21/Content/Collections/' took 0.00s
+[2019.06.10-07.01.54:124][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.10-07.01.54:130][  0]LogContentBrowser: Native class hierarchy populated in 0.0061 seconds. Added 2727 classes and 641 folders.
+[2019.06.10-07.01.54:133][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.10-07.01.54:134][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:134][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:134][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:138][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:138][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:138][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:139][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:139][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:139][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:139][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-07.01.54:156][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.10-07.01.54:169][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-07.01.54:174][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-07.01.54:179][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-07.01.54:184][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-07.01.54:187][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.06.10-07.01.54:277][  0]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.10-07.01.54:278][  0]LogSlate: Took 0.000065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.10-07.01.54:278][  0]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.10-07.01.54:346][  0]LogRenderer: Reallocating scene render targets to support 1304x1280 Format 26 NumSamples 1 (Frame:1).
+[2019.06.10-07.01.54:544][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.10-07.01.54:544][  0]LogLoad: (Engine Initialization) Total time: 12.32 seconds
+[2019.06.10-07.01.54:544][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.10-07.01.54:606][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.10-07.01.54:608][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-07.01.54:614][  0]LogSlate: Took 0.000086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.10-07.01.55:053][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2019.06.10-07.01.55:232][  7]LogAssetRegistry: Asset discovery search completed in 6.8411 seconds
+[2019.06.10-07.01.55:234][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.10-07.01.55:234][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2019.06.10-07.01.57:931][175]LogSlate: Window 'Message Log' being destroyed
+[2019.06.10-07.01.57:978][175]LogSlate: Window 'Message Log' being destroyed
+[2019.06.10-07.01.58:604][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-07.02.04:771][817]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.VRGrievousAnimBP
+[2019.06.10-07.02.04:780][817]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.06.10-07.02.04:921][817]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.10-07.02.04:923][817]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.06.10-07.02.05:270][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:270][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:270][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:270][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:270][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:270][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:270][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:270][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:270][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:270][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:270][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:271][817]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-07.02.05:271][817]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-07.02.05:271][817]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-07.02.05:271][817]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-07.02.05:272][817]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-07.02.05:272][817]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-07.02.05:272][817]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-07.02.05:273][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:273][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:273][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:273][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:273][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:273][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:273][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:273][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:273][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:273][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:273][817]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-07.02.05:274][817]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-07.02.05:274][817]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-07.02.05:274][817]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-07.02.05:274][817]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-07.02.05:274][817]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-07.02.05:274][817]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-07.02.05:274][817]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-07.02.05:287][817]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2019.06.10-07.02.05:851][817]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.10-07.02.06:116][817]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.10-07.02.06:167][817]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.06.10-07.02.06:221][817]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.10-07.02.12:674][247]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.06.10-07.02.12:674][247]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/StarterContent/Props/SM_TableRound.uasset.
+[2019.06.10-07.02.12:674][247]LoadErrors: Error: /Game/StarterContent/Props/SM_TableRound : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound
+[2019.06.10-07.02.12:674][247]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.06.10-07.02.12:674][247]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/StarterContent/Props/SM_TableRound.uasset.
+[2019.06.10-07.02.12:684][247]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.06.10-07.02.12:684][247]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound.M_TableRound Referenced by SM_TableRound
+[2019.06.10-07.02.12:684][247]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading NULL.
+[2019.06.10-07.02.12:684][247]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.06.10-07.02.12:684][247]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading NULL.
+[2019.06.10-07.02.12:737][247]LogAIModule: Creating AISystem for world VRCharTest
+[2019.06.10-07.02.12:757][247]LogAssetEditorManager: Opening Asset editor for World /Game/Lightsaber/Maps/VRCharTest.VRCharTest
+[2019.06.10-07.02.12:789][247]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Maps/VRCharTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.10-07.02.12:789][247]LightingResults: New page: Lighting Build
+[2019.06.10-07.02.12:790][247]LoadErrors: New page: Loading map: VRCharTest.umap
+[2019.06.10-07.02.12:795][247]MapCheck: New page: Map Check
+[2019.06.10-07.02.12:796][247]LightingResults: New page: Lighting Build
+[2019.06.10-07.02.12:952][247]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.10-07.02.13:022][247]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.10-07.02.13:022][247]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2019.06.10-07.02.13:022][247]LogFileHelpers: Loading map 'VRCharTest' took 0.234
+[2019.06.10-07.02.17:522][503]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.10-07.02.40:061][913]LogAnimation: Warning: AnimBP ABP_hand_right_C is incompatible with skeleton SK_hand_left_Skeleton, removing AnimBP from actor.
+[2019.06.10-07.02.51:548][515]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.VRGrievous
+[2019.06.10-07.03.34:492][ 89]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/BF2_Assets/Characters/Grievous/sounds/unrelentingloop_Cue.unrelentingloop_Cue
+[2019.06.10-07.03.56:393][284]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/unrelentingloop_CueF1C419EF4C1BD2AA3ABD11AC8606D344.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/sounds/unrelentingloop_Cue.uasset'
+[2019.06.10-07.03.56:878][307]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/unrelentingloop_Cue37678C85460F6332CFC2249F78C99F5D.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/sounds/unrelentingloop_Cue.uasset'
+[2019.06.10-07.03.57:242][329]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/unrelentingloop_Cue7E932ECF471532821BE4E19C523DDE17.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/sounds/unrelentingloop_Cue.uasset'
+[2019.06.10-07.04.00:885][517]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/unrelentingloop_CueEAABE0F24F8D82A9127566B626839E61.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/sounds/unrelentingloop_Cue.uasset'
+[2019.06.10-07.04.02:761][625]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/unrelentingloop_CueF15CE7B9429825548F5F7D99D4052570.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/sounds/unrelentingloop_Cue.uasset'
+[2019.06.10-07.05.12:295][790]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.UnrelentingAdvance
+[2019.06.10-07.05.12:301][790]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.10-07.05.12:336][790]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.10-07.05.12:724][790]LogRenderer: Reallocating scene render targets to support 1528x1280 Format 26 NumSamples 1 (Frame:1).
+[2019.06.10-07.05.12:724][790]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.10-07.05.30:799][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-07.06.23:761][591]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.10-07.06.24:170][591]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPDDC23B204BFFFE8AE592CCB23ADD747D.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.06.25:007][630]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP9806B37B475DDA19E7A22084D680748A.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.06.37:076][282]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.10-07.06.37:842][304]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPADCA53124593703AF887E2811660ABA7.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.06.49:577][995]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.10-07.06.49:958][995]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP0F86268A4F677B52826C859B573FBA33.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.06.51:288][ 56]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP63301DB84102D7ED4EF4FAA99881239F.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.06.51:894][ 87]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP20C44F4644EB48664DB398BADDBB797E.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.06.52:577][124]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPD4C1E6DF4F23E4DE55F253859B2EC4B6.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.06.53:045][140]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP48EC6B8348BD9A7B948D09A6C0F800D5.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.06.53:483][159]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPCC651E4A41131852EC67E4B16D24A339.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.06.55:303][263]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP9FF3F1234DC0FB499B56C787D6637743.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.06.59:851][515]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPEEDAB219408C0AE94F60499F817ECDFD.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.07.00:424][544]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP4C95642748389C29FED085819826A1AB.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.07.29:081][526]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.10-07.07.29:467][526]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPB7B4D2734CDF35678ECDF0A60C577CA8.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.07.30:644][582]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP8799E8D341CFB9D5F49106B88F9BA23B.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.07.31:230][614]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP35B172D04352ABC4242CB0ABA92922F9.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.07.31:702][633]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPBE5D157B4F3989A54C27CD9D41003E3C.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.07.32:005][649]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP549042DF4E8D4A8BFE53A1BBB2FC9154.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.07.32:343][658]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPFEF046C54809C5EBEB699C9F49AB5640.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.07.32:940][688]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP11D264004157828B62FD4DA3C3AC0EB0.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.07.33:378][705]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPB34AB22E4D137930A38D6294F98C7F48.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.07.42:835][247]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP439047064E9F8E59310560B6DB6CFB6E.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-07.08.04:251][905]LogUObjectArray: Warning: Empty slot
+[2019.06.10-07.08.04:251][905]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.10-07.08.04:664][905]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.412 s
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: 
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: Stack: 
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ffe95f88304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ffe95f981ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ffe9454bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ffe935a769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ffe93560917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ffe96eb7c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ffe97104393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ffe96f12d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ffe96ee8a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ffe96edb263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ffed152dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ffed1520de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ffed15301eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ffed151ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007fff0224ca66 USER32.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007fff0224c582 USER32.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ffed1531746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ff7969c5546 UE4Editor.exe!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ff7969d596c UE4Editor.exe!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ff7969d59ea UE4Editor.exe!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ff7969e48da UE4Editor.exe!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007ff7969e659a UE4Editor.exe!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007fff02b97974 KERNEL32.DLL!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: [Callstack] 0x00007fff04e7a271 ntdll.dll!UnknownFunction []
+[2019.06.10-07.08.04:664][905]LogOutputDevice: Error: 
+[2019.06.10-07.08.04:672][905]LogStats:                SubmitErrorReport -  0.000 s

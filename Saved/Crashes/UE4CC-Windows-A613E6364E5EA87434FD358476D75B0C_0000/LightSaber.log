@@ -1,0 +1,1638 @@
+﻿Log file open, 04/27/19 20:50:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LightSaber
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.520194
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogStreaming: Display: Took  0.055s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: U:/UnrealEngine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.04.28-00.50.18:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.28-00.50.18:457][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.28-00.50.18:458][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.28-00.50.18:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.04.28-00.50.18:458][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.04.28-00.50.18:466][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.04.28-00.50.18:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.28-00.50.18:467][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.28-00.50.18:467][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.28-00.50.18:467][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.28-00.50.18:475][  0]LogHAL: Display: Platform has ~ 16 GB [17104732160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.28-00.50.18:475][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.28-00.50.18:475][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.28-00.50.18:475][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.04.28-00.50.18:475][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.28-00.50.18:476][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.28-00.50.18:476][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.04.28-00.50.18:476][  0]LogInit: Computer: DESKTOP-G3P6UN7
+[2019.04.28-00.50.18:476][  0]LogInit: User: stott
+[2019.04.28-00.50.18:476][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.04.28-00.50.18:476][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.04.28-00.50.18:476][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.04.28-00.50.18:476][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.28-00.50.18:476][  0]LogMemory: Process Physical Memory: 104.46 MB used, 104.46 MB peak
+[2019.04.28-00.50.18:476][  0]LogMemory: Process Virtual Memory: 95.04 MB used, 95.04 MB peak
+[2019.04.28-00.50.18:476][  0]LogMemory: Physical Memory: 6904.20 MB used,  9408.15 MB free, 16312.34 MB total
+[2019.04.28-00.50.18:476][  0]LogMemory: Virtual Memory: 4687.03 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.04.28-00.50.18:488][  0]LogInit: Using OS detected language (en-US).
+[2019.04.28-00.50.18:488][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.28-00.50.18:488][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.28-00.50.18:750][  0]LogStreaming: Display: Took  0.262s to InitEngineTextLocalization.
+[2019.04.28-00.50.18:750][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.28-00.50.18:781][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.28-00.50.18:781][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.28-00.50.24:462][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.28-00.50.24:506][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.04.28-00.50.24:506][  0]LogD3D11RHI:       8010/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.04.28-00.50.24:507][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.28-00.50.24:507][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.28-00.50.24:507][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.28-00.50.24:514][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.28-00.50.24:514][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.28-00.50.24:514][  0]LogWindows: EnumDisplayDevices:
+[2019.04.28-00.50.24:514][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2019.04.28-00.50.24:514][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.04.28-00.50.24:514][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.04.28-00.50.24:514][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.04.28-00.50.24:514][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.04.28-00.50.24:514][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.04.28-00.50.24:514][  0]LogD3D11RHI:   Driver Version: 425.31 (internal:25.21.14.2531, unified:425.31)
+[2019.04.28-00.50.24:515][  0]LogD3D11RHI:      Driver Date: 4-9-2019
+[2019.04.28-00.50.24:515][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.04.28-00.50.24:543][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.28-00.50.24:568][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.28-00.50.24:610][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2019.04.28-00.50.24:814][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.28-00.50.24:822][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.28-00.50.24:831][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.28-00.50.24:839][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.28-00.50.24:848][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.28-00.50.24:857][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.28-00.50.24:865][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.28-00.50.24:873][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.28-00.50.24:877][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-00.50.24:928][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.28-00.50.24:978][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.28-00.50.24:978][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.28-00.50.24:994][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.28-00.50.24:994][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.28-00.50.25:003][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.28-00.50.25:011][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.28-00.50.25:019][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.28-00.50.25:028][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.28-00.50.25:065][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.28-00.50.25:065][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.28-00.50.25:065][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.28-00.50.25:091][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Intermediate/Shaders/WorkingDirectory/9916/).
+[2019.04.28-00.50.25:091][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/stott/AppData/Local/Temp/UnrealShaderWorkingDir/333D52634FEC9A222D13AE81EB2C9F17/'.
+[2019.04.28-00.50.25:092][  0]LogXGEController: Cleaning working directory: C:/Users/stott/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.28-00.50.25:092][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.28-00.50.25:092][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.28-00.50.25:092][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.28-00.50.25:471][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.28-00.50.25:511][  0]LogDerivedDataCache: Loaded boot cache 0.04s 72MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.28-00.50.25:511][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.28-00.50.25:511][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.28-00.50.25:511][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.28-00.50.25:511][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.28-00.50.25:511][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.28-00.50.25:522][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.28-00.50.25:522][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.28-00.50.25:522][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.28-00.50.25:534][  0]LogDerivedDataCache: Using Local data cache path C:/Users/stott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.28-00.50.25:534][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.28-00.50.25:534][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.28-00.50.25:550][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.28-00.50.25:551][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.28-00.50.25:551][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.28-00.50.25:615][  0]LogAssetRegistry: FAssetRegistry took 0.0306 seconds to start up
+[2019.04.28-00.50.25:826][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.28-00.50.25:926][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.28-00.50.25:927][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.28-00.50.25:927][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.28-00.50.25:927][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.28-00.50.25:927][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.28-00.50.25:936][  0]LogNetVersion: LightSaber 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3724247427)
+[2019.04.28-00.50.25:977][  0]LogNavigation: Error: [/Script/Engine.NavigationSystem] found in the DefaultEngine.ini file. This class has been moved. Please rename that section to [/Script/NavigationSystem.NavigationSystemV1]
+[2019.04.28-00.50.26:286][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.073002 seconds
+[2019.04.28-00.50.26:290][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.28-00.50.26:291][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.28-00.50.26:291][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.28-00.50.26:849][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.28-00.50.26:862][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.28-00.50.27:311][  0]SourceControl: Source control is disabled
+[2019.04.28-00.50.27:311][  0]SourceControl: Source control is disabled
+[2019.04.28-00.50.27:312][  0]SourceControl: Source control is disabled
+[2019.04.28-00.50.27:313][  0]SourceControl: Source control is disabled
+[2019.04.28-00.50.27:441][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.28-00.50.27:570][  0]LogOcInput: OculusInput pre-init called
+[2019.04.28-00.50.27:580][  0]LogPython: Python Scripts search path: C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Scripts
+[2019.04.28-00.50.27:580][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2019.04.28-00.50.27:580][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2019.04.28-00.50.27:657][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2019.04.28-00.50.27:658][  0]LogPython: 
+
+[2019.04.28-00.50.27:658][  0]LogPython: U:\UnrealEngine\UE_4.21\Engine\Plugins\UnrealEnginePython\
+[2019.04.28-00.50.27:658][  0]LogPython: 
+
+[2019.04.28-00.50.27:702][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2019.04.28-00.50.27:702][  0]LogPython: 
+
+[2019.04.28-00.50.27:702][  0]LogPython: ue_site Python module successfully imported
+[2019.04.28-00.50.27:817][  0]LogEngine: Initializing Engine...
+[2019.04.28-00.50.27:819][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-FCDAF386
+[2019.04.28-00.50.27:820][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.28-00.50.27:820][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.28-00.50.27:820][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.28-00.50.27:820][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.28-00.50.27:989][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.28-00.50.27:995][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.28-00.50.28:086][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.28-00.50.28:098][  0]LogInit: FAudioDevice initialized.
+[2019.04.28-00.50.28:098][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.28-00.50.28:159][  0]LogDerivedDataCache: Saved boot cache 0.06s 72MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.28-00.50.28:167][  0]LogInit: Texture streaming: Enabled
+[2019.04.28-00.50.28:176][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.28-00.50.28:184][  0]LogInit: Transaction tracking system initialized
+[2019.04.28-00.50.28:194][  0]BlueprintLog: New page: Editor Load
+[2019.04.28-00.50.28:227][  0]LocalizationService: Localization service is disabled
+[2019.04.28-00.50.28:583][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.28-00.50.28:583][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.28-00.50.28:583][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.28-00.50.28:583][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.28-00.50.28:583][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.28-00.50.28:583][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.28-00.50.28:583][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.28-00.50.28:649][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/' took 0.02s
+[2019.04.28-00.50.28:649][  0]SourceControl: Source control is disabled
+[2019.04.28-00.50.28:649][  0]Cmd: MAP LOAD FILE="C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.28-00.50.28:649][  0]LightingResults: New page: Lighting Build
+[2019.04.28-00.50.28:650][  0]MapCheck: New page: Map Check
+[2019.04.28-00.50.28:650][  0]LightingResults: New page: Lighting Build
+[2019.04.28-00.50.28:775][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; please replace or remove it.
+[2019.04.28-00.50.28:775][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; Please use the Motion Source property instead of Hand
+[2019.04.28-00.50.28:800][  0]LogBlueprint: Warning: [Compiler BP_MotionController] [0011.88] Compile of BP_MotionController successful, but with 2 Warning(s) [in 41 ms] (/Game/Lightsaber/Blueprints/BP_MotionController.BP_MotionController)
+[2019.04.28-00.50.29:871][  0]LogAIModule: Creating AISystem for world Test
+[2019.04.28-00.50.29:917][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.28-00.50.29:945][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.28-00.50.29:945][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2019.04.28-00.50.29:945][  0]LogFileHelpers: Loading map 'Test' took 1.297
+[2019.04.28-00.50.30:023][  0]LogCollectionManager: Loaded 0 collections in 0.000609 seconds
+[2019.04.28-00.50.30:037][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Collections/' took 0.01s
+[2019.04.28-00.50.30:037][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Developers/stott/Collections/' took 0.00s
+[2019.04.28-00.50.30:037][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Collections/' took 0.00s
+[2019.04.28-00.50.30:037][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.28-00.50.30:043][  0]LogContentBrowser: Native class hierarchy populated in 0.0060 seconds. Added 2670 classes and 627 folders.
+[2019.04.28-00.50.30:046][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.28-00.50.30:047][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:047][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:050][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:050][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:050][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:053][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:053][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:053][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.28-00.50.30:068][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.28-00.50.30:082][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-00.50.30:087][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-00.50.30:092][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-00.50.30:097][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-00.50.30:100][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.04.28-00.50.30:111][  0]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.28-00.50.30:112][  0]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.28-00.50.30:112][  0]LogSlate: Took 0.000065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.28-00.50.30:175][  0]LogRenderer: Reallocating scene render targets to support 1384x1280 Format 26 NumSamples 1 (Frame:1).
+[2019.04.28-00.50.30:342][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.28-00.50.30:342][  0]LogLoad: (Engine Initialization) Total time: 13.42 seconds
+[2019.04.28-00.50.30:342][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.28-00.50.30:405][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.28-00.50.30:418][  0]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.28-00.50.30:583][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2019.04.28-00.50.30:717][  6]LogAssetRegistry: Asset discovery search completed in 5.1250 seconds
+[2019.04.28-00.50.30:718][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.28-00.50.30:718][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2019.04.28-00.50.40:241][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.50.43:398][421]LogTexture: Display: Building textures: T_GoodSky_SkyRing (AutoDXT, 256X256)
+[2019.04.28-00.50.43:398][421]LogStaticMesh: Building static mesh SM_GoodSky_StarMesh...
+[2019.04.28-00.50.43:401][421]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.28-00.50.43:479][421]LogStaticMesh: Built static mesh [0.08s] /Game/GoodSky/Source/ArrowTool/SM_GoodSky_StarMesh.SM_GoodSky_StarMesh
+[2019.04.28-00.50.43:551][421]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Sun_Stars, compiling. 
+[2019.04.28-00.50.43:583][421]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Storm, compiling. 
+[2019.04.28-00.50.43:595][421]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.28-00.50.43:595][421]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2019.04.28-00.50.43:595][421]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2019.04.28-00.50.43:595][421]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2019.04.28-00.50.43:595][421]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2019.04.28-00.50.43:597][421]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Moon, compiling. 
+[2019.04.28-00.50.43:605][421]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.28-00.50.43:605][421]LogMaterial: Display: Missing cached shader map for material M_GoodSky_SkyRing_, compiling. 
+[2019.04.28-00.50.43:736][421]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.28-00.50.43:736][421]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.28-00.50.43:736][421]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.28-00.50.43:736][421]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Base, compiling. 
+[2019.04.28-00.50.43:745][421]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.28-00.50.43:745][421]LogMaterial: Display: Missing cached shader map for material M_GoodSky_Sun_Emissive, compiling. 
+[2019.04.28-00.50.43:763][421]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.28-00.50.43:763][421]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.50.47:747][684]LogSlate: Took 0.157484 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.04.28-00.51.00:574][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.28-00.51.02:146][345]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-00.51.04:363][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.51.04:562][623]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky
+[2019.04.28-00.51.04:867][623]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2019.04.28-00.51.05:532][623]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.28-00.51.05:659][624]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.28-00.51.17:847][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.51.17:916][796]LogSlate: Window 'BP_GoodSky' being destroyed
+[2019.04.28-00.51.17:961][796]LogSlate: Window 'BP_GoodSky' being destroyed
+[2019.04.28-00.51.19:045][918]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-00.51.21:517][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.51.47:332][257]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-00.51.56:214][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-00.51.59:460][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-00.52.01:709][950]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-00.52.04:146][236]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-00.52.09:963][921]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-00.52.22:890][443]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-00.52.40:674][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.52.48:498][483]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.04.28-00.53.27:203][525]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-00.53.37:042][954]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.04.28-00.53.37:951][ 58]Cmd: DELETE
+[2019.04.28-00.53.37:951][ 58]Cmd: ACTOR DELETE
+[2019.04.28-00.53.38:030][ 58]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.04.28-00.53.38:078][ 58]LogEditorActor: Deleted 1 Actors (0.128 secs)
+[2019.04.28-00.53.40:591][353]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-00.53.43:411][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.53.46:779][ 66]MapCheck: New page: Map Check
+[2019.04.28-00.53.46:787][ 66]Cmd: MAP REBUILD ALLVISIBLE
+[2019.04.28-00.53.46:787][ 66]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.04.28-00.53.46:920][ 66]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.04.28-00.53.46:926][ 66]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-00.53.46:932][ 66]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.53.46:932][ 66]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy commanderbody, compiling. 
+[2019.04.28-00.53.46:939][ 66]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.53.46:939][ 66]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy KyloRenSimCloth, compiling. 
+[2019.04.28-00.53.46:959][ 66]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.53.46:959][ 66]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.53.46:960][ 66]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy dc17MAT, compiling. 
+[2019.04.28-00.53.46:969][ 66]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.53.46:969][ 66]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy redglow1, compiling. 
+[2019.04.28-00.53.46:990][ 66]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.53.46:990][ 66]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber1mat, compiling. 
+[2019.04.28-00.53.46:997][ 66]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.53.46:997][ 66]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber2mat, compiling. 
+[2019.04.28-00.53.47:003][ 66]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber3mat, compiling. 
+[2019.04.28-00.53.47:012][ 66]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-00.53.47:012][ 66]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.53.47:012][ 66]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.04.28-00.53.47:017][ 66]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-00.53.47:028][ 66]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.53.47:028][ 66]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_GoodSky_SkyRing_, compiling. 
+[2019.04.28-00.53.47:037][ 66]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.53.47:037][ 66]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2019.04.28-00.53.47:052][ 66]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.53.47:052][ 66]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_GoodSky_Sun_Emissive, compiling. 
+[2019.04.28-00.53.47:060][ 66]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-00.53.47:623][ 66]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.28-00.53.47:623][ 66]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-00.53.47:623][ 66]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.53.47:623][ 66]TextureStreamingBuild: Display: Compiling optional shaders took 0.707 seconds.
+[2019.04.28-00.53.47:664][ 66]LogLevel: Display: Export Material TexCoord Scales took 0.041 seconds.
+[2019.04.28-00.53.47:691][ 66]TextureStreamingBuild: Display: Build Texture Streaming took 0.027 seconds.
+[2019.04.28-00.53.47:714][ 66]LightingResults: New page: Lighting Build - Apr 27, 2019, 4:53:47 PM
+[2019.04.28-00.53.47:736][ 66]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.28-00.53.47:789][ 66]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.28-00.53.47:796][ 66]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.28-00.53.48:303][ 66]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.28-00.53.48:303][ 66]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9916
+[2019.04.28-00.53.50:432][ 66]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.04.28-00.53.50:432][ 66]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.28-00.53.50:432][ 66]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.28-00.53.50:432][ 66]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.28-00.53.50:432][ 66]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.28-00.53.50:432][ 66]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.28-00.53.50:543][ 66]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.04.28-00.53.50:543][ 66]MapCheck: New page: Test - Apr 27, 2019, 4:53:50 PM
+[2019.04.28-00.53.50:544][ 66]MapCheck: Warning: BP_GoodSky_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.04.28-00.53.50:544][ 66]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.045ms to complete.
+[2019.04.28-00.53.50:566][ 66]LogEditorBuildUtils: Build time 0:03
+[2019.04.28-00.53.50:615][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-00.53.52:227][159]LogSlate: Window 'Message Log' being destroyed
+[2019.04.28-00.53.52:275][159]LogSlate: Window 'Message Log' being destroyed
+[2019.04.28-00.53.52:808][204]Job is a success!
+[2019.04.28-00.53.52:868][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-00.53.52:944][206]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2019.04.28-00.53.52:944][206]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.28-00.53.52:944][206]LogVolumetricLightmapImport:      BrickData 445x5x5 = 0.4Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.04.28-00.53.52:944][206]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.28-00.53.52:944][206]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2019.04.28-00.53.52:944][206]LogVolumetricLightmapImport:          1: 18.0% covering 25.0% of volume
+[2019.04.28-00.53.52:944][206]LogVolumetricLightmapImport:          2: 80.9% covering 1.8% of volume
+[2019.04.28-00.53.52:968][206]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2019.04.28-00.53.52:968][206]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.04.28-00.53.52:968][206]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.04.28-00.53.52:986][206]Lightmass on DESKTOP-G3P6UN7: 1.79 sec total, 88 ms importing, 12 ms setup, 1.00 sec photons, 673 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 9.08 sec total, 56 ms processing.
+[2019.04.28-00.53.53:069][206]LogStaticLightingSystem: Illumination: 5.29 sec (9 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.04.28-00.53.53:069][206]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.04.28-00.53.53:069][206]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.04.28-00.53.53:443][206]DumpUnbuiltLightIteractions
+[2019.04.28-00.53.53:443][206]Lights with unbuilt interactions: 0
+[2019.04.28-00.53.53:443][206]
+[2019.04.28-00.53.53:444][206]Primitives with unbuilt interactions: 0
+[2019.04.28-00.53.53:448][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-00.53.53:602][207]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.28-00.53.53:602][207]MapCheck: New page: Test - Apr 27, 2019, 4:53:53 PM
+[2019.04.28-00.53.53:603][207]MapCheck: Warning: BP_GoodSky_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.04.28-00.53.53:603][207]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.072ms to complete.
+[2019.04.28-00.54.00:648][968]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-00.54.03:191][262]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-00.54.10:092][ 40]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-00.54.31:158][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.54.58:659][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.55.31:210][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.55.45:905][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.55.57:372][593]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-00.56.00:517][942]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-00.56.05:604][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.56.09:817][ 35]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.04.28-00.56.19:558][191]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-00.56.21:489][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.56.29:159][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.56.33:829][861]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.04.28-00.56.38:299][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.56.44:809][139]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.04.28-00.56.49:177][646]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-00.56.58:636][760]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-00.57.10:639][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.57.30:396][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.57.36:913][158]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-00.57.38:084][295]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-00.57.39:158][420]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-00.57.41:902][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.57.42:010][753]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky
+[2019.04.28-00.57.55:312][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.57.55:376][851]LogSlate: Window 'BP_GoodSky' being destroyed
+[2019.04.28-00.57.55:423][851]LogSlate: Window 'BP_GoodSky' being destroyed
+[2019.04.28-00.57.56:499][972]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-00.58.04:174][885]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-00.58.06:551][166]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-00.58.07:042][222]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-00.58.08:842][435]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.04.28-00.58.26:125][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.58.38:503][577]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-00.58.42:786][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-00.58.49:170][762]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.28-00.58.54:761][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.59.05:470][192]MapCheck: New page: Map Check
+[2019.04.28-00.59.05:483][192]Cmd: MAP REBUILD ALLVISIBLE
+[2019.04.28-00.59.05:483][192]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.04.28-00.59.05:640][192]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.04.28-00.59.05:645][192]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-00.59.05:650][192]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-00.59.05:650][192]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.05:650][192]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy commanderbody, compiling. 
+[2019.04.28-00.59.05:656][192]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy KyloRenSimCloth, compiling. 
+[2019.04.28-00.59.05:676][192]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy dc17MAT, compiling. 
+[2019.04.28-00.59.05:686][192]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.28-00.59.05:687][192]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-00.59.05:687][192]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.05:687][192]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy redglow1, compiling. 
+[2019.04.28-00.59.05:704][192]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber1mat, compiling. 
+[2019.04.28-00.59.05:709][192]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.05:709][192]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber2mat, compiling. 
+[2019.04.28-00.59.05:716][192]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-00.59.05:716][192]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.05:716][192]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber3mat, compiling. 
+[2019.04.28-00.59.05:727][192]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.04.28-00.59.05:734][192]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-00.59.05:734][192]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.05:734][192]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-00.59.05:744][192]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_GoodSky_SkyRing_, compiling. 
+[2019.04.28-00.59.05:753][192]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-00.59.05:753][192]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.05:753][192]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2019.04.28-00.59.05:761][192]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_GoodSky_Sun_Emissive, compiling. 
+[2019.04.28-00.59.05:768][192]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-00.59.06:628][192]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.28-00.59.06:628][192]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-00.59.06:628][192]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.06:628][192]TextureStreamingBuild: Display: Compiling optional shaders took 0.991 seconds.
+[2019.04.28-00.59.06:649][192]LogLevel: Display: Export Material TexCoord Scales took 0.021 seconds.
+[2019.04.28-00.59.06:677][192]TextureStreamingBuild: Display: Build Texture Streaming took 0.028 seconds.
+[2019.04.28-00.59.06:704][192]LightingResults: New page: Lighting Build - Apr 27, 2019, 4:59:06 PM
+[2019.04.28-00.59.06:712][192]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.28-00.59.06:716][192]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.28-00.59.06:716][192]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.28-00.59.06:717][192]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.28-00.59.06:717][192]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9916
+[2019.04.28-00.59.11:282][192]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.04.28-00.59.11:282][192]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.28-00.59.11:282][192]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.28-00.59.11:282][192]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.28-00.59.11:282][192]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.28-00.59.11:282][192]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.28-00.59.11:363][192]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.04.28-00.59.11:363][192]MapCheck: New page: Test - Apr 27, 2019, 4:59:11 PM
+[2019.04.28-00.59.11:364][192]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.04.28-00.59.11:364][192]MapCheck: Warning: BP_GoodSky_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.04.28-00.59.11:364][192]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 1.053ms to complete.
+[2019.04.28-00.59.11:387][192]LogEditorBuildUtils: Build time 0:05
+[2019.04.28-00.59.14:011][200]Job is a success!
+[2019.04.28-00.59.14:547][201]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2019.04.28-00.59.14:547][201]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.28-00.59.14:547][201]LogVolumetricLightmapImport:      BrickData 570x5x5 = 0.6Mb
+[2019.04.28-00.59.14:547][201]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.28-00.59.14:547][201]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2019.04.28-00.59.14:547][201]LogVolumetricLightmapImport:          1: 14.0% covering 25.0% of volume
+[2019.04.28-00.59.14:547][201]LogVolumetricLightmapImport:          2: 85.1% covering 2.4% of volume
+[2019.04.28-00.59.14:616][201]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2019.04.28-00.59.14:616][201]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.04.28-00.59.14:616][201]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.04.28-00.59.14:616][201]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X64)
+[2019.04.28-00.59.14:650][201]Lightmass on DESKTOP-G3P6UN7: 2.61 sec total, 122 ms importing, 17 ms setup, 1.09 sec photons, 1.35 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 19.2 sec total, 117 ms processing.
+[2019.04.28-00.59.14:696][201]LogStaticLightingSystem: Illumination: 7.61 sec (12 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2019.04.28-00.59.14:696][201]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.04.28-00.59.14:696][201]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.04.28-00.59.15:292][201]DumpUnbuiltLightIteractions
+[2019.04.28-00.59.15:292][201]Lights with unbuilt interactions: 0
+[2019.04.28-00.59.15:292][201]
+[2019.04.28-00.59.15:292][201]Primitives with unbuilt interactions: 0
+[2019.04.28-00.59.15:400][202]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.28-00.59.15:400][202]MapCheck: New page: Test - Apr 27, 2019, 4:59:15 PM
+[2019.04.28-00.59.15:401][202]MapCheck: Warning: BP_GoodSky_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.04.28-00.59.15:401][202]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.002ms to complete.
+[2019.04.28-00.59.31:822][213]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.04.28-00.59.38:298][980]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-00.59.39:952][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-00.59.42:334][438]MapCheck: New page: Map Check
+[2019.04.28-00.59.42:344][438]Cmd: MAP REBUILD ALLVISIBLE
+[2019.04.28-00.59.42:344][438]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.04.28-00.59.42:484][438]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.04.28-00.59.42:490][438]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-00.59.42:495][438]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy commanderbody, compiling. 
+[2019.04.28-00.59.42:501][438]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-00.59.42:501][438]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.42:501][438]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy KyloRenSimCloth, compiling. 
+[2019.04.28-00.59.42:517][438]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-00.59.42:517][438]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.42:517][438]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy dc17MAT, compiling. 
+[2019.04.28-00.59.42:527][438]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy redglow1, compiling. 
+[2019.04.28-00.59.42:546][438]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.42:546][438]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.42:546][438]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber1mat, compiling. 
+[2019.04.28-00.59.42:554][438]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.42:554][438]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber2mat, compiling. 
+[2019.04.28-00.59.42:561][438]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.42:561][438]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber3mat, compiling. 
+[2019.04.28-00.59.42:571][438]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.42:572][438]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.04.28-00.59.42:578][438]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.42:578][438]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-00.59.42:588][438]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.42:588][438]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_GoodSky_SkyRing_, compiling. 
+[2019.04.28-00.59.42:595][438]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2019.04.28-00.59.42:603][438]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.42:603][438]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_GoodSky_Sun_Emissive, compiling. 
+[2019.04.28-00.59.42:612][438]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-00.59.43:117][438]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.28-00.59.43:117][438]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-00.59.43:117][438]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-00.59.43:117][438]TextureStreamingBuild: Display: Compiling optional shaders took 0.636 seconds.
+[2019.04.28-00.59.43:142][438]LogLevel: Display: Export Material TexCoord Scales took 0.025 seconds.
+[2019.04.28-00.59.43:172][438]TextureStreamingBuild: Display: Build Texture Streaming took 0.029 seconds.
+[2019.04.28-00.59.43:198][438]LightingResults: New page: Lighting Build - Apr 27, 2019, 4:59:43 PM
+[2019.04.28-00.59.43:204][438]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.28-00.59.43:207][438]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.28-00.59.43:207][438]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.28-00.59.43:207][438]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.28-00.59.43:207][438]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9916
+[2019.04.28-00.59.47:712][438]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.04.28-00.59.47:712][438]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.28-00.59.47:712][438]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.28-00.59.47:712][438]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.28-00.59.47:712][438]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.28-00.59.47:712][438]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.28-00.59.47:788][438]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.04.28-00.59.47:789][438]MapCheck: New page: Test - Apr 27, 2019, 4:59:47 PM
+[2019.04.28-00.59.47:789][438]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.04.28-00.59.47:789][438]MapCheck: Warning: BP_GoodSky_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.04.28-00.59.47:790][438]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 1.057ms to complete.
+[2019.04.28-00.59.47:812][438]LogEditorBuildUtils: Build time 0:05
+[2019.04.28-00.59.49:976][586]Job is a success!
+[2019.04.28-00.59.50:070][587]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2019.04.28-00.59.50:071][587]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.28-00.59.50:071][587]LogVolumetricLightmapImport:      BrickData 570x5x5 = 0.6Mb
+[2019.04.28-00.59.50:071][587]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.28-00.59.50:071][587]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2019.04.28-00.59.50:071][587]LogVolumetricLightmapImport:          1: 14.0% covering 25.0% of volume
+[2019.04.28-00.59.50:071][587]LogVolumetricLightmapImport:          2: 85.1% covering 2.4% of volume
+[2019.04.28-00.59.50:096][587]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2019.04.28-00.59.50:096][587]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.04.28-00.59.50:096][587]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.04.28-00.59.50:096][587]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 128X64)
+[2019.04.28-00.59.50:133][587]Lightmass on DESKTOP-G3P6UN7: 1.85 sec total, 82 ms importing, 15 ms setup, 1.09 sec photons, 629 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 8.46 sec total, 136 ms processing.
+[2019.04.28-00.59.50:184][587]LogStaticLightingSystem: Illumination: 6.92 sec (11 ms encoding lightmaps, 1 ms encoding shadowmaps)
+[2019.04.28-00.59.50:184][587]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.04.28-00.59.50:184][587]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.04.28-00.59.50:719][587]DumpUnbuiltLightIteractions
+[2019.04.28-00.59.50:719][587]Lights with unbuilt interactions: 0
+[2019.04.28-00.59.50:719][587]
+[2019.04.28-00.59.50:719][587]Primitives with unbuilt interactions: 0
+[2019.04.28-00.59.50:878][588]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.28-00.59.50:879][588]MapCheck: New page: Test - Apr 27, 2019, 4:59:50 PM
+[2019.04.28-00.59.50:879][588]MapCheck: Warning: BP_GoodSky_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.04.28-00.59.50:879][588]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.109ms to complete.
+[2019.04.28-01.00.53:041][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.00.56:791][144]LogAnimation: Warning: AnimBP ABP_hand_right_C is incompatible with skeleton SK_hand_left_Skeleton, removing AnimBP from actor.
+[2019.04.28-01.01.09:523][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.01.18:359][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.01.18:442][593]LogSlate: Window 'Message Log' being destroyed
+[2019.04.28-01.01.18:489][593]LogSlate: Window 'Message Log' being destroyed
+[2019.04.28-01.01.21:772][967]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky
+[2019.04.28-01.01.41:511][381]LogSlate: Window 'BP_GoodSky' being destroyed
+[2019.04.28-01.01.41:558][381]LogSlate: Window 'BP_GoodSky' being destroyed
+[2019.04.28-01.01.43:454][594]MapCheck: New page: Map Check
+[2019.04.28-01.01.43:468][594]Cmd: MAP REBUILD ALLVISIBLE
+[2019.04.28-01.01.43:468][594]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.04.28-01.01.43:602][594]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.04.28-01.01.43:608][594]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.01.43:608][594]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-01.01.43:614][594]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy commanderbody, compiling. 
+[2019.04.28-01.01.43:620][594]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-01.01.43:620][594]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.01.43:620][594]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy KyloRenSimCloth, compiling. 
+[2019.04.28-01.01.43:637][594]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.01.43:637][594]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy dc17MAT, compiling. 
+[2019.04.28-01.01.43:650][594]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.01.43:650][594]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy redglow1, compiling. 
+[2019.04.28-01.01.43:670][594]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.01.43:670][594]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber1mat, compiling. 
+[2019.04.28-01.01.43:677][594]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.01.43:678][594]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber2mat, compiling. 
+[2019.04.28-01.01.43:684][594]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.01.43:684][594]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber3mat, compiling. 
+[2019.04.28-01.01.43:693][594]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.01.43:693][594]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.04.28-01.01.43:699][594]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-01.01.43:709][594]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.01.43:709][594]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_GoodSky_SkyRing_, compiling. 
+[2019.04.28-01.01.43:718][594]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.01.43:718][594]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2019.04.28-01.01.43:726][594]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.01.43:726][594]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_GoodSky_Sun_Emissive, compiling. 
+[2019.04.28-01.01.43:733][594]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-01.01.44:245][594]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.28-01.01.44:245][594]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-01.01.44:245][594]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.01.44:245][594]TextureStreamingBuild: Display: Compiling optional shaders took 0.646 seconds.
+[2019.04.28-01.01.44:265][594]LogLevel: Display: Export Material TexCoord Scales took 0.020 seconds.
+[2019.04.28-01.01.44:292][594]TextureStreamingBuild: Display: Build Texture Streaming took 0.027 seconds.
+[2019.04.28-01.01.44:315][594]LightingResults: New page: Lighting Build - Apr 27, 2019, 5:01:44 PM
+[2019.04.28-01.01.44:320][594]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.28-01.01.44:323][594]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.28-01.01.44:323][594]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.28-01.01.44:324][594]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.28-01.01.44:324][594]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9916
+[2019.04.28-01.01.48:830][594]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.04.28-01.01.48:830][594]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.28-01.01.48:830][594]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.28-01.01.48:830][594]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.28-01.01.48:830][594]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.28-01.01.48:830][594]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.28-01.01.48:905][594]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.04.28-01.01.48:906][594]MapCheck: New page: Test - Apr 27, 2019, 5:01:48 PM
+[2019.04.28-01.01.48:906][594]MapCheck: Warning: BP_GoodSky_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.04.28-01.01.48:907][594]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.026ms to complete.
+[2019.04.28-01.01.48:929][594]LogEditorBuildUtils: Build time 0:05
+[2019.04.28-01.01.51:105][724]Job is a success!
+[2019.04.28-01.01.51:251][725]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2019.04.28-01.01.51:251][725]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.28-01.01.51:251][725]LogVolumetricLightmapImport:      BrickData 570x5x5 = 0.6Mb
+[2019.04.28-01.01.51:251][725]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.28-01.01.51:251][725]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2019.04.28-01.01.51:251][725]LogVolumetricLightmapImport:          1: 14.0% covering 25.0% of volume
+[2019.04.28-01.01.51:251][725]LogVolumetricLightmapImport:          2: 85.1% covering 2.4% of volume
+[2019.04.28-01.01.51:279][725]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2019.04.28-01.01.51:279][725]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.04.28-01.01.51:279][725]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.04.28-01.01.51:279][725]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 128X64)
+[2019.04.28-01.01.51:316][725]Lightmass on DESKTOP-G3P6UN7: 1.92 sec total, 80 ms importing, 13 ms setup, 1.10 sec photons, 695 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 9.44 sec total, 121 ms processing.
+[2019.04.28-01.01.51:368][725]LogStaticLightingSystem: Illumination: 6.94 sec (11 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2019.04.28-01.01.51:368][725]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.04.28-01.01.51:368][725]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.04.28-01.01.51:837][725]DumpUnbuiltLightIteractions
+[2019.04.28-01.01.51:838][725]Lights with unbuilt interactions: 0
+[2019.04.28-01.01.51:838][725]
+[2019.04.28-01.01.51:838][725]Primitives with unbuilt interactions: 0
+[2019.04.28-01.01.51:999][726]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.28-01.01.51:999][726]MapCheck: New page: Test - Apr 27, 2019, 5:01:51 PM
+[2019.04.28-01.01.51:999][726]MapCheck: Warning: BP_GoodSky_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.04.28-01.01.52:000][726]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.134ms to complete.
+[2019.04.28-01.01.55:561][ 59]LogSlate: Window 'Message Log' being destroyed
+[2019.04.28-01.01.55:607][ 59]LogSlate: Window 'Message Log' being destroyed
+[2019.04.28-01.02.16:811][354]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-01.02.20:796][822]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.02.47:433][613]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Test_Auto15BD4FC514D0A95FDB8C8899840E7B76B.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Autosaves/Game/Lightsaber/Maps/Test_Auto1.umap'
+[2019.04.28-01.02.47:439][613]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Lightsaber/Maps/Test' took 0.276
+[2019.04.28-01.02.47:439][613]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.276
+[2019.04.28-01.02.57:374][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.03.05:840][613]MapCheck: New page: Map Check
+[2019.04.28-01.03.05:848][613]Cmd: MAP REBUILD ALLVISIBLE
+[2019.04.28-01.03.05:848][613]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.04.28-01.03.06:084][613]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.04.28-01.03.06:089][613]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-01.03.06:096][613]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-01.03.06:096][613]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.06:096][613]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy commanderbody, compiling. 
+[2019.04.28-01.03.06:102][613]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy KyloRenSimCloth, compiling. 
+[2019.04.28-01.03.06:119][613]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-01.03.06:120][613]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.06:120][613]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy dc17MAT, compiling. 
+[2019.04.28-01.03.06:129][613]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy redglow1, compiling. 
+[2019.04.28-01.03.06:152][613]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.06:152][613]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.06:152][613]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber1mat, compiling. 
+[2019.04.28-01.03.06:159][613]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.06:159][613]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber2mat, compiling. 
+[2019.04.28-01.03.06:168][613]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.06:168][613]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber3mat, compiling. 
+[2019.04.28-01.03.06:179][613]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.06:179][613]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.04.28-01.03.06:185][613]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-01.03.06:195][613]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.06:195][613]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_GoodSky_SkyRing_, compiling. 
+[2019.04.28-01.03.06:202][613]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.06:202][613]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2019.04.28-01.03.06:210][613]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-01.03.06:210][613]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_GoodSky_Sun_Emissive, compiling. 
+[2019.04.28-01.03.06:217][613]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-01.03.06:741][613]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.28-01.03.06:741][613]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-01.03.06:741][613]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.06:741][613]TextureStreamingBuild: Display: Compiling optional shaders took 0.661 seconds.
+[2019.04.28-01.03.06:761][613]LogLevel: Display: Export Material TexCoord Scales took 0.019 seconds.
+[2019.04.28-01.03.06:794][613]TextureStreamingBuild: Display: Build Texture Streaming took 0.033 seconds.
+[2019.04.28-01.03.06:817][613]LightingResults: New page: Lighting Build - Apr 27, 2019, 5:03:06 PM
+[2019.04.28-01.03.06:822][613]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.28-01.03.06:826][613]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.28-01.03.06:826][613]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.28-01.03.06:827][613]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.28-01.03.06:827][613]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9916
+[2019.04.28-01.03.11:334][613]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.04.28-01.03.11:334][613]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.28-01.03.11:334][613]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.28-01.03.11:334][613]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.28-01.03.11:334][613]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.28-01.03.11:334][613]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.28-01.03.11:411][613]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.04.28-01.03.11:411][613]MapCheck: New page: Test - Apr 27, 2019, 5:03:11 PM
+[2019.04.28-01.03.11:412][613]MapCheck: Warning: BP_GoodSky_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.04.28-01.03.11:412][613]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.012ms to complete.
+[2019.04.28-01.03.11:435][613]LogEditorBuildUtils: Build time 0:05
+[2019.04.28-01.03.11:484][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.03.13:646][759]Job is a success!
+[2019.04.28-01.03.13:743][760]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2019.04.28-01.03.13:743][760]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.28-01.03.13:743][760]LogVolumetricLightmapImport:      BrickData 570x5x5 = 0.6Mb
+[2019.04.28-01.03.13:743][760]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.28-01.03.13:743][760]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2019.04.28-01.03.13:743][760]LogVolumetricLightmapImport:          1: 14.0% covering 25.0% of volume
+[2019.04.28-01.03.13:743][760]LogVolumetricLightmapImport:          2: 85.1% covering 2.4% of volume
+[2019.04.28-01.03.13:769][760]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2019.04.28-01.03.13:769][760]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.04.28-01.03.13:769][760]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.04.28-01.03.13:769][760]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 128X64)
+[2019.04.28-01.03.13:807][760]Lightmass on DESKTOP-G3P6UN7: 1.86 sec total, 85 ms importing, 13 ms setup, 1.09 sec photons, 644 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 8.68 sec total, 133 ms processing.
+[2019.04.28-01.03.13:855][760]LogStaticLightingSystem: Illumination: 6.97 sec (9 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2019.04.28-01.03.13:855][760]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.04.28-01.03.13:855][760]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.04.28-01.03.14:339][760]DumpUnbuiltLightIteractions
+[2019.04.28-01.03.14:340][760]Lights with unbuilt interactions: 0
+[2019.04.28-01.03.14:340][760]
+[2019.04.28-01.03.14:340][760]Primitives with unbuilt interactions: 0
+[2019.04.28-01.03.14:499][761]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.28-01.03.14:500][761]MapCheck: New page: Test - Apr 27, 2019, 5:03:14 PM
+[2019.04.28-01.03.14:500][761]MapCheck: Warning: BP_GoodSky_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.04.28-01.03.14:501][761]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.134ms to complete.
+[2019.04.28-01.03.15:790][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.03.15:843][872]LogSlate: Window 'Message Log' being destroyed
+[2019.04.28-01.03.15:891][872]LogSlate: Window 'Message Log' being destroyed
+[2019.04.28-01.03.24:488][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.03.26:612][ 62]MapCheck: New page: Map Check
+[2019.04.28-01.03.26:628][ 62]Cmd: MAP REBUILD ALLVISIBLE
+[2019.04.28-01.03.26:628][ 62]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.04.28-01.03.26:868][ 62]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.04.28-01.03.26:873][ 62]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-01.03.26:879][ 62]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.26:879][ 62]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy commanderbody, compiling. 
+[2019.04.28-01.03.26:885][ 62]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-01.03.26:885][ 62]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.26:885][ 62]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy KyloRenSimCloth, compiling. 
+[2019.04.28-01.03.26:902][ 62]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.26:903][ 62]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy dc17MAT, compiling. 
+[2019.04.28-01.03.26:913][ 62]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.26:913][ 62]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy redglow1, compiling. 
+[2019.04.28-01.03.26:934][ 62]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.26:934][ 62]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber1mat, compiling. 
+[2019.04.28-01.03.26:940][ 62]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.26:940][ 62]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber2mat, compiling. 
+[2019.04.28-01.03.26:948][ 62]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.26:948][ 62]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy saber3mat, compiling. 
+[2019.04.28-01.03.26:959][ 62]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.26:959][ 62]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.04.28-01.03.26:965][ 62]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.26:965][ 62]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-01.03.26:975][ 62]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.26:975][ 62]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_GoodSky_SkyRing_, compiling. 
+[2019.04.28-01.03.26:982][ 62]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2019.04.28-01.03.26:990][ 62]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.26:990][ 62]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_GoodSky_Sun_Emissive, compiling. 
+[2019.04.28-01.03.26:999][ 62]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.04.28-01.03.27:496][ 62]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.28-01.03.27:496][ 62]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-01.03.27:496][ 62]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-01.03.27:496][ 62]TextureStreamingBuild: Display: Compiling optional shaders took 0.632 seconds.
+[2019.04.28-01.03.27:522][ 62]LogLevel: Display: Export Material TexCoord Scales took 0.026 seconds.
+[2019.04.28-01.03.27:556][ 62]TextureStreamingBuild: Display: Build Texture Streaming took 0.034 seconds.
+[2019.04.28-01.03.27:581][ 62]LightingResults: New page: Lighting Build - Apr 27, 2019, 5:03:27 PM
+[2019.04.28-01.03.27:586][ 62]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.28-01.03.27:589][ 62]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.28-01.03.27:589][ 62]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.28-01.03.27:589][ 62]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.28-01.03.27:589][ 62]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9916
+[2019.04.28-01.03.32:099][ 62]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.04.28-01.03.32:099][ 62]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.28-01.03.32:099][ 62]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.28-01.03.32:099][ 62]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.28-01.03.32:099][ 62]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.28-01.03.32:099][ 62]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.28-01.03.32:176][ 62]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.04.28-01.03.32:176][ 62]MapCheck: New page: Test - Apr 27, 2019, 5:03:32 PM
+[2019.04.28-01.03.32:177][ 62]MapCheck: Warning: BP_GoodSky_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.04.28-01.03.32:177][ 62]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.996ms to complete.
+[2019.04.28-01.03.32:199][ 62]LogEditorBuildUtils: Build time 0:05
+[2019.04.28-01.03.34:108][172]LogSlate: Window 'Message Log' being destroyed
+[2019.04.28-01.03.34:156][172]LogSlate: Window 'Message Log' being destroyed
+[2019.04.28-01.03.34:380][188]Job is a success!
+[2019.04.28-01.03.34:444][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.03.34:513][190]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2019.04.28-01.03.34:513][190]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.28-01.03.34:513][190]LogVolumetricLightmapImport:      BrickData 570x5x5 = 0.6Mb
+[2019.04.28-01.03.34:513][190]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.28-01.03.34:513][190]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2019.04.28-01.03.34:513][190]LogVolumetricLightmapImport:          1: 14.0% covering 25.0% of volume
+[2019.04.28-01.03.34:513][190]LogVolumetricLightmapImport:          2: 85.1% covering 2.4% of volume
+[2019.04.28-01.03.34:539][190]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2019.04.28-01.03.34:539][190]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.04.28-01.03.34:539][190]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.04.28-01.03.34:539][190]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 128X64)
+[2019.04.28-01.03.34:575][190]Lightmass on DESKTOP-G3P6UN7: 1.89 sec total, 86 ms importing, 13 ms setup, 1.10 sec photons, 667 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 9.01 sec total, 144 ms processing.
+[2019.04.28-01.03.34:625][190]LogStaticLightingSystem: Illumination: 6.98 sec (10 ms encoding lightmaps, 1 ms encoding shadowmaps)
+[2019.04.28-01.03.34:625][190]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.04.28-01.03.34:625][190]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.04.28-01.03.35:101][190]DumpUnbuiltLightIteractions
+[2019.04.28-01.03.35:101][190]Lights with unbuilt interactions: 0
+[2019.04.28-01.03.35:101][190]
+[2019.04.28-01.03.35:101][190]Primitives with unbuilt interactions: 0
+[2019.04.28-01.03.35:258][191]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.28-01.03.35:259][191]MapCheck: New page: Test - Apr 27, 2019, 5:03:35 PM
+[2019.04.28-01.03.35:260][191]MapCheck: Warning: BP_GoodSky_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.04.28-01.03.35:260][191]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.214ms to complete.
+[2019.04.28-01.03.38:736][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.03.39:616][582]LogEditorActor: Deleted Actor: BP_GoodSky_C
+[2019.04.28-01.03.39:643][582]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.04.28-01.03.40:607][694]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.04.28-01.03.40:731][704]Cmd: DELETE
+[2019.04.28-01.03.40:731][704]Cmd: ACTOR DELETE
+[2019.04.28-01.03.40:737][704]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.04.28-01.03.40:760][704]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.04.28-01.03.43:009][961]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.03.44:925][143]MapCheck: New page: Map Check
+[2019.04.28-01.03.44:936][143]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.03.44:938][143]LightingResults: New page: Lighting Build - Apr 27, 2019, 5:03:44 PM
+[2019.04.28-01.03.44:946][143]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.28-01.03.44:948][143]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.28-01.03.44:949][143]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.28-01.03.44:949][143]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.28-01.03.44:949][143]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9916
+[2019.04.28-01.03.49:455][143]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.04.28-01.03.49:455][143]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.28-01.03.49:455][143]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.28-01.03.49:455][143]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.28-01.03.49:455][143]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.28-01.03.49:455][143]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.28-01.03.49:532][143]LogEditorBuildUtils: Build time 0:04
+[2019.04.28-01.03.51:612][289]Job is a success!
+[2019.04.28-01.03.51:644][290]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.03.51:708][290]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2019.04.28-01.03.51:708][290]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.28-01.03.51:708][290]LogVolumetricLightmapImport:      BrickData 85x5x5 = 0.1Mb (trimmed 0.5Mb due to 0.010000 MinBrickError)
+[2019.04.28-01.03.51:708][290]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.28-01.03.51:708][290]LogVolumetricLightmapImport:          0: 5.9% covering 100.0% of volume
+[2019.04.28-01.03.51:708][290]LogVolumetricLightmapImport:          1: 94.1% covering 25.0% of volume
+[2019.04.28-01.03.51:708][290]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.04.28-01.03.51:728][290]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2019.04.28-01.03.51:728][290]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.04.28-01.03.51:728][290]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.04.28-01.03.51:764][290]Lightmass on DESKTOP-G3P6UN7: 1.76 sec total, 89 ms importing, 12 ms setup, 1.00 sec photons, 624 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 8.37 sec total, 50 ms processing.
+[2019.04.28-01.03.51:813][290]LogStaticLightingSystem: Illumination: 6.81 sec (8 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.04.28-01.03.51:813][290]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.04.28-01.03.51:813][290]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.04.28-01.03.52:460][290]DumpUnbuiltLightIteractions
+[2019.04.28-01.03.52:460][290]Lights with unbuilt interactions: 0
+[2019.04.28-01.03.52:460][290]
+[2019.04.28-01.03.52:460][290]Primitives with unbuilt interactions: 0
+[2019.04.28-01.03.52:464][290]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.03.52:617][291]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.28-01.03.52:617][291]MapCheck: New page: Test - Apr 27, 2019, 5:03:52 PM
+[2019.04.28-01.03.52:618][291]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.964ms to complete.
+[2019.04.28-01.04.03:073][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.04.12:928][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.04.36:516][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.04.43:859][181]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.28-01.04.51:070][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.05.18:836][207]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-01.05.23:567][771]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.05.32:823][827]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.28-01.05.39:626][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.05.47:053][519]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.28-01.05.55:889][528]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.28-01.06.00:745][101]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.06.03:170][377]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.28-01.06.05:144][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.06.10:227][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.06.11:442][314]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.28-01.06.13:486][553]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.06.17:671][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.06.19:807][280]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.28-01.06.23:276][688]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.06.29:692][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.06.48:853][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.07.07:558][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.07.19:196][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.07.19:246][282]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.28-01.07.20:414][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.07.21:986][540]MapCheck: New page: Map Check
+[2019.04.28-01.07.21:998][540]LightingResults: New page: Lighting Build - Apr 27, 2019, 5:07:21 PM
+[2019.04.28-01.07.22:008][540]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.28-01.07.22:011][540]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.28-01.07.22:011][540]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.28-01.07.22:011][540]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.28-01.07.22:011][540]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9916
+[2019.04.28-01.07.26:518][540]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.04.28-01.07.26:519][540]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.28-01.07.26:519][540]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.28-01.07.26:519][540]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.28-01.07.26:519][540]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.28-01.07.26:519][540]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.28-01.07.26:621][540]LogEditorBuildUtils: Build time 0:04
+[2019.04.28-01.07.28:747][690]Job is a success!
+[2019.04.28-01.07.28:784][691]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.07.28:850][691]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2019.04.28-01.07.28:850][691]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.28-01.07.28:850][691]LogVolumetricLightmapImport:      BrickData 85x5x5 = 0.1Mb (trimmed 0.5Mb due to 0.010000 MinBrickError)
+[2019.04.28-01.07.28:850][691]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.28-01.07.28:850][691]LogVolumetricLightmapImport:          0: 5.9% covering 100.0% of volume
+[2019.04.28-01.07.28:850][691]LogVolumetricLightmapImport:          1: 94.1% covering 25.0% of volume
+[2019.04.28-01.07.28:850][691]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.04.28-01.07.28:870][691]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2019.04.28-01.07.28:870][691]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.04.28-01.07.28:870][691]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.04.28-01.07.28:902][691]Lightmass on DESKTOP-G3P6UN7: 1.76 sec total, 84 ms importing, 12 ms setup, 1.00 sec photons, 637 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 8.56 sec total, 47 ms processing.
+[2019.04.28-01.07.28:952][691]LogStaticLightingSystem: Illumination: 6.89 sec (9 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.04.28-01.07.28:952][691]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.04.28-01.07.28:952][691]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.04.28-01.07.29:525][691]DumpUnbuiltLightIteractions
+[2019.04.28-01.07.29:525][691]Lights with unbuilt interactions: 0
+[2019.04.28-01.07.29:526][691]
+[2019.04.28-01.07.29:526][691]Primitives with unbuilt interactions: 0
+[2019.04.28-01.07.29:684][692]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.28-01.07.29:684][692]MapCheck: New page: Test - Apr 27, 2019, 5:07:29 PM
+[2019.04.28-01.07.29:685][692]MapCheck: Warning: BP_GoodSky_5 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.04.28-01.07.29:685][692]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.024ms to complete.
+[2019.04.28-01.07.54:968][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.08.07:330][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.08.12:930][747]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.28-01.08.36:234][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.08.37:100][533]LogSlate: Window 'Save Content' being destroyed
+[2019.04.28-01.08.37:198][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightsaber/Maps/Test" FILE="C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.28-01.08.37:458][533]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/TestBCB1D19248E4EF93FF103FA364FFEB7D.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap'
+[2019.04.28-01.08.37:481][533]LogFileHelpers: Saving map 'Test' took 0.283
+[2019.04.28-01.08.37:486][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightsaber/Maps/Test_BuiltData" FILE="C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test_BuiltData.uasset" SILENT=true
+[2019.04.28-01.08.37:525][533]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Test_BuiltData9A142186423DF5C127D33C895606DA77.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test_BuiltData.uasset'
+[2019.04.28-01.08.40:227][808]MapCheck: New page: Map Check
+[2019.04.28-01.08.40:240][808]LightingResults: New page: Lighting Build - Apr 27, 2019, 5:08:40 PM
+[2019.04.28-01.08.40:247][808]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.28-01.08.40:250][808]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.28-01.08.40:250][808]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.28-01.08.40:251][808]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.28-01.08.40:251][808]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9916
+[2019.04.28-01.08.44:760][808]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.04.28-01.08.44:760][808]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.28-01.08.44:760][808]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.28-01.08.44:760][808]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.28-01.08.44:760][808]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.28-01.08.44:760][808]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.28-01.08.44:862][808]LogEditorBuildUtils: Build time 0:04
+[2019.04.28-01.08.46:922][955]Job is a success!
+[2019.04.28-01.08.47:049][957]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2019.04.28-01.08.47:050][957]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.28-01.08.47:050][957]LogVolumetricLightmapImport:      BrickData 85x5x5 = 0.1Mb (trimmed 0.5Mb due to 0.010000 MinBrickError)
+[2019.04.28-01.08.47:050][957]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.28-01.08.47:050][957]LogVolumetricLightmapImport:          0: 5.9% covering 100.0% of volume
+[2019.04.28-01.08.47:050][957]LogVolumetricLightmapImport:          1: 94.1% covering 25.0% of volume
+[2019.04.28-01.08.47:050][957]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.04.28-01.08.47:071][957]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.04.28-01.08.47:071][957]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2019.04.28-01.08.47:071][957]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.04.28-01.08.47:108][957]Lightmass on DESKTOP-G3P6UN7: 1.76 sec total, 87 ms importing, 13 ms setup, 1.00 sec photons, 641 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 8.62 sec total, 47 ms processing.
+[2019.04.28-01.08.47:160][957]LogStaticLightingSystem: Illumination: 6.86 sec (9 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.04.28-01.08.47:160][957]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.04.28-01.08.47:160][957]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.04.28-01.08.47:766][957]DumpUnbuiltLightIteractions
+[2019.04.28-01.08.47:766][957]Lights with unbuilt interactions: 0
+[2019.04.28-01.08.47:766][957]
+[2019.04.28-01.08.47:766][957]Primitives with unbuilt interactions: 0
+[2019.04.28-01.08.47:922][958]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.28-01.08.47:923][958]MapCheck: New page: Test - Apr 27, 2019, 5:08:47 PM
+[2019.04.28-01.08.47:923][958]MapCheck: Warning: BP_GoodSky_5 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.04.28-01.08.47:923][958]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.095ms to complete.
+[2019.04.28-01.09.01:721][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.09.07:648][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.09.12:639][788]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.28-01.09.18:537][454]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.09.20:324][641]MapCheck: New page: Map Check
+[2019.04.28-01.09.20:333][641]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.09.20:335][641]LightingResults: New page: Lighting Build - Apr 27, 2019, 5:09:20 PM
+[2019.04.28-01.09.20:343][641]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.28-01.09.20:346][641]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.28-01.09.20:346][641]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.28-01.09.20:347][641]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.28-01.09.20:347][641]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9916
+[2019.04.28-01.09.24:852][641]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.04.28-01.09.24:852][641]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.28-01.09.24:852][641]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.28-01.09.24:852][641]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.28-01.09.24:852][641]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.28-01.09.24:852][641]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.28-01.09.24:957][641]LogEditorBuildUtils: Build time 0:04
+[2019.04.28-01.09.27:134][796]Job is a success!
+[2019.04.28-01.09.27:154][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.09.27:220][797]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2019.04.28-01.09.27:220][797]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.28-01.09.27:220][797]LogVolumetricLightmapImport:      BrickData 310x5x5 = 0.3Mb (trimmed 0.3Mb due to 0.010000 MinBrickError)
+[2019.04.28-01.09.27:220][797]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.28-01.09.27:220][797]LogVolumetricLightmapImport:          0: 1.6% covering 100.0% of volume
+[2019.04.28-01.09.27:220][797]LogVolumetricLightmapImport:          1: 25.8% covering 25.0% of volume
+[2019.04.28-01.09.27:220][797]LogVolumetricLightmapImport:          2: 72.6% covering 1.1% of volume
+[2019.04.28-01.09.27:243][797]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2019.04.28-01.09.27:243][797]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.04.28-01.09.27:244][797]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.04.28-01.09.27:244][797]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 128X64)
+[2019.04.28-01.09.27:281][797]Lightmass on DESKTOP-G3P6UN7: 1.88 sec total, 84 ms importing, 12 ms setup, 1.11 sec photons, 644 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 8.67 sec total, 125 ms processing.
+[2019.04.28-01.09.27:331][797]LogStaticLightingSystem: Illumination: 6.93 sec (9 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2019.04.28-01.09.27:331][797]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.04.28-01.09.27:331][797]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.04.28-01.09.27:857][797]DumpUnbuiltLightIteractions
+[2019.04.28-01.09.27:857][797]Lights with unbuilt interactions: 0
+[2019.04.28-01.09.27:857][797]
+[2019.04.28-01.09.27:858][797]Primitives with unbuilt interactions: 0
+[2019.04.28-01.09.27:863][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.09.28:016][798]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.28-01.09.28:016][798]MapCheck: New page: Test - Apr 27, 2019, 5:09:28 PM
+[2019.04.28-01.09.28:017][798]MapCheck: Warning: BP_GoodSky_5 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.04.28-01.09.28:017][798]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.015ms to complete.
+[2019.04.28-01.09.45:015][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.10.04:689][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.28-01.10.05:145][ 90]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-01.10.07:636][382]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.04.28-01.10.14:811][ 58]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.04.28-01.10.16:149][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.10.23:222][ 44]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.28-01.10.25:762][340]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.10.26:301][394]MapCheck: New page: Map Check
+[2019.04.28-01.10.26:309][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.10.26:312][394]LightingResults: New page: Lighting Build - Apr 27, 2019, 5:10:26 PM
+[2019.04.28-01.10.26:320][394]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.28-01.10.26:323][394]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.28-01.10.26:323][394]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.28-01.10.26:324][394]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.28-01.10.26:324][394]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9916
+[2019.04.28-01.10.30:829][394]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.04.28-01.10.30:829][394]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.28-01.10.30:829][394]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.28-01.10.30:829][394]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.28-01.10.30:829][394]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.28-01.10.30:829][394]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.28-01.10.30:931][394]LogEditorBuildUtils: Build time 0:04
+[2019.04.28-01.10.33:095][547]Job is a success!
+[2019.04.28-01.10.33:121][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.10.33:192][548]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2019.04.28-01.10.33:192][548]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.28-01.10.33:192][548]LogVolumetricLightmapImport:      BrickData 570x5x5 = 0.6Mb
+[2019.04.28-01.10.33:192][548]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.28-01.10.33:192][548]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2019.04.28-01.10.33:192][548]LogVolumetricLightmapImport:          1: 14.0% covering 25.0% of volume
+[2019.04.28-01.10.33:192][548]LogVolumetricLightmapImport:          2: 85.1% covering 2.4% of volume
+[2019.04.28-01.10.33:216][548]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2019.04.28-01.10.33:216][548]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.04.28-01.10.33:216][548]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.04.28-01.10.33:216][548]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 128X64)
+[2019.04.28-01.10.33:252][548]Lightmass on DESKTOP-G3P6UN7: 1.86 sec total, 90 ms importing, 15 ms setup, 1.10 sec photons, 633 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 8.51 sec total, 137 ms processing.
+[2019.04.28-01.10.33:302][548]LogStaticLightingSystem: Illumination: 6.93 sec (9 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2019.04.28-01.10.33:302][548]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.04.28-01.10.33:302][548]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.04.28-01.10.33:837][548]DumpUnbuiltLightIteractions
+[2019.04.28-01.10.33:837][548]Lights with unbuilt interactions: 0
+[2019.04.28-01.10.33:837][548]
+[2019.04.28-01.10.33:837][548]Primitives with unbuilt interactions: 0
+[2019.04.28-01.10.33:842][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.10.33:993][549]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.28-01.10.33:994][549]MapCheck: New page: Test - Apr 27, 2019, 5:10:33 PM
+[2019.04.28-01.10.33:994][549]MapCheck: Warning: BP_GoodSky_5 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.04.28-01.10.33:995][549]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.038ms to complete.
+[2019.04.28-01.10.50:105][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.04.28-01.11.20:206][879]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.11.20:951][958]MapCheck: New page: Map Check
+[2019.04.28-01.11.20:961][958]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.11.20:963][958]LightingResults: New page: Lighting Build - Apr 27, 2019, 5:11:20 PM
+[2019.04.28-01.11.20:970][958]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.28-01.11.20:972][958]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.28-01.11.20:972][958]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.28-01.11.20:973][958]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.28-01.11.20:973][958]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9916
+[2019.04.28-01.11.25:479][958]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.04.28-01.11.25:479][958]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.28-01.11.25:479][958]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.28-01.11.25:479][958]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.28-01.11.25:479][958]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.28-01.11.25:479][958]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.28-01.11.25:582][958]LogEditorBuildUtils: Build time 0:04
+[2019.04.28-01.11.27:662][104]Job is a success!
+[2019.04.28-01.11.27:698][105]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.11.27:766][105]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2019.04.28-01.11.27:766][105]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.28-01.11.27:766][105]LogVolumetricLightmapImport:      BrickData 470x5x5 = 0.5Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2019.04.28-01.11.27:766][105]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.28-01.11.27:766][105]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2019.04.28-01.11.27:766][105]LogVolumetricLightmapImport:          1: 17.0% covering 25.0% of volume
+[2019.04.28-01.11.27:766][105]LogVolumetricLightmapImport:          2: 81.9% covering 1.9% of volume
+[2019.04.28-01.11.27:791][105]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2019.04.28-01.11.27:791][105]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.04.28-01.11.27:791][105]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.04.28-01.11.27:791][105]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 64X64)
+[2019.04.28-01.11.27:823][105]Lightmass on DESKTOP-G3P6UN7: 1.80 sec total, 84 ms importing, 13 ms setup, 1.01 sec photons, 670 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 9.05 sec total, 57 ms processing.
+[2019.04.28-01.11.27:874][105]LogStaticLightingSystem: Illumination: 6.85 sec (9 ms encoding lightmaps, 1 ms encoding shadowmaps)
+[2019.04.28-01.11.27:874][105]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.04.28-01.11.27:874][105]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.04.28-01.11.28:484][105]DumpUnbuiltLightIteractions
+[2019.04.28-01.11.28:485][105]Lights with unbuilt interactions: 0
+[2019.04.28-01.11.28:485][105]
+[2019.04.28-01.11.28:485][105]Primitives with unbuilt interactions: 0
+[2019.04.28-01.11.28:489][105]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.11.28:641][106]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.28-01.11.28:641][106]MapCheck: New page: Test - Apr 27, 2019, 5:11:28 PM
+[2019.04.28-01.11.28:643][106]MapCheck: Warning: BP_GoodSky_5 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.04.28-01.11.28:643][106]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.549ms to complete.
+[2019.04.28-01.11.39:626][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.11.40:615][350]LogSlate: Window 'Save Content' being destroyed
+[2019.04.28-01.11.40:667][350]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.11.40:714][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightsaber/Maps/Test" FILE="C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.28-01.11.40:974][350]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Test9378DC8B487BE880045154AACEA537F1.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap'
+[2019.04.28-01.11.40:995][350]LogFileHelpers: Saving map 'Test' took 0.281
+[2019.04.28-01.11.40:997][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightsaber/Maps/Test_BuiltData" FILE="C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test_BuiltData.uasset" SILENT=true
+[2019.04.28-01.11.41:031][350]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Test_BuiltData87B41347497C2FE2B831C1BB7F9BE5A2.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test_BuiltData.uasset'
+[2019.04.28-01.11.51:831][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.12.07:076][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.12.07:200][374]LogLinker: Warning: Can't find file '/Game/Landscape/metal'
+[2019.04.28-01.12.07:200][374]LogLinker: Warning: Can't find file for asset '/Game/Landscape/metal' while loading C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/LAATinterior.uasset.
+[2019.04.28-01.12.07:200][374]LoadErrors: Error: /Game/BF2_Assets/Vehicles/LAAT/LAATinterior : Can't find file for asset. /Game/Landscape/metal
+[2019.04.28-01.12.07:200][374]LogLinker: Warning: Can't find file '/Game/Landscape/metal'
+[2019.04.28-01.12.07:200][374]LogLinker: Warning: Can't find file for asset '/Game/Landscape/metal' while loading C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/LAATinterior.uasset.
+[2019.04.28-01.12.07:201][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Fire01_Cue'
+[2019.04.28-01.12.07:201][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Fire01_Cue' while loading C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/Debris/debris1.uasset.
+[2019.04.28-01.12.07:201][374]LoadErrors: Error: /Game/BF2_Assets/Vehicles/LAAT/Debris/debris1 : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Fire01_Cue
+[2019.04.28-01.12.07:201][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire'
+[2019.04.28-01.12.07:201][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire' while loading C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/Debris/debris1.uasset.
+[2019.04.28-01.12.07:201][374]LoadErrors: Error: /Game/BF2_Assets/Vehicles/LAAT/Debris/debris1 : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire
+[2019.04.28-01.12.07:202][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Smoke'
+[2019.04.28-01.12.07:202][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Smoke' while loading C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/Debris/debris1.uasset.
+[2019.04.28-01.12.07:202][374]LoadErrors: Error: /Game/BF2_Assets/Vehicles/LAAT/Debris/debris1 : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Smoke
+[2019.04.28-01.12.07:202][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Sparks'
+[2019.04.28-01.12.07:202][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Sparks' while loading C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/Debris/debris1.uasset.
+[2019.04.28-01.12.07:202][374]LoadErrors: Error: /Game/BF2_Assets/Vehicles/LAAT/Debris/debris1 : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Sparks
+[2019.04.28-01.12.07:202][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire'
+[2019.04.28-01.12.07:202][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire' while loading C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/Debris/debris1.uasset.
+[2019.04.28-01.12.07:202][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Smoke'
+[2019.04.28-01.12.07:203][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Smoke' while loading C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/Debris/debris1.uasset.
+[2019.04.28-01.12.07:203][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Sparks'
+[2019.04.28-01.12.07:203][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Sparks' while loading C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/Debris/debris1.uasset.
+[2019.04.28-01.12.07:203][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Fire01_Cue'
+[2019.04.28-01.12.07:203][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Fire01_Cue' while loading C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/BF2_Assets/Vehicles/LAAT/Debris/debris1.uasset.
+[2019.04.28-01.12.07:204][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Fire01_Cue'
+[2019.04.28-01.12.07:204][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Fire01_Cue' while loading NULL.
+[2019.04.28-01.12.07:204][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire'
+[2019.04.28-01.12.07:204][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire' while loading NULL.
+[2019.04.28-01.12.07:204][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Smoke'
+[2019.04.28-01.12.07:204][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Smoke' while loading NULL.
+[2019.04.28-01.12.07:204][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Sparks'
+[2019.04.28-01.12.07:204][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Sparks' while loading NULL.
+[2019.04.28-01.12.07:205][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire'
+[2019.04.28-01.12.07:205][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire' while loading NULL.
+[2019.04.28-01.12.07:205][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Smoke'
+[2019.04.28-01.12.07:205][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Smoke' while loading NULL.
+[2019.04.28-01.12.07:205][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Sparks'
+[2019.04.28-01.12.07:205][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Sparks' while loading NULL.
+[2019.04.28-01.12.07:205][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Fire01_Cue'
+[2019.04.28-01.12.07:205][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Fire01_Cue' while loading NULL.
+[2019.04.28-01.12.07:206][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire'
+[2019.04.28-01.12.07:206][374]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire.P_Fire Referenced by fire_GEN_VARIABLE
+[2019.04.28-01.12.07:206][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire' while loading NULL.
+[2019.04.28-01.12.07:206][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire'
+[2019.04.28-01.12.07:206][374]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire.P_Fire Referenced by fire2_GEN_VARIABLE
+[2019.04.28-01.12.07:207][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire' while loading NULL.
+[2019.04.28-01.12.07:207][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire'
+[2019.04.28-01.12.07:207][374]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire.P_Fire Referenced by fire3_GEN_VARIABLE
+[2019.04.28-01.12.07:207][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire' while loading NULL.
+[2019.04.28-01.12.07:207][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire'
+[2019.04.28-01.12.07:207][374]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire.P_Fire Referenced by fire4_GEN_VARIABLE
+[2019.04.28-01.12.07:207][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire' while loading NULL.
+[2019.04.28-01.12.07:207][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire'
+[2019.04.28-01.12.07:207][374]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire.P_Fire Referenced by fire5_GEN_VARIABLE
+[2019.04.28-01.12.07:207][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Fire' while loading NULL.
+[2019.04.28-01.12.07:208][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Smoke'
+[2019.04.28-01.12.07:208][374]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Smoke.P_Smoke Referenced by smoke_GEN_VARIABLE
+[2019.04.28-01.12.07:208][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Smoke' while loading NULL.
+[2019.04.28-01.12.07:208][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Sparks'
+[2019.04.28-01.12.07:208][374]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Sparks.P_Sparks Referenced by sparks_GEN_VARIABLE
+[2019.04.28-01.12.07:208][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Sparks' while loading NULL.
+[2019.04.28-01.12.07:208][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Sparks'
+[2019.04.28-01.12.07:208][374]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Sparks.P_Sparks Referenced by sparks2_GEN_VARIABLE
+[2019.04.28-01.12.07:208][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Particles/P_Sparks' while loading NULL.
+[2019.04.28-01.12.07:209][374]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Fire01_Cue'
+[2019.04.28-01.12.07:209][374]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Fire01_Cue.Fire01_Cue Referenced by flames_GEN_VARIABLE
+[2019.04.28-01.12.07:209][374]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Fire01_Cue' while loading NULL.
+[2019.04.28-01.12.07:213][374]LogLinker: Warning: Can't find file '/Game/Landscape/metal'
+[2019.04.28-01.12.07:213][374]LoadErrors: Failed to load /Game/Landscape/metal.metal Referenced by LAATinterior
+[2019.04.28-01.12.07:213][374]LogLinker: Warning: Can't find file for asset '/Game/Landscape/metal' while loading NULL.
+[2019.04.28-01.12.40:954][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.12.41:037][269]Cmd: MODE ROTGRID=0
+[2019.04.28-01.12.45:110][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.28-01.12.46:581][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.12.49:015][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.13.23:397][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.13.45:178][747]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.04.28-01.13.46:316][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-01.13.47:325][887]LogSlate: Window 'Save Content' being destroyed
+[2019.04.28-01.13.47:425][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightsaber/Maps/Test" FILE="C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.28-01.13.47:691][887]LogSavePackage: Moving 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Saved/Test59E873A948762E0EFA7C40BE44B7C14A.tmp' to 'C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap'
+[2019.04.28-01.13.47:713][887]LogFileHelpers: Saving map 'Test' took 0.288
+[2019.04.28-01.15.00:123][994]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_Rock'
+[2019.04.28-01.15.00:123][994]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_Rock' while loading C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/StarterContent/Props/Materials/M_Rock.uasset.
+[2019.04.28-01.15.00:124][994]LoadErrors: Error: /Game/StarterContent/Props/Materials/M_Rock : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_Rock
+[2019.04.28-01.15.00:124][994]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_Rock'
+[2019.04.28-01.15.00:124][994]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_Rock' while loading C:/Users/stott/Desktop/Unreal Assets/LightSaber 4.20/Content/StarterContent/Props/Materials/M_Rock.uasset.
+[2019.04.28-01.15.00:124][994]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_Rock'
+[2019.04.28-01.15.00:124][994]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_Rock.M_Rock Referenced by M_Rock
+[2019.04.28-01.15.00:124][994]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_Rock' while loading NULL.
+[2019.04.28-01.15.01:433][994]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.28-01.15.01:534][994]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.04.28-01.15.01:987][994]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.453 s
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: 
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: Ensure condition failed: Found [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 198]
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: Cannot remove redirection from /Game/StarterContent/Props/Materials/M_Rock.M_Rock, it was not registered
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: Stack: 
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: [Callstack] 0x00007ffb5340ab12 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: [Callstack] 0x00007ffb6ce22e08 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: [Callstack] 0x00007ffb42f206a4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: [Callstack] 0x00007ffb42f201a5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: [Callstack] 0x00007ffb4262f2d6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: [Callstack] 0x00007ffb428e7920 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: [Callstack] 0x00007ffb428f2e9f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: [Callstack] 0x00007ffb5260c7bb UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: [Callstack] 0x00007ffb523f8e25 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: [Callstack] 0x00007ffb52492678 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: [Callstack] 0x00007ffb5247857a UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: [Callstack] 0x00007ffb5246b44c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: [Callstack] 0x00007ffb6dcfde26 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.28-01.15.01:987][994]LogOutputDevice: Error: [Callstack] 0x00007ffb6dcf0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb6dd001eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb6dceca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffbb51eca66 USER32.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffbb51ec582 USER32.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb6dd016a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb5249f842 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb5242738c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb42999816 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb42f1f798 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb5cdadd2f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb5ceba5d9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb5ceb389a UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb5ce12123 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb5cdb477f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb5260c7bb UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb523f8e25 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb52492678 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb5247857a UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb5246b44c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb6dcfde26 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb6dcf0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb6dd001eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb6dceca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffbb51eca66 USER32.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffbb51ec582 USER32.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffb6dd01746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ff6bbf75546 UE4Editor.exe!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ff6bbf8596c UE4Editor.exe!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ff6bbf859ea UE4Editor.exe!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ff6bbf948da UE4Editor.exe!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ff6bbf9659a UE4Editor.exe!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffbb5137974 KERNEL32.DLL!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: [Callstack] 0x00007ffbb637a271 ntdll.dll!UnknownFunction []
+[2019.04.28-01.15.01:988][994]LogOutputDevice: Error: 
+[2019.04.28-01.15.01:996][994]LogStats:                SubmitErrorReport -  0.000 s

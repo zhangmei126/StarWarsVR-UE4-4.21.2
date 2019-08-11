@@ -1,0 +1,874 @@
+﻿Log file open, 06/04/19 01:01:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LightSaber4_21
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.511893
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ParticleText
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogPluginManager: Mounting plugin OpenVRExpansionPlugin
+LogPluginManager: Mounting plugin VRExpansionPlugin
+LogStreaming: Display: Took  0.040s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=ArrogantNormie -epicuserid=00df9b6805af43d3a0c3c348f218e5bb -epiclocale=en-US
+LogInit: Base Directory: U:/UnrealEngine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.04-05.01.37:230][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.04-05.01.37:230][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.04-05.01.37:231][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.04-05.01.37:231][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.04-05.01.37:231][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.04-05.01.37:231][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.04-05.01.37:231][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.04-05.01.37:231][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.04-05.01.37:231][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.04-05.01.37:236][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.04-05.01.37:236][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.04-05.01.37:237][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.04-05.01.37:237][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.04-05.01.37:237][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.04-05.01.37:245][  0]LogHAL: Display: Platform has ~ 16 GB [17104732160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.04-05.01.37:245][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.04-05.01.37:245][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.04-05.01.37:245][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.04-05.01.37:246][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.04-05.01.37:246][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [U:/Unreal Projects/LightSaber 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.04-05.01.37:246][  0]LogInit: Computer: DESKTOP-G3P6UN7
+[2019.06.04-05.01.37:246][  0]LogInit: User: stott
+[2019.06.04-05.01.37:246][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.06.04-05.01.37:246][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.04-05.01.37:246][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.04-05.01.37:246][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.04-05.01.37:246][  0]LogMemory: Process Physical Memory: 106.95 MB used, 106.95 MB peak
+[2019.06.04-05.01.37:246][  0]LogMemory: Process Virtual Memory: 105.14 MB used, 105.14 MB peak
+[2019.06.04-05.01.37:246][  0]LogMemory: Physical Memory: 7098.36 MB used,  9213.98 MB free, 16312.34 MB total
+[2019.06.04-05.01.37:246][  0]LogMemory: Virtual Memory: 4697.03 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2019.06.04-05.01.37:257][  0]LogInit: Using OS detected language (en-US).
+[2019.06.04-05.01.37:257][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.04-05.01.37:257][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.04-05.01.37:510][  0]LogStreaming: Display: Took  0.253s to InitEngineTextLocalization.
+[2019.06.04-05.01.37:510][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.04-05.01.37:544][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.04-05.01.37:544][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.04-05.01.37:719][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.04-05.01.37:778][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.06.04-05.01.37:778][  0]LogD3D11RHI:       8010/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.06.04-05.01.37:779][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.04-05.01.37:779][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.04-05.01.37:779][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.04-05.01.37:786][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.04-05.01.37:786][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.04-05.01.37:786][  0]LogWindows: EnumDisplayDevices:
+[2019.06.04-05.01.37:787][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2019.06.04-05.01.37:787][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.06.04-05.01.37:787][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.06.04-05.01.37:787][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.06.04-05.01.37:787][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.04-05.01.37:787][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.06.04-05.01.37:787][  0]LogD3D11RHI:   Driver Version: 430.64 (internal:26.21.14.3064, unified:430.64)
+[2019.06.04-05.01.37:787][  0]LogD3D11RHI:      Driver Date: 5-5-2019
+[2019.06.04-05.01.37:787][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.06.04-05.01.37:817][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.04-05.01.37:830][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.04-05.01.37:872][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2019.06.04-05.01.38:059][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.04-05.01.38:068][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.04-05.01.38:076][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.04-05.01.38:085][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.04-05.01.38:093][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.04-05.01.38:102][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.04-05.01.38:110][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.04-05.01.38:120][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.04-05.01.38:123][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:172][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.04-05.01.38:173][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.04-05.01.38:223][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.04-05.01.38:223][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.04-05.01.38:239][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.04-05.01.38:239][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.04-05.01.38:248][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.04-05.01.38:256][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.04-05.01.38:268][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.04-05.01.38:276][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.04-05.01.38:312][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.04-05.01.38:312][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.04-05.01.38:312][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.04-05.01.38:338][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../Unreal Projects/LightSaber 4.21/Intermediate/Shaders/WorkingDirectory/27428/).
+[2019.06.04-05.01.38:338][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/stott/AppData/Local/Temp/UnrealShaderWorkingDir/7B57DF4840BD8BA0467DC3A89A9B1330/'.
+[2019.06.04-05.01.38:338][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.04-05.01.38:339][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.04-05.01.38:339][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.04-05.01.38:716][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.04-05.01.38:760][  0]LogDerivedDataCache: Loaded boot cache 0.04s 85MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.04-05.01.38:760][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.04-05.01.38:760][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/LightSaber 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.04-05.01.38:760][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.04-05.01.38:760][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/LightSaber 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.04-05.01.38:760][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.04-05.01.38:771][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.04-05.01.38:771][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.04-05.01.38:771][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.04-05.01.38:783][  0]LogDerivedDataCache: Using Local data cache path C:/Users/stott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.04-05.01.38:783][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.04-05.01.38:783][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.04-05.01.38:800][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.04-05.01.38:801][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.04-05.01.38:801][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.04-05.01.38:866][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2019.06.04-05.01.39:075][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.04-05.01.39:120][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.04-05.01.39:121][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.04-05.01.39:121][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.04-05.01.39:121][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.04-05.01.39:121][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.04-05.01.39:188][  0]LogNetVersion: LightSaber4_21 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1088357905)
+[2019.06.04-05.01.39:231][  0]LogNavigation: Error: [/Script/Engine.NavigationSystem] found in the DefaultEngine.ini file. This class has been moved. Please rename that section to [/Script/NavigationSystem.NavigationSystemV1]
+[2019.06.04-05.01.39:532][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.055709 seconds
+[2019.06.04-05.01.39:536][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.04-05.01.39:536][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.06.04-05.01.39:536][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.04-05.01.40:078][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.04-05.01.40:091][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.04-05.01.40:556][  0]SourceControl: Source control is disabled
+[2019.06.04-05.01.40:556][  0]SourceControl: Source control is disabled
+[2019.06.04-05.01.40:557][  0]SourceControl: Source control is disabled
+[2019.06.04-05.01.40:557][  0]SourceControl: Source control is disabled
+[2019.06.04-05.01.40:682][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.04-05.01.40:826][  0]LogOcInput: OculusInput pre-init called
+[2019.06.04-05.01.40:836][  0]LogPython: Python Scripts search path: ../../../../../Unreal Projects/LightSaber 4.21/Content/Scripts
+[2019.06.04-05.01.40:836][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2019.06.04-05.01.40:836][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2019.06.04-05.01.40:908][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2019.06.04-05.01.40:908][  0]LogPython: 
+
+[2019.06.04-05.01.40:909][  0]LogPython: U:\UnrealEngine\UE_4.21\Engine\Plugins\UnrealEnginePython\
+[2019.06.04-05.01.40:909][  0]LogPython: 
+
+[2019.06.04-05.01.40:947][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2019.06.04-05.01.40:947][  0]LogPython: 
+
+[2019.06.04-05.01.40:947][  0]LogPython: ue_site Python module successfully imported
+[2019.06.04-05.01.41:079][  0]LogEngine: Initializing Engine...
+[2019.06.04-05.01.41:081][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-FCDAF386
+[2019.06.04-05.01.41:082][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.04-05.01.41:082][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.04-05.01.41:082][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.04-05.01.41:082][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.04-05.01.41:252][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.04-05.01.41:258][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.04-05.01.41:353][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.04-05.01.41:365][  0]LogInit: FAudioDevice initialized.
+[2019.06.04-05.01.41:365][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.04-05.01.41:447][  0]LogDerivedDataCache: Saved boot cache 0.08s 85MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.04-05.01.41:458][  0]LogInit: Texture streaming: Enabled
+[2019.06.04-05.01.41:466][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.04-05.01.41:478][  0]LogInit: Transaction tracking system initialized
+[2019.06.04-05.01.41:487][  0]BlueprintLog: New page: Editor Load
+[2019.06.04-05.01.41:519][  0]LocalizationService: Localization service is disabled
+[2019.06.04-05.01.41:879][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.04-05.01.41:879][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.04-05.01.41:879][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.04-05.01.41:879][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.04-05.01.41:879][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.04-05.01.41:879][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.04-05.01.41:879][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.04-05.01.41:948][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/LightSaber 4.21/Content/' took 0.02s
+[2019.06.04-05.01.41:948][  0]SourceControl: Source control is disabled
+[2019.06.04-05.01.41:948][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/LightSaber 4.21/Content/Lightsaber/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.04-05.01.41:948][  0]LightingResults: New page: Lighting Build
+[2019.06.04-05.01.41:949][  0]MapCheck: New page: Map Check
+[2019.06.04-05.01.41:949][  0]LightingResults: New page: Lighting Build
+[2019.06.04-05.01.42:351][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; please replace or remove it.
+[2019.06.04-05.01.42:351][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; Please use the Motion Source property instead of Hand
+[2019.06.04-05.01.42:380][  0]LogBlueprint: Warning: [Compiler BP_MotionController] [0006.68] Compile of BP_MotionController successful, but with 2 Warning(s) [in 46 ms] (/Game/Lightsaber/Blueprints/BP_MotionController.BP_MotionController)
+[2019.06.04-05.01.43:664][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.06.04-05.01.43:665][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../Unreal Projects/LightSaber 4.21/Content/StarterContent/Shapes/Shape_Cylinder.uasset.
+[2019.06.04-05.01.43:665][  0]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Cylinder : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall
+[2019.06.04-05.01.43:665][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.06.04-05.01.43:665][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../Unreal Projects/LightSaber 4.21/Content/StarterContent/Shapes/Shape_Cylinder.uasset.
+[2019.06.04-05.01.43:665][  0]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Cylinder : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall
+[2019.06.04-05.01.44:327][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.06.04-05.01.44:327][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.06.04-05.01.44:327][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2019.06.04-05.01.44:327][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.06.04-05.01.44:328][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.06.04-05.01.44:328][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.06.04-05.01.44:328][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2019.06.04-05.01.44:328][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.06.04-05.01.45:416][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2019.06.04-05.01.45:416][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2019.06.04-05.01.45:416][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2019.06.04-05.01.45:416][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2019.06.04-05.01.45:543][  0]LogAIModule: Creating AISystem for world Test
+[2019.06.04-05.01.45:698][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.04-05.01.45:741][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.04-05.01.45:741][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
+[2019.06.04-05.01.45:741][  0]LogFileHelpers: Loading map 'Test' took 3.792
+[2019.06.04-05.01.45:833][  0]LogCollectionManager: Loaded 0 collections in 0.000612 seconds
+[2019.06.04-05.01.45:857][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/LightSaber 4.21/Saved/Collections/' took 0.01s
+[2019.06.04-05.01.45:857][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/LightSaber 4.21/Content/Developers/stott/Collections/' took 0.00s
+[2019.06.04-05.01.45:857][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/LightSaber 4.21/Content/Collections/' took 0.01s
+[2019.06.04-05.01.45:857][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.04-05.01.45:863][  0]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 2727 classes and 641 folders.
+[2019.06.04-05.01.45:867][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.04-05.01.45:867][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:868][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:868][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:868][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:869][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:869][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:869][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:869][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:870][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:870][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:870][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:870][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:873][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:873][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:873][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:873][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:874][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:874][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.04-05.01.45:891][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.04-05.01.45:904][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-05.01.45:909][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-05.01.45:915][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-05.01.45:920][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-05.01.45:924][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.06.04-05.01.46:027][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.04-05.01.46:028][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.04-05.01.46:028][  0]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.04-05.01.46:100][  0]LogRenderer: Reallocating scene render targets to support 1304x1280 Format 26 NumSamples 1 (Frame:1).
+[2019.06.04-05.01.46:325][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.04-05.01.46:325][  0]LogLoad: (Engine Initialization) Total time: 10.63 seconds
+[2019.06.04-05.01.46:325][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.04-05.01.46:390][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.04-05.01.46:393][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.04-05.01.46:403][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.04-05.01.46:819][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2019.06.04-05.01.46:989][  7]LogAssetRegistry: Asset discovery search completed in 8.1448 seconds
+[2019.06.04-05.01.46:991][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.04-05.01.46:991][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2019.06.04-05.02.27:557][ 48]LogSlate: Window 'New Plugin' being destroyed
+[2019.06.04-05.02.27:604][ 48]LogSlate: Window 'New Plugin' being destroyed
+[2019.06.04-05.02.28:400][143]LogSlate: Window 'Plugins' being destroyed
+[2019.06.04-05.02.28:447][143]LogSlate: Window 'Plugins' being destroyed
+[2019.06.04-05.02.28:447][143]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.06.04-05.02.30:799][420]LogSlate: Window 'Message Log' being destroyed
+[2019.06.04-05.02.30:846][420]LogSlate: Window 'Message Log' being destroyed
+[2019.06.04-05.02.31:819][537]LogTemp: Repeating last play command: VR Preview
+[2019.06.04-05.02.31:838][537]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lightsaber/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Lightsaber/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/Test.Test:PersistentLevel.Test'
+[2019.06.04-05.02.31:838][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.04-05.02.31:838][537]PIE: New page: PIE session: Test (Jun 3, 2019, 9:02:31 PM)
+[2019.06.04-05.02.31:851][537]LogPlayLevel: Creating play world package: /Game/Lightsaber/Maps/UEDPIE_0_Test
+[2019.06.04-05.02.31:877][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025851s)
+[2019.06.04-05.02.31:877][537]LogAIModule: Creating AISystem for world Test
+[2019.06.04-05.02.31:877][537]LogPlayLevel: PIE: World Init took: (0.000413s)
+[2019.06.04-05.02.31:877][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lightsaber/Maps/Test.Test to /Game/Lightsaber/Maps/UEDPIE_0_Test.Test (0.026488s)
+[2019.06.04-05.02.31:947][537]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.04-05.02.31:955][537]LogInit: FAudioDevice initialized.
+[2019.06.04-05.02.31:960][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-05.02.32:083][537]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.06.04-05.02.32:083][537]LogLoad: Game class is 'GameModeBase'
+[2019.06.04-05.02.32:610][537]LogWorld: Bringing World /Game/Lightsaber/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.06.04-01.02.32
+[2019.06.04-05.02.32:615][537]LogWorld: Bringing up level for play took: 0.531572
+[2019.06.04-05.02.32:629][537]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.06.04-05.02.32:631][537]LogAnimation: Warning: AnimBP ABP_hand_right_C is incompatible with skeleton SK_hand_left_Skeleton, removing AnimBP from actor.
+[2019.06.04-05.02.32:635][537]PIE: Play in editor start time for /Game/Lightsaber/Maps/UEDPIE_0_Test 1.64
+[2019.06.04-05.02.32:635][537]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Lightsaber/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Lightsaber/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/Test.Test:PersistentLevel.Test'
+[2019.06.04-05.02.32:677][537]LogAudio: Warning: Detected orphaned looping sound 'AmbientMusic_Cue'.
+[2019.06.04-05.02.32:692][538]LogRenderer: Reallocating scene render targets to support 3704x2056 Format 26 NumSamples 1 (Frame:1).
+[2019.06.04-05.03.03:401][697]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Lightsaber/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Lightsaber/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/Test.Test:PersistentLevel.Test'
+[2019.06.04-05.03.03:542][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.04-05.03.03:584][697]LogSlate: Window 'LightSaber4_21 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.04-05.03.03:658][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.04-05.03.03:658][697]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Lightsaber/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Lightsaber/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/Test.Test:PersistentLevel.Test'
+[2019.06.04-05.03.03:702][698]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.06.04-05.04.22:911][826]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.06.04-05.04.46:341][496]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (23.370 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.04-05.07.09:006][619]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lightsaber/Blueprints/VRPlayerCharacters/VRCharacterTest.VRCharacterTest
+[2019.06.04-05.07.09:338][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:338][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:338][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:338][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:338][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:338][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:338][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:338][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:338][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:338][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:338][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:340][619]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.04-05.07.09:340][619]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.04-05.07.09:340][619]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.04-05.07.09:340][619]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.04-05.07.09:341][619]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.04-05.07.09:341][619]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.04-05.07.09:341][619]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.04-05.07.09:343][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:343][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:343][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:343][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:343][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:343][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:343][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:343][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:343][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:343][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:343][619]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.04-05.07.09:345][619]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.04-05.07.09:345][619]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.04-05.07.09:345][619]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.04-05.07.09:345][619]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.04-05.07.09:345][619]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.04-05.07.09:345][619]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.04-05.07.09:345][619]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.04-05.07.09:379][619]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2019.06.04-05.07.10:193][619]LogScript: Warning: Accessed None trying to read property MotionController_R
+	VaderWithIKsAnimBP_C /Engine/Transient.World_3:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_0
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:021D
+[2019.06.04-05.07.10:193][619]LogScript: Warning: Accessed None trying to read property MotionController_L
+	VaderWithIKsAnimBP_C /Engine/Transient.World_3:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_0
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:02DB
+[2019.06.04-05.07.10:199][619]LogScript: Warning: Accessed None trying to read property MotionController_R
+	VaderWithIKsAnimBP_C /Engine/Transient.World_2:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_0
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:021D
+[2019.06.04-05.07.10:199][619]LogScript: Warning: Accessed None trying to read property MotionController_L
+	VaderWithIKsAnimBP_C /Engine/Transient.World_2:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_0
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:02DB
+[2019.06.04-05.07.10:209][619]LogSlate: Took 0.003335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.04-05.07.10:338][620]LogSlate: Took 0.003483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.04-05.08.20:101][737]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_3 via property MotionController_R, but TRASH_MotionControllerComponent_3 is pending kill
+	VaderWithIKsAnimBP_C /Engine/Transient.World_3:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_0
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:021D
+[2019.06.04-05.08.20:101][737]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_5 via property MotionController_L, but TRASH_MotionControllerComponent_5 is pending kill
+	VaderWithIKsAnimBP_C /Engine/Transient.World_3:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_0
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:02DB
+[2019.06.04-05.08.20:102][737]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_11 via property MotionController_R, but TRASH_MotionControllerComponent_11 is pending kill
+	VaderWithIKsAnimBP_C /Engine/Transient.World_2:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_0
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:021D
+[2019.06.04-05.08.20:102][737]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_13 via property MotionController_L, but TRASH_MotionControllerComponent_13 is pending kill
+	VaderWithIKsAnimBP_C /Engine/Transient.World_2:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_0
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:02DB
+[2019.06.04-05.08.43:342][460]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_11 via property MotionController_R, but TRASH_MotionControllerComponent_11 is pending kill
+	VaderWithIKsAnimBP_C /Engine/Transient.World_3:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_0
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:021D
+[2019.06.04-05.08.43:342][460]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_13 via property MotionController_L, but TRASH_MotionControllerComponent_13 is pending kill
+	VaderWithIKsAnimBP_C /Engine/Transient.World_3:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_0
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:02DB
+[2019.06.04-05.08.43:343][460]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_29 via property MotionController_R, but TRASH_MotionControllerComponent_29 is pending kill
+	VaderWithIKsAnimBP_C /Engine/Transient.World_2:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_0
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:021D
+[2019.06.04-05.08.43:343][460]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_27 via property MotionController_L, but TRASH_MotionControllerComponent_27 is pending kill
+	VaderWithIKsAnimBP_C /Engine/Transient.World_2:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_0
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:02DB
+[2019.06.04-05.08.46:502][827]BlueprintLog: New page: Compile VRCharacterTest
+[2019.06.04-05.08.46:522][827]LogScript: Warning: Accessed None trying to read property MotionController_R
+	VaderWithIKsAnimBP_C /Engine/Transient.World_3:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_0
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:021D
+[2019.06.04-05.08.46:522][827]LogScript: Warning: Accessed None trying to read property MotionController_L
+	VaderWithIKsAnimBP_C /Engine/Transient.World_3:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_0
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:02DB
+[2019.06.04-05.08.46:528][827]LogScript: Warning: Accessed None trying to read property MotionController_R
+	VaderWithIKsAnimBP_C /Engine/Transient.World_3:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_1
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:021D
+[2019.06.04-05.08.46:528][827]LogScript: Warning: Accessed None trying to read property MotionController_L
+	VaderWithIKsAnimBP_C /Engine/Transient.World_3:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_1
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:02DB
+[2019.06.04-05.08.46:529][827]LogScript: Warning: Accessed None trying to read property MotionController_R
+	VaderWithIKsAnimBP_C /Engine/Transient.World_2:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_0
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:021D
+[2019.06.04-05.08.46:529][827]LogScript: Warning: Accessed None trying to read property MotionController_L
+	VaderWithIKsAnimBP_C /Engine/Transient.World_2:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_0
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:02DB
+[2019.06.04-05.08.46:531][827]LogScript: Warning: Accessed None trying to read property MotionController_R
+	VaderWithIKsAnimBP_C /Engine/Transient.World_2:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_1
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:021D
+[2019.06.04-05.08.46:531][827]LogScript: Warning: Accessed None trying to read property MotionController_L
+	VaderWithIKsAnimBP_C /Engine/Transient.World_2:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_1
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:02DB
+[2019.06.04-05.08.46:723][827]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_3 via property MotionController_R, but TRASH_MotionControllerComponent_3 is pending kill
+	VaderWithIKsAnimBP_C /Engine/Transient.World_3:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_1
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:021D
+[2019.06.04-05.08.46:723][827]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_5 via property MotionController_L, but TRASH_MotionControllerComponent_5 is pending kill
+	VaderWithIKsAnimBP_C /Engine/Transient.World_3:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_1
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:02DB
+[2019.06.04-05.08.46:724][827]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_3 via property MotionController_R, but TRASH_MotionControllerComponent_3 is pending kill
+	VaderWithIKsAnimBP_C /Engine/Transient.World_2:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_1
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:021D
+[2019.06.04-05.08.46:724][827]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_5 via property MotionController_L, but TRASH_MotionControllerComponent_5 is pending kill
+	VaderWithIKsAnimBP_C /Engine/Transient.World_2:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_1
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:02DB
+[2019.06.04-05.08.46:726][827]LogScript: Warning: Accessed None trying to read property MotionController_R
+	VaderWithIKsAnimBP_C /Engine/Transient.World_3:PersistentLevel.VRCharacterTest_C_1.CharacterMesh0.VaderWithIKsAnimBP_C_0
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:021D
+[2019.06.04-05.08.46:729][827]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_11 via property MotionController_R, but TRASH_MotionControllerComponent_11 is pending kill
+	VaderWithIKsAnimBP_C /Engine/Transient.World_2:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_1
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:021D
+[2019.06.04-05.08.46:729][827]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_13 via property MotionController_L, but TRASH_MotionControllerComponent_13 is pending kill
+	VaderWithIKsAnimBP_C /Engine/Transient.World_2:PersistentLevel.VRCharacterTest_C_0.CharacterMesh0.VaderWithIKsAnimBP_C_1
+	Function /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP_C:ExecuteUbergraph_VaderWithIKsAnimBP:02DB
+[2019.06.04-05.08.46:852][827]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.21/Saved/VRCharacterTest4A53EF0C4B10899BC541C6B9EBD31D9F.tmp' to '../../../../../Unreal Projects/LightSaber 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/VRCharacterTest.uasset'
+[2019.06.04-05.09.18:449][523]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.06.04-05.11.23:183][326]LogSlate: Window 'Plugins' being destroyed
+[2019.06.04-05.11.23:228][326]LogSlate: Window 'Plugins' being destroyed
+[2019.06.04-05.11.23:228][326]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.06.04-05.11.39:888][270]LogEditor: Attempting to add actor of class 'VRSimpleCharacter' to level at -68.93,455.02,146.00
+[2019.06.04-05.11.40:558][335]LogEditor: Attempting to add actor of class 'VRSimpleCharacter' to level at -58.52,245.95,146.00
+[2019.06.04-05.11.51:537][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-05.11.53:415][298]LogEditorViewport: Clicking on Actor (LMB): VRSimpleCharacter (VRSimpleCharacter1)
+[2019.06.04-05.11.58:289][621]Cmd: DELETE
+[2019.06.04-05.11.58:289][621]Cmd: ACTOR DELETE
+[2019.06.04-05.11.58:314][621]LogEditorActor: Deleted Actor: VRSimpleCharacter
+[2019.06.04-05.11.58:365][621]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2019.06.04-05.12.00:014][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-05.12.01:464][901]LogEditor: Attempting to add actor of class 'VRBaseCharacter' to level at 126.06,275.21,146.00
+[2019.06.04-05.12.01:653][910]LogEditor: Attempting to add actor of class 'VRBaseCharacter' to level at -50.63,231.08,146.00
+[2019.06.04-05.12.02:758][969]LogEditorViewport: Clicking on Actor (LMB): VRBaseCharacter (VRBaseCharacter1)
+[2019.06.04-05.12.02:918][977]Cmd: DELETE
+[2019.06.04-05.12.02:918][977]Cmd: ACTOR DELETE
+[2019.06.04-05.12.02:934][977]LogEditorActor: Deleted Actor: VRBaseCharacter
+[2019.06.04-05.12.02:987][977]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2019.06.04-05.12.03:901][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-05.12.05:643][229]LogAnimation: Warning: AnimBP ABP_hand_right_C is incompatible with skeleton SK_hand_left_Skeleton, removing AnimBP from actor.
+[2019.06.04-05.12.12:834][866]Cmd: DELETE
+[2019.06.04-05.12.12:834][866]Cmd: ACTOR DELETE
+[2019.06.04-05.12.12:848][866]LogEditorActor: Deleted Actor: Character
+[2019.06.04-05.12.12:877][866]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2019.06.04-05.12.13:809][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-05.12.18:987][416]LogEditor: Attempting to add actor of class 'VRBaseCharacter' to level at 101.44,250.30,146.00
+[2019.06.04-05.12.19:191][426]LogEditor: Attempting to add actor of class 'VRBaseCharacter' to level at -32.24,185.40,146.00
+[2019.06.04-05.12.26:610][885]LogEditorViewport: Clicking on Actor (LMB): VRBaseCharacter (VRBaseCharacter3)
+[2019.06.04-05.12.27:111][915]Cmd: DELETE
+[2019.06.04-05.12.27:111][915]Cmd: ACTOR DELETE
+[2019.06.04-05.12.27:126][915]LogEditorActor: Deleted Actor: VRBaseCharacter
+[2019.06.04-05.12.27:175][915]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2019.06.04-05.12.28:862][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-05.13.13:508][ 26]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.06.04-05.13.16:607][287]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1589)].
+[2019.06.04-05.13.17:174][287]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.21/Saved/Test_Auto1242228434F010F67A13B47A5D8689E2A.tmp' to '../../../../../Unreal Projects/LightSaber 4.21/Saved/Autosaves/Game/Lightsaber/Maps/Test_Auto1.umap'
+[2019.06.04-05.13.17:177][287]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Lightsaber/Maps/Test' took 0.480
+[2019.06.04-05.13.17:177][287]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.480
+[2019.06.04-05.13.17:179][287]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Lightsaber/Blueprints/VRPlayerCharacters/NewBlueprint] ([1] browsable assets)...
+[2019.06.04-05.13.17:179][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lightsaber/Blueprints/VRPlayerCharacters/NewBlueprint]
+[2019.06.04-05.13.17:188][287]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.21/Saved/NewBlueprint_Auto13A057071451B6D0C142D59AF3A5F47EF.tmp' to '../../../../../Unreal Projects/LightSaber 4.21/Saved/Autosaves/Game/Lightsaber/Blueprints/VRPlayerCharacters/NewBlueprint_Auto1.uasset'
+[2019.06.04-05.13.17:188][287]LogFileHelpers: Auto-saving content packages took 0.010
+[2019.06.04-05.13.23:994][884]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.21/Saved/VRBaseCharD7EFDF194EC3969461092E86F35EFA93.tmp' to '../../../../../Unreal Projects/LightSaber 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/VRBaseChar.uasset'
+[2019.06.04-05.13.23:996][884]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/VRBaseChar.VRBaseChar:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/NewBlueprint.PackageMetaData'
+[2019.06.04-05.13.23:996][884]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/VRBaseChar.SKEL_VRBaseChar_C' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/NewBlueprint.PackageMetaData'
+[2019.06.04-05.13.23:996][884]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/VRBaseChar.VRBaseChar_C' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/NewBlueprint.PackageMetaData'
+[2019.06.04-05.13.23:996][884]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/VRBaseChar.VRBaseChar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/NewBlueprint.PackageMetaData'
+[2019.06.04-05.13.23:996][884]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/VRBaseChar.VRBaseChar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/NewBlueprint.PackageMetaData'
+[2019.06.04-05.13.23:996][884]LogMetaData: Removing '/Game/Lightsaber/Blueprints/VRPlayerCharacters/VRBaseChar.VRBaseChar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Lightsaber/Blueprints/VRPlayerCharacters/NewBlueprint.PackageMetaData'
+[2019.06.04-05.13.24:126][884]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.21/Saved/VRBaseChar3F5234A54BDD6FBB785D2D9A6640127D.tmp' to '../../../../../Unreal Projects/LightSaber 4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/VRBaseChar.uasset'
+[2019.06.04-05.13.25:364][945]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lightsaber/Blueprints/VRPlayerCharacters/VRBaseChar.VRBaseChar
+[2019.06.04-05.13.46:337][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (32.759 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.04-05.14.03:255][417]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.04-05.14.30:162][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.04-05.14.32:132][626]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BF2_Assets/Characters/Vader/VRPlayerVader/VaderWithIKsAnimBP.VaderWithIKsAnimBP
+[2019.06.04-05.14.32:186][626]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.06.04-05.14.32:416][626]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.04-05.14.32:424][626]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.06.04-05.14.32:666][626]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.04-05.14.33:033][626]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.06.04-05.14.33:082][626]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.04-05.14.39:879][182]LogUObjectArray: Warning: Other object in slot
+[2019.06.04-05.14.39:879][182]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.04-05.14.40:822][182]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.943 s
+[2019.06.04-05.14.40:822][182]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.04-05.14.40:822][182]LogOutputDevice: Error: 
+[2019.06.04-05.14.40:822][182]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: Stack: 
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd07308304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd073181ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd0633bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd023f769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd023b0917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd0bba7c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd0bdf4393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd0bc02d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd0bbd8a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd0bbcb263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd3a73dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd3a730de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd3a7401eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd3a72ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd6a45ca66 USER32.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd6a45c582 USER32.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd3a741746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ff602565546 UE4Editor.exe!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ff60257596c UE4Editor.exe!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ff6025759ea UE4Editor.exe!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ff6025848da UE4Editor.exe!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ff60258659a UE4Editor.exe!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd6d017974 KERNEL32.DLL!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: [Callstack] 0x00007ffd6d28a271 ntdll.dll!UnknownFunction []
+[2019.06.04-05.14.40:823][182]LogOutputDevice: Error: 
+[2019.06.04-05.14.40:829][182]LogStats:                SubmitErrorReport -  0.000 s

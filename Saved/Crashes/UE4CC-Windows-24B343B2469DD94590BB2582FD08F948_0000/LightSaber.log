@@ -1,0 +1,739 @@
+﻿Log file open, 05/29/19 01:08:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LightSaber
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.205217
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ParticleText
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogStreaming: Display: Took  0.078s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: U:/UnrealEngine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.29-05.08.29:168][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.29-05.08.29:168][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.29-05.08.29:168][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.29-05.08.29:176][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.29-05.08.29:176][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.29-05.08.29:177][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-05.08.29:177][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.29-05.08.29:192][  0]LogHAL: Display: Platform has ~ 16 GB [17104732160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.29-05.08.29:192][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.29-05.08.29:192][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.29-05.08.29:192][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.29-05.08.29:193][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.29-05.08.29:199][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.29-05.08.29:199][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.29-05.08.29:200][  0]LogInit: Computer: DESKTOP-G3P6UN7
+[2019.05.29-05.08.29:200][  0]LogInit: User: stott
+[2019.05.29-05.08.29:200][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.05.29-05.08.29:200][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.29-05.08.29:200][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.29-05.08.29:200][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.29-05.08.29:200][  0]LogMemory: Process Physical Memory: 105.27 MB used, 105.28 MB peak
+[2019.05.29-05.08.29:200][  0]LogMemory: Process Virtual Memory: 100.05 MB used, 100.05 MB peak
+[2019.05.29-05.08.29:200][  0]LogMemory: Physical Memory: 4152.46 MB used,  12159.88 MB free, 16312.34 MB total
+[2019.05.29-05.08.29:200][  0]LogMemory: Virtual Memory: 4692.03 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2019.05.29-05.08.29:556][  0]LogInit: Using OS detected language (en-US).
+[2019.05.29-05.08.29:556][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.29-05.08.29:558][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.29-05.08.29:904][  0]LogStreaming: Display: Took  0.351s to InitEngineTextLocalization.
+[2019.05.29-05.08.29:905][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.29-05.08.29:994][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.29-05.08.29:994][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.29-05.08.33:718][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.29-05.08.33:827][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.05.29-05.08.33:827][  0]LogD3D11RHI:       8010/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.29-05.08.33:830][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.29-05.08.33:831][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.29-05.08.33:831][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.29-05.08.33:837][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.29-05.08.33:837][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.29-05.08.33:837][  0]LogWindows: EnumDisplayDevices:
+[2019.05.29-05.08.33:837][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2019.05.29-05.08.33:837][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.05.29-05.08.33:837][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.05.29-05.08.33:838][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.05.29-05.08.33:838][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.29-05.08.33:838][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.05.29-05.08.33:838][  0]LogD3D11RHI:   Driver Version: 430.64 (internal:26.21.14.3064, unified:430.64)
+[2019.05.29-05.08.33:838][  0]LogD3D11RHI:      Driver Date: 5-5-2019
+[2019.05.29-05.08.33:838][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.05.29-05.08.33:872][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.29-05.08.33:905][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.29-05.08.33:951][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2019.05.29-05.08.34:305][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.29-05.08.34:321][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.29-05.08.34:336][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.29-05.08.34:351][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.29-05.08.34:373][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.29-05.08.34:389][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.29-05.08.34:411][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.29-05.08.34:427][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.29-05.08.34:438][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-05.08.34:514][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.29-05.08.34:595][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.29-05.08.34:595][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.29-05.08.34:666][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.29-05.08.34:666][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.29-05.08.34:685][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.29-05.08.34:701][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.29-05.08.34:723][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.29-05.08.34:742][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.29-05.08.34:783][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.29-05.08.34:783][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.29-05.08.34:783][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.29-05.08.35:023][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../Unreal Projects/LightSaber 4.20/Intermediate/Shaders/WorkingDirectory/3616/).
+[2019.05.29-05.08.35:023][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/stott/AppData/Local/Temp/UnrealShaderWorkingDir/D380315247C41C43F2B470BAFB9701FD/'.
+[2019.05.29-05.08.35:027][  0]LogXGEController: Cleaning working directory: C:/Users/stott/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.29-05.08.35:027][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.29-05.08.35:027][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.29-05.08.35:027][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.29-05.08.36:135][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.29-05.08.36:318][  0]LogDerivedDataCache: Loaded boot cache 0.18s 72MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.29-05.08.36:318][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.29-05.08.36:318][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/LightSaber 4.20/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.29-05.08.36:318][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.29-05.08.36:318][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/LightSaber 4.20/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.29-05.08.36:318][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.29-05.08.36:339][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.29-05.08.36:339][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.29-05.08.36:339][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.29-05.08.36:352][  0]LogDerivedDataCache: Using Local data cache path C:/Users/stott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.29-05.08.36:352][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.29-05.08.36:352][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.29-05.08.36:370][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.29-05.08.36:377][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.29-05.08.36:388][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.29-05.08.36:608][  0]LogAssetRegistry: FAssetRegistry took 0.0322 seconds to start up
+[2019.05.29-05.08.36:946][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-05.08.37:219][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.29-05.08.37:263][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.29-05.08.37:263][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.29-05.08.37:264][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.29-05.08.37:264][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.29-05.08.37:387][  0]LogNetVersion: LightSaber 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3724247427)
+[2019.05.29-05.08.37:545][  0]LogNavigation: Error: [/Script/Engine.NavigationSystem] found in the DefaultEngine.ini file. This class has been moved. Please rename that section to [/Script/NavigationSystem.NavigationSystemV1]
+[2019.05.29-05.08.38:369][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.083979 seconds
+[2019.05.29-05.08.38:377][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.29-05.08.38:377][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.05.29-05.08.38:377][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.29-05.08.41:073][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.29-05.08.41:096][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.29-05.08.41:965][  0]SourceControl: Source control is disabled
+[2019.05.29-05.08.41:965][  0]SourceControl: Source control is disabled
+[2019.05.29-05.08.41:985][  0]SourceControl: Source control is disabled
+[2019.05.29-05.08.41:995][  0]SourceControl: Source control is disabled
+[2019.05.29-05.08.42:628][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.29-05.08.42:863][  0]LogOcInput: OculusInput pre-init called
+[2019.05.29-05.08.42:947][  0]LogPython: Python Scripts search path: ../../../../../Unreal Projects/LightSaber 4.20/Content/Scripts
+[2019.05.29-05.08.42:947][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2019.05.29-05.08.42:947][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2019.05.29-05.08.43:407][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2019.05.29-05.08.43:407][  0]LogPython: 
+
+[2019.05.29-05.08.43:407][  0]LogPython: U:\UnrealEngine\UE_4.21\Engine\Plugins\UnrealEnginePython\
+[2019.05.29-05.08.43:407][  0]LogPython: 
+
+[2019.05.29-05.08.43:746][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2019.05.29-05.08.43:747][  0]LogPython: 
+
+[2019.05.29-05.08.43:749][  0]LogPython: ue_site Python module successfully imported
+[2019.05.29-05.08.43:982][  0]LogEngine: Initializing Engine...
+[2019.05.29-05.08.43:985][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-FCDAF386
+[2019.05.29-05.08.43:988][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.29-05.08.43:988][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.29-05.08.43:988][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.29-05.08.43:988][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.29-05.08.44:283][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.29-05.08.44:324][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.29-05.08.44:380][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.29-05.08.44:407][  0]LogInit: FAudioDevice initialized.
+[2019.05.29-05.08.44:407][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.29-05.08.44:471][  0]LogDerivedDataCache: Saved boot cache 0.06s 72MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.29-05.08.44:479][  0]LogInit: Texture streaming: Enabled
+[2019.05.29-05.08.44:519][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.29-05.08.44:543][  0]LogInit: Transaction tracking system initialized
+[2019.05.29-05.08.44:631][  0]BlueprintLog: New page: Editor Load
+[2019.05.29-05.08.44:968][  0]LocalizationService: Localization service is disabled
+[2019.05.29-05.08.45:935][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.29-05.08.45:936][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.29-05.08.45:936][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.29-05.08.45:936][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.29-05.08.45:936][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.29-05.08.45:936][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.29-05.08.45:936][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.29-05.08.46:119][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/LightSaber 4.20/Content/' took 0.02s
+[2019.05.29-05.08.46:526][  0]SourceControl: Source control is disabled
+[2019.05.29-05.08.46:527][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.29-05.08.46:532][  0]LightingResults: New page: Lighting Build
+[2019.05.29-05.08.46:539][  0]MapCheck: New page: Map Check
+[2019.05.29-05.08.46:539][  0]LightingResults: New page: Lighting Build
+[2019.05.29-05.08.47:272][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; please replace or remove it.
+[2019.05.29-05.08.47:272][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; Please use the Motion Source property instead of Hand
+[2019.05.29-05.08.47:297][  0]LogBlueprint: Warning: [Compiler BP_MotionController] [0022.44] Compile of BP_MotionController successful, but with 2 Warning(s) [in 43 ms] (/Game/Lightsaber/Blueprints/BP_MotionController.BP_MotionController)
+[2019.05.29-05.08.49:001][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.05.29-05.08.49:001][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../Unreal Projects/LightSaber 4.20/Content/StarterContent/Shapes/Shape_Cylinder.uasset.
+[2019.05.29-05.08.49:001][  0]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Cylinder : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall
+[2019.05.29-05.08.49:001][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.05.29-05.08.49:001][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../Unreal Projects/LightSaber 4.20/Content/StarterContent/Shapes/Shape_Cylinder.uasset.
+[2019.05.29-05.08.49:001][  0]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Cylinder : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall
+[2019.05.29-05.08.49:923][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.05.29-05.08.49:923][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.05.29-05.08.49:923][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2019.05.29-05.08.49:923][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.05.29-05.08.49:923][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.05.29-05.08.49:923][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.05.29-05.08.49:923][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2019.05.29-05.08.49:923][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.05.29-05.08.50:513][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2019.05.29-05.08.50:513][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2019.05.29-05.08.50:513][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2019.05.29-05.08.50:513][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2019.05.29-05.08.52:009][  0]LogAIModule: Creating AISystem for world Test
+[2019.05.29-05.08.52:188][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.29-05.08.52:230][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.29-05.08.52:230][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2019.05.29-05.08.52:230][  0]LogFileHelpers: Loading map 'Test' took 5.703
+[2019.05.29-05.08.52:350][  0]LogCollectionManager: Loaded 0 collections in 0.000748 seconds
+[2019.05.29-05.08.52:384][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/LightSaber 4.20/Saved/Collections/' took 0.01s
+[2019.05.29-05.08.52:384][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/LightSaber 4.20/Content/Developers/stott/Collections/' took 0.01s
+[2019.05.29-05.08.52:384][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/LightSaber 4.20/Content/Collections/' took 0.00s
+[2019.05.29-05.08.52:384][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.29-05.08.52:390][  0]LogContentBrowser: Native class hierarchy populated in 0.0061 seconds. Added 2674 classes and 630 folders.
+[2019.05.29-05.08.52:395][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.29-05.08.52:403][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:408][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:418][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:423][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:430][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:436][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:440][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:452][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:455][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:462][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:465][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:479][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:483][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:486][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:489][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:506][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:510][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:513][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:518][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:522][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:526][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.29-05.08.52:646][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.29-05.08.52:683][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-05.08.52:688][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-05.08.52:693][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-05.08.52:698][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-05.08.52:712][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.05.29-05.08.52:900][  0]LogSlate: Took 0.003626 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.29-05.08.52:905][  0]LogSlate: Took 0.003793 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.29-05.08.52:915][  0]LogSlate: Took 0.009377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.29-05.08.53:031][  0]LogRenderer: Reallocating scene render targets to support 1304x1280 Format 26 NumSamples 1 (Frame:1).
+[2019.05.29-05.08.53:212][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.29-05.08.53:212][  0]LogLoad: (Engine Initialization) Total time: 28.35 seconds
+[2019.05.29-05.08.53:212][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.29-05.08.53:278][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.29-05.08.53:282][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-05.08.53:621][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2019.05.29-05.08.53:886][  8]LogAssetRegistry: Asset discovery search completed in 17.3004 seconds
+[2019.05.29-05.08.53:887][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.29-05.08.53:887][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2019.05.29-05.09.07:504][592]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-05.09.07:550][592]LogSlate: Window 'Message Log' being destroyed
+[2019.05.29-05.09.08:725][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-05.11.37:361][417]LogSlate: Took 0.005630 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.29-05.11.38:319][417]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.29-05.11.57:650][605]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BF2_Assets/Vehicles/Dreadnaught/DreadnaughtBP.DreadnaughtBP
+[2019.05.29-05.11.58:030][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:030][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:030][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:030][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:030][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:030][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:030][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:030][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:030][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:030][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:030][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:034][605]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.29-05.11.58:034][605]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.29-05.11.58:034][605]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.29-05.11.58:034][605]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.29-05.11.58:034][605]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.29-05.11.58:034][605]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.29-05.11.58:034][605]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.29-05.11.58:038][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:038][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:038][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:038][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:038][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:038][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:038][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:038][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:038][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:038][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:038][605]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.29-05.11.58:041][605]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.29-05.11.58:041][605]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.29-05.11.58:041][605]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.29-05.11.58:041][605]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.29-05.11.58:041][605]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.29-05.11.58:041][605]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.29-05.11.58:041][605]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.29-05.11.58:090][605]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2019.05.29-05.12.03:551][ 70]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.20/Saved/DreadnaughtMESH0F659A65491A7B6B51F8739A30CAAB5B.tmp' to '../../../../../Unreal Projects/LightSaber 4.20/Content/BF2_Assets/Vehicles/Dreadnaught/DreadnaughtMESH.uasset'
+[2019.05.29-05.12.03:632][ 70]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.20/Saved/Dreadnaught34715B93428512F5FE9085A2835CA02C.tmp' to '../../../../../Unreal Projects/LightSaber 4.20/Content/BF2_Assets/Vehicles/Dreadnaught/Dreadnaught.uasset'
+[2019.05.29-05.12.10:813][839]LogSlate: Window 'DreadnaughtBP*' being destroyed
+[2019.05.29-05.12.10:859][839]LogSlate: Window 'DreadnaughtBP*' being destroyed
+[2019.05.29-05.12.13:959][ 61]LogSlate: Window 'Save Content' being destroyed
+[2019.05.29-05.12.14:062][ 61]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.20/Saved/DreadnaughtBP6FB3434642A3C3B552FF64AFA9E85E5F.tmp' to '../../../../../Unreal Projects/LightSaber 4.20/Content/BF2_Assets/Vehicles/Dreadnaught/DreadnaughtBP.uasset'
+[2019.05.29-05.12.14:066][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightsaber/Maps/Test" FILE="../../../../../Unreal Projects/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.29-05.12.14:447][ 61]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.20/Saved/Test4DFCF85949881EF16E6DD59342D96436.tmp' to '../../../../../Unreal Projects/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap'
+[2019.05.29-05.12.14:480][ 61]LogFileHelpers: Saving map 'Test' took 0.415
+[2019.05.29-05.12.32:839][156]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.05.29-05.12.33:753][156]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.914 s
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: 
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: Found circular redirect from /Game/BF2_Assets/Vehicles/Dreadnaught/DreadnaughtBP.DreadnaughtBP to /Game/BF2_Assets/Vehicles/Dreadnaught/DreadnaughtBP.DreadnaughtBP! Returning None instead
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: Stack: 
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd127dcb14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd12b04acf UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd12b14d09 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd128238a7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd1279731f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd12b149a3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd12941811 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd12abc731 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd12abca87 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd129444ec UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd129414b2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd12abc731 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd12a4a0b9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd12abca87 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd129444ec UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd12a4a8b3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd12a485cc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd12a482c4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd0fe877ba UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd0fe87102 UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd12a9929b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd12ac04f7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd12aa3fec UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd067c92e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd067c9d07 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd0680dfd4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd0680a7c5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd07110b33 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd06bdd6e4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd06bdbfe1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd06bf3878 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffcef69fa41 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffcef666655 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffcef6add77 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffcee3b2c98 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffcee47b0c6 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffcee475991 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffcee480501 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffcee37b24c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffcee37b486 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd0f577a89 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd0f580090 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd0f552a0f UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd0f63c7bb UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd0f581da5 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd0f428e25 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd0f4c2678 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd0f4a857a UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd0f49b44c UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd3fbfde26 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd3fbf0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd3fc001eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd3fbeca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd6a45ca66 USER32.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd6a45c582 USER32.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd3fc01746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ff77f5c5546 UE4Editor.exe!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ff77f5d596c UE4Editor.exe!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ff77f5d59ea UE4Editor.exe!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ff77f5e48da UE4Editor.exe!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ff77f5e659a UE4Editor.exe!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd6d017974 KERNEL32.DLL!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: [Callstack] 0x00007ffd6d28a271 ntdll.dll!UnknownFunction []
+[2019.05.29-05.12.33:753][156]LogOutputDevice: Error: 
+[2019.05.29-05.12.33:764][156]LogStats:                SubmitErrorReport -  0.000 s

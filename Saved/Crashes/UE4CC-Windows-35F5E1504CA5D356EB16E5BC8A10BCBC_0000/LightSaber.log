@@ -1,0 +1,897 @@
+﻿Log file open, 05/29/19 23:44:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LightSaber
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.469696
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ParticleText
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogStreaming: Display: Took  0.084s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: U:/UnrealEngine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.30-03.44.43:651][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.30-03.44.43:651][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.30-03.44.43:651][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.30-03.44.43:659][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.30-03.44.43:659][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.30-03.44.43:660][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.30-03.44.43:660][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.30-03.44.43:661][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.30-03.44.43:674][  0]LogHAL: Display: Platform has ~ 16 GB [17104732160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.30-03.44.43:675][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.30-03.44.43:675][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Scalability.ini]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.30-03.44.43:675][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.30-03.44.43:678][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.30-03.44.43:678][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [U:/Unreal Projects/LightSaber 4.20/Saved/Config/Windows/Engine.ini]
+[2019.05.30-03.44.43:679][  0]LogInit: Computer: DESKTOP-G3P6UN7
+[2019.05.30-03.44.43:679][  0]LogInit: User: stott
+[2019.05.30-03.44.43:679][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.05.30-03.44.43:679][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.30-03.44.43:679][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.30-03.44.43:679][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.30-03.44.43:679][  0]LogMemory: Process Physical Memory: 106.16 MB used, 106.17 MB peak
+[2019.05.30-03.44.43:679][  0]LogMemory: Process Virtual Memory: 100.01 MB used, 100.01 MB peak
+[2019.05.30-03.44.43:679][  0]LogMemory: Physical Memory: 5729.61 MB used,  10582.74 MB free, 16312.34 MB total
+[2019.05.30-03.44.43:679][  0]LogMemory: Virtual Memory: 4692.03 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2019.05.30-03.44.43:968][  0]LogInit: Using OS detected language (en-US).
+[2019.05.30-03.44.43:968][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.30-03.44.43:970][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.30-03.44.44:329][  0]LogStreaming: Display: Took  0.359s to InitEngineTextLocalization.
+[2019.05.30-03.44.44:329][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.30-03.44.44:403][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.30-03.44.44:403][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.30-03.44.48:044][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.30-03.44.48:165][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.05.30-03.44.48:165][  0]LogD3D11RHI:       8010/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.30-03.44.48:166][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.30-03.44.48:166][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.30-03.44.48:166][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.30-03.44.48:173][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.30-03.44.48:173][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.30-03.44.48:173][  0]LogWindows: EnumDisplayDevices:
+[2019.05.30-03.44.48:173][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2019.05.30-03.44.48:174][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.05.30-03.44.48:174][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.05.30-03.44.48:174][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.05.30-03.44.48:174][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.30-03.44.48:174][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.05.30-03.44.48:175][  0]LogD3D11RHI:   Driver Version: 430.64 (internal:26.21.14.3064, unified:430.64)
+[2019.05.30-03.44.48:175][  0]LogD3D11RHI:      Driver Date: 5-5-2019
+[2019.05.30-03.44.48:175][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.05.30-03.44.48:223][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.30-03.44.48:295][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.30-03.44.48:341][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2019.05.30-03.44.48:717][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.30-03.44.48:734][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.30-03.44.48:772][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.30-03.44.48:787][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.30-03.44.48:806][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.30-03.44.48:824][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.30-03.44.48:843][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.30-03.44.48:859][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.30-03.44.48:878][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.30-03.44.48:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.30-03.44.48:957][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.30-03.44.49:035][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.30-03.44.49:035][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.30-03.44.49:058][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.30-03.44.49:058][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.30-03.44.49:075][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.30-03.44.49:091][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.30-03.44.49:113][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.30-03.44.49:132][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.30-03.44.49:171][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.30-03.44.49:171][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.30-03.44.49:172][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.30-03.44.49:401][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../Unreal Projects/LightSaber 4.20/Intermediate/Shaders/WorkingDirectory/10908/).
+[2019.05.30-03.44.49:401][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/stott/AppData/Local/Temp/UnrealShaderWorkingDir/7F1E43924AAF2801034906A9C45A9263/'.
+[2019.05.30-03.44.49:408][  0]LogXGEController: Cleaning working directory: C:/Users/stott/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.30-03.44.49:408][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.30-03.44.49:409][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.30-03.44.49:409][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.30-03.44.50:581][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.30-03.44.50:753][  0]LogDerivedDataCache: Loaded boot cache 0.17s 72MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.30-03.44.50:753][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.30-03.44.50:754][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/LightSaber 4.20/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.30-03.44.50:754][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.30-03.44.50:754][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/LightSaber 4.20/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.30-03.44.50:754][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.30-03.44.50:776][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.30-03.44.50:776][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.30-03.44.50:776][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.30-03.44.50:788][  0]LogDerivedDataCache: Using Local data cache path C:/Users/stott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.30-03.44.50:788][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.30-03.44.50:788][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.30-03.44.50:811][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.30-03.44.50:832][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.30-03.44.50:842][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.30-03.44.51:061][  0]LogAssetRegistry: FAssetRegistry took 0.0312 seconds to start up
+[2019.05.30-03.44.51:604][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.30-03.44.52:103][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.30-03.44.52:141][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.30-03.44.52:141][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.30-03.44.52:142][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.30-03.44.52:142][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.30-03.44.52:267][  0]LogNetVersion: LightSaber 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3724247427)
+[2019.05.30-03.44.52:466][  0]LogNavigation: Error: [/Script/Engine.NavigationSystem] found in the DefaultEngine.ini file. This class has been moved. Please rename that section to [/Script/NavigationSystem.NavigationSystemV1]
+[2019.05.30-03.44.53:361][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.069254 seconds
+[2019.05.30-03.44.53:366][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.30-03.44.53:367][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.05.30-03.44.53:367][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.30-03.44.56:215][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.30-03.44.56:239][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.30-03.44.57:135][  0]SourceControl: Source control is disabled
+[2019.05.30-03.44.57:135][  0]SourceControl: Source control is disabled
+[2019.05.30-03.44.57:153][  0]SourceControl: Source control is disabled
+[2019.05.30-03.44.57:163][  0]SourceControl: Source control is disabled
+[2019.05.30-03.44.57:885][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.30-03.44.58:177][  0]LogOcInput: OculusInput pre-init called
+[2019.05.30-03.44.58:275][  0]LogPython: Python Scripts search path: ../../../../../Unreal Projects/LightSaber 4.20/Content/Scripts
+[2019.05.30-03.44.58:275][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2019.05.30-03.44.58:275][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2019.05.30-03.44.58:718][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2019.05.30-03.44.58:718][  0]LogPython: 
+
+[2019.05.30-03.44.58:718][  0]LogPython: U:\UnrealEngine\UE_4.21\Engine\Plugins\UnrealEnginePython\
+[2019.05.30-03.44.58:718][  0]LogPython: 
+
+[2019.05.30-03.44.59:041][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2019.05.30-03.44.59:041][  0]LogPython: 
+
+[2019.05.30-03.44.59:044][  0]LogPython: ue_site Python module successfully imported
+[2019.05.30-03.44.59:284][  0]LogEngine: Initializing Engine...
+[2019.05.30-03.44.59:288][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-FCDAF386
+[2019.05.30-03.44.59:293][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.30-03.44.59:293][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.30-03.44.59:294][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.30-03.44.59:294][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.30-03.44.59:609][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.30-03.44.59:680][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.30-03.44.59:771][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.30-03.44.59:797][  0]LogInit: FAudioDevice initialized.
+[2019.05.30-03.44.59:797][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.30-03.44.59:857][  0]LogDerivedDataCache: Saved boot cache 0.06s 72MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.30-03.44.59:872][  0]LogInit: Texture streaming: Enabled
+[2019.05.30-03.44.59:913][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.30-03.44.59:913][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={36A1CD35-47F7-4774-19C2-68875FCE201B}
+[2019.05.30-03.44.59:950][  0]LogInit: Transaction tracking system initialized
+[2019.05.30-03.45.00:034][  0]BlueprintLog: New page: Editor Load
+[2019.05.30-03.45.00:371][  0]LocalizationService: Localization service is disabled
+[2019.05.30-03.45.01:424][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.30-03.45.01:424][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.30-03.45.01:424][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.30-03.45.01:424][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.30-03.45.01:424][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.30-03.45.01:424][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.30-03.45.01:424][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.30-03.45.02:036][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/LightSaber 4.20/Content/' took 0.02s
+[2019.05.30-03.45.02:036][  0]SourceControl: Source control is disabled
+[2019.05.30-03.45.02:039][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.30-03.45.02:039][  0]LightingResults: New page: Lighting Build
+[2019.05.30-03.45.02:089][  0]MapCheck: New page: Map Check
+[2019.05.30-03.45.02:089][  0]LightingResults: New page: Lighting Build
+[2019.05.30-03.45.02:869][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; please replace or remove it.
+[2019.05.30-03.45.02:869][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; Please use the Motion Source property instead of Hand
+[2019.05.30-03.45.02:896][  0]LogBlueprint: Warning: [Compiler BP_MotionController] [0025.16] Compile of BP_MotionController successful, but with 2 Warning(s) [in 44 ms] (/Game/Lightsaber/Blueprints/BP_MotionController.BP_MotionController)
+[2019.05.30-03.45.04:759][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.05.30-03.45.04:759][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../Unreal Projects/LightSaber 4.20/Content/StarterContent/Shapes/Shape_Cylinder.uasset.
+[2019.05.30-03.45.04:759][  0]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Cylinder : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall
+[2019.05.30-03.45.04:759][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.05.30-03.45.04:760][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../Unreal Projects/LightSaber 4.20/Content/StarterContent/Shapes/Shape_Cylinder.uasset.
+[2019.05.30-03.45.04:760][  0]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Cylinder : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall
+[2019.05.30-03.45.05:800][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.05.30-03.45.05:800][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.05.30-03.45.05:800][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2019.05.30-03.45.05:800][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.05.30-03.45.05:800][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.05.30-03.45.05:800][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.05.30-03.45.05:800][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2019.05.30-03.45.05:800][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.05.30-03.45.05:992][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2019.05.30-03.45.05:992][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2019.05.30-03.45.05:992][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2019.05.30-03.45.07:696][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2019.05.30-03.45.08:021][  0]LogAIModule: Creating AISystem for world Test
+[2019.05.30-03.45.08:290][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.30-03.45.08:334][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.30-03.45.08:334][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
+[2019.05.30-03.45.08:334][  0]LogFileHelpers: Loading map 'Test' took 6.296
+[2019.05.30-03.45.08:483][  0]LogCollectionManager: Loaded 0 collections in 0.000702 seconds
+[2019.05.30-03.45.08:531][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/LightSaber 4.20/Saved/Collections/' took 0.01s
+[2019.05.30-03.45.08:531][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/LightSaber 4.20/Content/Developers/stott/Collections/' took 0.01s
+[2019.05.30-03.45.08:531][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/LightSaber 4.20/Content/Collections/' took 0.01s
+[2019.05.30-03.45.08:531][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.30-03.45.08:537][  0]LogContentBrowser: Native class hierarchy populated in 0.0059 seconds. Added 2674 classes and 630 folders.
+[2019.05.30-03.45.08:545][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.30-03.45.08:552][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:557][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:594][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:597][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:601][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:605][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:608][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:612][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:615][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:619][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:622][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:625][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.30-03.45.08:811][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.30-03.45.08:845][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.30-03.45.08:851][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.30-03.45.08:855][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.30-03.45.08:860][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.30-03.45.08:876][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.05.30-03.45.09:182][  0]LogSlate: Took 0.003708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.30-03.45.09:188][  0]LogSlate: Took 0.003950 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.30-03.45.09:203][  0]LogSlate: Took 0.014948 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.30-03.45.09:343][  0]LogRenderer: Reallocating scene render targets to support 1304x1280 Format 26 NumSamples 1 (Frame:1).
+[2019.05.30-03.45.09:536][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.30-03.45.09:536][  0]LogLoad: (Engine Initialization) Total time: 31.80 seconds
+[2019.05.30-03.45.09:536][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.30-03.45.09:599][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.30-03.45.09:602][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.30-03.45.09:977][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2019.05.30-03.45.10:120][  6]LogAssetRegistry: Asset discovery search completed in 19.0816 seconds
+[2019.05.30-03.45.10:122][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.30-03.45.10:122][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2019.05.30-03.45.20:557][242]LogSlate: Window 'Message Log' being destroyed
+[2019.05.30-03.45.20:602][242]LogSlate: Window 'Message Log' being destroyed
+[2019.05.30-03.45.25:965][370]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.30-03.45.26:355][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.30-03.46.06:500][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.30-03.46.11:152][625]LogAnimation: Warning: AnimBP ABP_hand_right_C is incompatible with skeleton SK_hand_left_Skeleton, removing AnimBP from actor.
+[2019.05.30-03.46.13:593][913]LogSlate: Took 0.008918 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.30-03.46.13:642][913]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lightsaber/Blueprints/BP_SaberBase.BP_SaberBase
+[2019.05.30-03.46.14:026][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:026][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:026][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:026][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:026][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:026][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:027][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:027][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:027][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:027][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:027][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:030][913]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.30-03.46.14:030][913]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.30-03.46.14:030][913]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.30-03.46.14:030][913]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.30-03.46.14:030][913]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.30-03.46.14:030][913]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.30-03.46.14:030][913]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.30-03.46.14:034][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:034][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:034][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:034][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:034][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:034][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:034][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:034][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:034][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:034][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:034][913]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.05.30-03.46.14:037][913]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.30-03.46.14:037][913]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.30-03.46.14:037][913]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.30-03.46.14:037][913]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.30-03.46.14:037][913]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.30-03.46.14:037][913]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.30-03.46.14:037][913]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.05.30-03.46.14:083][913]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2019.05.30-03.46.14:839][913]LogSlate: Took 0.002861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.30-03.46.15:253][914]LogSlate: Took 0.003141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.30-03.46.49:277][154]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lightsaber/Blueprints/HeroSabers/BaseHeroSaber.BaseHeroSaber
+[2019.05.30-03.48.28:450][715]BlueprintLog: New page: Compile BaseHeroSaber
+[2019.05.30-03.48.28:799][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_1.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:802][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20924.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:803][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:807][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20927.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:807][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20926.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:807][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20928.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:810][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_10.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:810][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:810][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:813][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20932.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:813][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20933.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:814][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:816][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_6.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:816][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:818][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:819][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20936.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:821][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:822][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20938.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:823][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:825][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20940.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:827][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20942.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:828][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:860][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:860][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_10.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:862][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20946.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:863][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:865][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20948.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:866][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:868][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20950.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:869][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:871][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20952.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:873][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:878][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20954.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:878][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20955.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:881][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:881][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_16.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:881][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:886][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20958.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:886][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20959.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:886][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20960.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:888][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:891][715]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20964.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:893][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.28:896][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.48.29:070][715]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.20/Saved/BaseHeroSaber2F07ADFB476601A0139876BD3679FECE.tmp' to '../../../../../Unreal Projects/LightSaber 4.20/Content/Lightsaber/Blueprints/HeroSabers/BaseHeroSaber.uasset'
+[2019.05.30-03.48.30:701][842]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.20/Saved/BaseHeroSaberEA2E7E9743AB263D8884D085A8A47854.tmp' to '../../../../../Unreal Projects/LightSaber 4.20/Content/Lightsaber/Blueprints/HeroSabers/BaseHeroSaber.uasset'
+[2019.05.30-03.49.13:283][861]BlueprintLog: New page: Compile BaseHeroSaber
+[2019.05.30-03.49.13:624][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:625][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_31.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:627][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20994.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:628][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:630][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20996.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:631][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:635][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20999.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:635][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_20998.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:635][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21000.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:638][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_34.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:638][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_33.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:638][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_35.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:641][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21004.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:641][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21005.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:643][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:643][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_23.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:645][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21008.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:646][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:647][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21010.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:649][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:650][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21012.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:652][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:665][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21016.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:666][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_31.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:667][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_35.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:670][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:672][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21018.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:674][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:675][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21020.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:676][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:678][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21022.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:682][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21026.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:684][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_26.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:685][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:686][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:687][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21030.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:690][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21032.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:691][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:691][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21033.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:694][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_39.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:694][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_40.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:694][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_41.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:694][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21024.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:694][861]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21025.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.49.13:828][861]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.20/Saved/BaseHeroSaber4ED9154241105707839BDBA21E8FAF59.tmp' to '../../../../../Unreal Projects/LightSaber 4.20/Content/Lightsaber/Blueprints/HeroSabers/BaseHeroSaber.uasset'
+[2019.05.30-03.49.14:751][927]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.20/Saved/BaseHeroSaber9198D06A4D2E1D20FBD1BABF49B26D57.tmp' to '../../../../../Unreal Projects/LightSaber 4.20/Content/Lightsaber/Blueprints/HeroSabers/BaseHeroSaber.uasset'
+[2019.05.30-03.49.15:314][963]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.20/Saved/BaseHeroSaberB019034D44078412373BA1BAE08BDF90.tmp' to '../../../../../Unreal Projects/LightSaber 4.20/Content/Lightsaber/Blueprints/HeroSabers/BaseHeroSaber.uasset'
+[2019.05.30-03.49.15:728][987]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.20/Saved/BaseHeroSaber6E6602BC4EDC8ED36C0BA6BE72384811.tmp' to '../../../../../Unreal Projects/LightSaber 4.20/Content/Lightsaber/Blueprints/HeroSabers/BaseHeroSaber.uasset'
+[2019.05.30-03.50.27:125][  9]BlueprintLog: New page: Compile BaseHeroSaber
+[2019.05.30-03.50.27:470][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_37.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:471][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_43.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:473][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21058.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:474][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:476][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21060.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:478][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_34.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:479][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:484][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21063.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:484][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21062.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:484][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21064.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:487][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_52.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:487][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_51.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:487][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_53.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:490][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21068.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:490][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21069.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:490][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_35.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:492][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21072.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:493][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:495][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21074.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:496][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:498][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21076.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:499][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:514][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21080.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:515][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_41.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:517][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_47.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:520][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:522][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21082.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:523][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:525][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21084.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:526][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:528][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21086.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:530][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_38.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:532][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21088.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:532][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_39.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:532][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21089.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:534][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21092.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:537][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_57.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:538][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:538][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_58.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:538][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_59.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:542][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21094.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:542][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21095.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:542][  9]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/Test.Test:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_21096.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:546][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_BP_SaberBase_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.05.30-03.50.27:683][  9]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.20/Saved/BaseHeroSaberB4ED17FB4E38E1C0D4E4F78F612F45B2.tmp' to '../../../../../Unreal Projects/LightSaber 4.20/Content/Lightsaber/Blueprints/HeroSabers/BaseHeroSaber.uasset'
+[2019.05.30-03.50.29:173][137]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.20/Saved/BaseHeroSaber20CE07AC43517E5041679FA2DC21B2B3.tmp' to '../../../../../Unreal Projects/LightSaber 4.20/Content/Lightsaber/Blueprints/HeroSabers/BaseHeroSaber.uasset'
+[2019.05.30-03.50.29:688][173]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.20/Saved/BaseHeroSaberBF4D2AA34022B535E3655F90BA270E3A.tmp' to '../../../../../Unreal Projects/LightSaber 4.20/Content/Lightsaber/Blueprints/HeroSabers/BaseHeroSaber.uasset'
+[2019.05.30-03.50.30:104][197]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.20/Saved/BaseHeroSaber3C96C9834CEA54F3BAB8BCAB9F83BDB9.tmp' to '../../../../../Unreal Projects/LightSaber 4.20/Content/Lightsaber/Blueprints/HeroSabers/BaseHeroSaber.uasset'
+[2019.05.30-03.50.30:475][219]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.20/Saved/BaseHeroSaberAD1101AF47A3280842343BB09997144A.tmp' to '../../../../../Unreal Projects/LightSaber 4.20/Content/Lightsaber/Blueprints/HeroSabers/BaseHeroSaber.uasset'
+[2019.05.30-03.50.35:877][654]LogSlate: Window 'Save Content' being destroyed
+[2019.05.30-03.50.35:977][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightsaber/Maps/Test" FILE="../../../../../Unreal Projects/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.30-03.50.36:449][654]LogSavePackage: Moving '../../../../../Unreal Projects/LightSaber 4.20/Saved/TestA5DDCF17462A1FDA641B2280EC3EDADA.tmp' to '../../../../../Unreal Projects/LightSaber 4.20/Content/Lightsaber/Maps/Test.umap'
+[2019.05.30-03.50.36:488][654]LogFileHelpers: Saving map 'Test' took 0.512
+[2019.05.30-03.50.37:292][743]LogTemp: Repeating last play command: VR Preview
+[2019.05.30-03.50.37:330][743]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lightsaber/Maps/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Lightsaber/Maps/Test.Test_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/Test.Test:PersistentLevel.Test'
+[2019.05.30-03.50.37:330][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.30-03.50.37:332][743]PIE: New page: PIE session: Test (May 29, 2019, 7:50:37 PM)
+[2019.05.30-03.50.37:345][743]LogPlayLevel: Creating play world package: /Game/Lightsaber/Maps/UEDPIE_0_Test
+[2019.05.30-03.50.37:371][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025475s)
+[2019.05.30-03.50.37:371][743]LogAIModule: Creating AISystem for world Test
+[2019.05.30-03.50.37:372][743]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2019.05.30-03.50.37:372][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lightsaber/Maps/Test.Test to /Game/Lightsaber/Maps/UEDPIE_0_Test.Test (0.026181s)
+[2019.05.30-03.50.37:444][743]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.30-03.50.37:451][743]LogInit: FAudioDevice initialized.
+[2019.05.30-03.50.37:458][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.30-03.50.37:585][743]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.05.30-03.50.37:585][743]LogLoad: Game class is 'GameModeBase'
+[2019.05.30-03.50.38:116][743]LogWorld: Bringing World /Game/Lightsaber/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.05.29-23.50.38
+[2019.05.30-03.50.38:132][743]LogWorld: Bringing up level for play took: 0.544613
+[2019.05.30-03.50.38:152][743]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.05.30-03.50.38:156][743]LogAnimation: Warning: AnimBP ABP_hand_right_C is incompatible with skeleton SK_hand_left_Skeleton, removing AnimBP from actor.
+[2019.05.30-03.50.38:156][743]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2019.05.30-03.50.38:156][743]LogOutputDevice: Warning: 
+
+Script Stack (5 frames):
+BP_MotionController_C.SetupRoomScaleOutline
+BP_MotionController_C.ExecuteUbergraph_BP_MotionController
+BP_MotionController_C.ReceiveBeginPlay
+BP_MotionControllerPawn_C.ExecuteUbergraph_BP_MotionControllerPawn
+BP_MotionControllerPawn_C.ReceiveBeginPlay
+
+[2019.05.30-03.50.39:191][743]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.036 s
+[2019.05.30-03.50.39:191][743]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.30-03.50.39:191][743]LogOutputDevice: Error: 
+[2019.05.30-03.50.39:191][743]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Math\Matrix.cpp] [Line: 8]
+[2019.05.30-03.50.39:191][743]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2019.05.30-03.50.39:191][743]LogOutputDevice: Error: Stack: 
+[2019.05.30-03.50.39:191][743]LogOutputDevice: Error: [Callstack] 0x00007ffd02f08f6a UE4Editor-Core.dll!UnknownFunction []
+[2019.05.30-03.50.39:191][743]LogOutputDevice: Error: [Callstack] 0x00007ffcff7a53aa UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.30-03.50.39:191][743]LogOutputDevice: Error: [Callstack] 0x00007ffd0019afdd UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.30-03.50.39:191][743]LogOutputDevice: Error: [Callstack] 0x00007ffd001d9894 UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31ab4b14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31d1bc2a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31d456cc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31d47d2f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31d1c5dd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31d6add3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31d47d2f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31d1c5dd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31d47d2f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31ab4b14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31d473c6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffcff883923 UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffcff84725c UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffcff853c95 UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffcff87f3b8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffcff86270f UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffcfffd36df UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffcff8b7456 UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31ab4b14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31d1bc2a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31d456cc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31d671c6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31d47d2f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31d1c5dd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31d47d2f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31ab4b14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd31d473c6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffcff883923 UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffcff84725c UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffcff853c95 UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd00ca060c UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd0005eb41 UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd00c4865e UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffcffffc1f1 UE4Editor-Engine.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffcfe90ac89 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffcfe92b350 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffcfe9492e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffcfe341891 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffcfec62346 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ff6c8826225 UE4Editor.exe!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ff6c883596c UE4Editor.exe!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ff6c88359ea UE4Editor.exe!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ff6c88448da UE4Editor.exe!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ff6c884659a UE4Editor.exe!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd6d017974 KERNEL32.DLL!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: [Callstack] 0x00007ffd6d28a271 ntdll.dll!UnknownFunction []
+[2019.05.30-03.50.39:192][743]LogOutputDevice: Error: 
+[2019.05.30-03.50.39:193][743]LogStats:                SubmitErrorReport -  0.000 s

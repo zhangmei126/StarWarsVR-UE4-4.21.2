@@ -1,0 +1,1277 @@
+﻿Log file open, 06/10/19 02:41:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: StarWarsVR
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.333928
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ParticleText
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogPluginManager: Mounting plugin OpenVRExpansionPlugin
+LogPluginManager: Mounting plugin VRExpansionPlugin
+LogStreaming: Display: Took  0.081s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: U:/UnrealEngine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.10-06.41.57:149][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.10-06.41.57:149][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.10-06.41.57:149][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.10-06.41.57:149][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.10-06.41.57:149][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.06.10-06.41.57:149][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.06.10-06.41.57:149][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.06.10-06.41.57:149][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.06.10-06.41.57:149][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.06.10-06.41.57:149][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.06.10-06.41.57:149][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.06.10-06.41.57:149][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.10-06.41.57:149][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.10-06.41.57:149][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.10-06.41.57:149][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.10-06.41.57:149][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.10-06.41.57:149][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.10-06.41.57:149][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.10-06.41.57:150][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.10-06.41.57:150][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.10-06.41.57:157][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.10-06.41.57:157][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.10-06.41.57:158][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.10-06.41.57:158][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.10-06.41.57:172][  0]LogHAL: Display: Platform has ~ 16 GB [17104732160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.10-06.41.57:173][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.10-06.41.57:173][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.10-06.41.57:173][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.10-06.41.57:174][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.10-06.41.57:174][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.10-06.41.57:174][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.10-06.41.57:174][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.10-06.41.57:174][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.10-06.41.57:174][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.10-06.41.57:174][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-06.41.57:174][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.10-06.41.57:174][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.10-06.41.57:174][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.10-06.41.57:176][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.10-06.41.57:176][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [U:/Unreal Projects/StarWarsVR 4.21/Saved/Config/Windows/Engine.ini]
+[2019.06.10-06.41.57:177][  0]LogInit: Computer: DESKTOP-G3P6UN7
+[2019.06.10-06.41.57:177][  0]LogInit: User: stott
+[2019.06.10-06.41.57:177][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.06.10-06.41.57:177][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.10-06.41.57:177][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.10-06.41.57:177][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.10-06.41.57:177][  0]LogMemory: Process Physical Memory: 105.79 MB used, 105.80 MB peak
+[2019.06.10-06.41.57:177][  0]LogMemory: Process Virtual Memory: 89.17 MB used, 89.17 MB peak
+[2019.06.10-06.41.57:177][  0]LogMemory: Physical Memory: 4801.39 MB used,  11510.95 MB free, 16312.34 MB total
+[2019.06.10-06.41.57:177][  0]LogMemory: Virtual Memory: 4681.03 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.06.10-06.41.57:363][  0]LogInit: Using OS detected language (en-US).
+[2019.06.10-06.41.57:363][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.10-06.41.57:365][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.10-06.41.57:713][  0]LogStreaming: Display: Took  0.349s to InitEngineTextLocalization.
+[2019.06.10-06.41.57:713][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.10-06.41.57:796][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.10-06.41.57:796][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.10-06.42.01:620][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.10-06.42.01:668][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.06.10-06.42.01:668][  0]LogD3D11RHI:       8010/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.06.10-06.42.01:671][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.10-06.42.01:671][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.10-06.42.01:671][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.10-06.42.01:677][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.10-06.42.01:677][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.10-06.42.01:677][  0]LogWindows: EnumDisplayDevices:
+[2019.06.10-06.42.01:677][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2019.06.10-06.42.01:677][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.06.10-06.42.01:677][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.06.10-06.42.01:677][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.06.10-06.42.01:678][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.10-06.42.01:678][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.06.10-06.42.01:678][  0]LogD3D11RHI:   Driver Version: 430.64 (internal:26.21.14.3064, unified:430.64)
+[2019.06.10-06.42.01:678][  0]LogD3D11RHI:      Driver Date: 5-5-2019
+[2019.06.10-06.42.01:678][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.06.10-06.42.01:724][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.10-06.42.01:757][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.10-06.42.01:801][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2019.06.10-06.42.02:145][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.10-06.42.02:160][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.10-06.42.02:178][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.10-06.42.02:193][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.10-06.42.02:227][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.10-06.42.02:243][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.10-06.42.02:259][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.10-06.42.02:275][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.10-06.42.02:285][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:349][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.10-06.42.02:357][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.10-06.42.02:434][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.10-06.42.02:434][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.10-06.42.02:455][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.10-06.42.02:455][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.10-06.42.02:471][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.10-06.42.02:486][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.10-06.42.02:501][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.10-06.42.02:522][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.10-06.42.02:561][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.10-06.42.02:561][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.10-06.42.02:561][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.10-06.42.02:790][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../Unreal Projects/StarWarsVR 4.21/Intermediate/Shaders/WorkingDirectory/2416/).
+[2019.06.10-06.42.02:790][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/stott/AppData/Local/Temp/UnrealShaderWorkingDir/CA22B8BD4EDCC315226949A4F67251C5/'.
+[2019.06.10-06.42.02:791][  0]LogXGEController: Cleaning working directory: C:/Users/stott/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.10-06.42.02:791][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.10-06.42.02:791][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.10-06.42.02:791][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.10-06.42.03:903][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.10-06.42.04:072][  0]LogDerivedDataCache: Loaded boot cache 0.17s 72MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.10-06.42.04:072][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.10-06.42.04:072][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/StarWarsVR 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.10-06.42.04:072][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.10-06.42.04:072][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/StarWarsVR 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.10-06.42.04:072][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.10-06.42.04:090][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.10-06.42.04:090][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.10-06.42.04:090][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.10-06.42.04:103][  0]LogDerivedDataCache: Using Local data cache path C:/Users/stott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.10-06.42.04:103][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.10-06.42.04:103][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.10-06.42.04:121][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.10-06.42.04:128][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.10-06.42.04:140][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.10-06.42.04:381][  0]LogAssetRegistry: FAssetRegistry took 0.0321 seconds to start up
+[2019.06.10-06.42.04:697][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.10-06.42.04:954][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.10-06.42.04:985][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.10-06.42.04:985][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.10-06.42.04:986][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.10-06.42.04:986][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.10-06.42.05:104][  0]LogNetVersion: StarWarsVR 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3577061868)
+[2019.06.10-06.42.05:254][  0]LogNavigation: Error: [/Script/Engine.NavigationSystem] found in the DefaultEngine.ini file. This class has been moved. Please rename that section to [/Script/NavigationSystem.NavigationSystemV1]
+[2019.06.10-06.42.06:029][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.074695 seconds
+[2019.06.10-06.42.06:033][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.10-06.42.06:033][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.06.10-06.42.06:033][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.10-06.42.08:981][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.10-06.42.09:005][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.10-06.42.09:820][  0]SourceControl: Source control is disabled
+[2019.06.10-06.42.09:821][  0]SourceControl: Source control is disabled
+[2019.06.10-06.42.09:839][  0]SourceControl: Source control is disabled
+[2019.06.10-06.42.09:850][  0]SourceControl: Source control is disabled
+[2019.06.10-06.42.10:449][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.10-06.42.10:675][  0]LogOcInput: OculusInput pre-init called
+[2019.06.10-06.42.10:754][  0]LogPython: Python Scripts search path: ../../../../../Unreal Projects/StarWarsVR 4.21/Content/Scripts
+[2019.06.10-06.42.10:754][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2019.06.10-06.42.10:754][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2019.06.10-06.42.11:190][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2019.06.10-06.42.11:190][  0]LogPython: 
+
+[2019.06.10-06.42.11:190][  0]LogPython: U:\UnrealEngine\UE_4.21\Engine\Plugins\UnrealEnginePython\
+[2019.06.10-06.42.11:190][  0]LogPython: 
+
+[2019.06.10-06.42.11:517][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2019.06.10-06.42.11:517][  0]LogPython: 
+
+[2019.06.10-06.42.11:519][  0]LogPython: ue_site Python module successfully imported
+[2019.06.10-06.42.11:802][  0]LogEngine: Initializing Engine...
+[2019.06.10-06.42.11:806][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-FCDAF386
+[2019.06.10-06.42.11:808][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.10-06.42.11:808][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.10-06.42.11:808][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.10-06.42.11:809][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.10-06.42.12:103][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.10-06.42.12:141][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.10-06.42.12:210][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.10-06.42.12:237][  0]LogInit: FAudioDevice initialized.
+[2019.06.10-06.42.12:237][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.10-06.42.12:305][  0]LogDerivedDataCache: Saved boot cache 0.07s 72MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.10-06.42.12:313][  0]LogInit: Texture streaming: Enabled
+[2019.06.10-06.42.12:353][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.10-06.42.12:373][  0]LogInit: Transaction tracking system initialized
+[2019.06.10-06.42.12:462][  0]BlueprintLog: New page: Editor Load
+[2019.06.10-06.42.12:780][  0]LocalizationService: Localization service is disabled
+[2019.06.10-06.42.13:742][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.10-06.42.13:742][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.10-06.42.13:742][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.10-06.42.13:742][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.10-06.42.13:742][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.10-06.42.13:742][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.10-06.42.13:742][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.10-06.42.14:257][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR 4.21/Content/' took 0.03s
+[2019.06.10-06.42.14:257][  0]SourceControl: Source control is disabled
+[2019.06.10-06.42.14:259][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.10-06.42.14:260][  0]LightingResults: New page: Lighting Build
+[2019.06.10-06.42.14:266][  0]MapCheck: New page: Map Check
+[2019.06.10-06.42.14:266][  0]LightingResults: New page: Lighting Build
+[2019.06.10-06.42.15:034][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; please replace or remove it.
+[2019.06.10-06.42.15:034][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; Please use the Motion Source property instead of Hand
+[2019.06.10-06.42.15:060][  0]LogBlueprint: Warning: [Compiler BP_MotionController] [0022.36] Compile of BP_MotionController successful, but with 2 Warning(s) [in 44 ms] (/Game/Lightsaber/Blueprints/BP_MotionController.BP_MotionController)
+[2019.06.10-06.42.17:225][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.06.10-06.42.17:225][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/StarterContent/Shapes/Shape_Cylinder.uasset.
+[2019.06.10-06.42.17:225][  0]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Cylinder : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall
+[2019.06.10-06.42.17:225][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.06.10-06.42.17:225][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/StarterContent/Shapes/Shape_Cylinder.uasset.
+[2019.06.10-06.42.17:225][  0]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Cylinder : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall
+[2019.06.10-06.42.18:041][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.06.10-06.42.18:041][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.06.10-06.42.18:041][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2019.06.10-06.42.18:041][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.06.10-06.42.18:041][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.06.10-06.42.18:041][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.06.10-06.42.18:041][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2019.06.10-06.42.18:041][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.06.10-06.42.18:518][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2019.06.10-06.42.18:518][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2019.06.10-06.42.18:518][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2019.06.10-06.42.18:518][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2019.06.10-06.42.20:344][  0]LogAIModule: Creating AISystem for world Test
+[2019.06.10-06.42.20:565][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.10-06.42.20:614][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.10-06.42.20:614][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2019.06.10-06.42.20:614][  0]LogFileHelpers: Loading map 'Test' took 6.357
+[2019.06.10-06.42.20:754][  0]LogCollectionManager: Loaded 0 collections in 0.000750 seconds
+[2019.06.10-06.42.20:787][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR 4.21/Saved/Collections/' took 0.01s
+[2019.06.10-06.42.20:787][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR 4.21/Content/Developers/stott/Collections/' took 0.01s
+[2019.06.10-06.42.20:787][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR 4.21/Content/Collections/' took 0.00s
+[2019.06.10-06.42.20:787][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.10-06.42.20:794][  0]LogContentBrowser: Native class hierarchy populated in 0.0061 seconds. Added 2727 classes and 641 folders.
+[2019.06.10-06.42.20:799][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.10-06.42.20:808][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:814][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:836][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:843][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:847][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:856][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:860][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:863][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:867][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:870][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:874][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:896][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:900][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:927][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:931][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.20:935][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-06.42.21:043][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.10-06.42.21:082][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-06.42.21:087][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-06.42.21:092][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-06.42.21:097][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-06.42.21:113][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.06.10-06.42.21:327][  0]LogSlate: Took 0.004101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.10-06.42.21:332][  0]LogSlate: Took 0.003867 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.10-06.42.21:336][  0]LogSlate: Took 0.003588 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.10-06.42.21:458][  0]LogRenderer: Reallocating scene render targets to support 1304x1280 Format 26 NumSamples 1 (Frame:1).
+[2019.06.10-06.42.21:690][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.10-06.42.21:690][  0]LogLoad: (Engine Initialization) Total time: 28.99 seconds
+[2019.06.10-06.42.21:690][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.10-06.42.21:756][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.10-06.42.21:761][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-06.42.21:789][  0]LogSlate: Took 0.016329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.10-06.42.22:192][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2019.06.10-06.42.22:485][  8]LogAssetRegistry: Asset discovery search completed in 18.1261 seconds
+[2019.06.10-06.42.22:487][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.10-06.42.22:487][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2019.06.10-06.42.37:442][415]LogAnimation: Warning: AnimBP ABP_hand_right_C is incompatible with skeleton SK_hand_left_Skeleton, removing AnimBP from actor.
+[2019.06.10-06.42.49:571][ 37]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/stott/Desktop/Unreal Assets/BF2Assetts/Characters/Custom Grievous/anims/UnrelentingAdvance.fbx)
+[2019.06.10-06.42.49:607][ 37]LogFbx: Loading FBX Scene from C:/Users/stott/Desktop/Unreal Assets/BF2Assetts/Characters/Custom Grievous/anims/UnrelentingAdvance.fbx
+[2019.06.10-06.42.49:765][ 37]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.10-06.43.00:594][ 37]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.10-06.43.00:733][ 37]LogFbx: =================================================
+[2019.06.10-06.43.00:733][ 37]LogFbx: Dumping Node START [Grievous] 
+[2019.06.10-06.43.00:733][ 37]LogFbx: 	Total Deformer Count -1298038840.
+[2019.06.10-06.43.00:733][ 37]LogFbx: 		[Node 1] Reference (Type Skin).
+[2019.06.10-06.43.00:733][ 37]LogFbx: =================================================
+[2019.06.10-06.43.00:733][ 37]LogFbx: 	Attribute (M_Grievous_01_Legs.005) Type (4).
+[2019.06.10-06.43.00:733][ 37]LogFbx: 		[Node Attribute Child 1] Grievous (Type Mesh).
+[2019.06.10-06.43.00:733][ 37]LogFbx: Dumping Node END [Grievous]
+[2019.06.10-06.43.00:740][ 37]LogFbx: =================================================
+[2019.06.10-06.43.00:740][ 37]LogFbx: Dumping Node START [Grievous] 
+[2019.06.10-06.43.00:740][ 37]LogFbx: 	Total Deformer Count -1298039456.
+[2019.06.10-06.43.00:740][ 37]LogFbx: 		[Node 1] Reference (Type Skin).
+[2019.06.10-06.43.00:740][ 37]LogFbx: =================================================
+[2019.06.10-06.43.00:740][ 37]LogFbx: 	Attribute (M_Grievous_01_Legs.005) Type (4).
+[2019.06.10-06.43.00:740][ 37]LogFbx: 		[Node Attribute Child 1] Grievous (Type Mesh).
+[2019.06.10-06.43.00:740][ 37]LogFbx: Dumping Node END [Grievous]
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(0) Reference
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(1) control
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(2) leftknee
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(3) leftknee_end
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(4) rightknee
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(5) rightknee_end
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(6) leftlegIK
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(7) LeftFoot
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(8) LeftToeBase
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(9) LeftToe1
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(10) LeftToe1Tip
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(11) LeftToe1End
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(12) LeftToe1End_end
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(13) LeftToe2
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(14) LeftToe2Tip
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(15) LeftToe2End
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(16) LeftToe2End_end
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(17) LeftToe3
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(18) LeftToe3Tip
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(19) LeftToe3End
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(20) LeftToe3End_end
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(21) LeftToe4
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(22) LeftToe4Tip
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(23) LeftToe4End
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(24) LeftToe4End_end
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(25) LeftToe5
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(26) LeftToe5Tip
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(27) LeftToe5End
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(28) LeftToe5End_end
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(29) LeftToe6
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(30) LeftToe6Tip
+[2019.06.10-06.43.00:741][ 37]LogFbx: SortedLinks :(31) LeftToe6End
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(32) LeftToe6End_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(33) rightlegIK
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(34) RightFoot
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(35) RightToeBase
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(36) RightToe1
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(37) RightToe1Tip
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(38) RightToe1End
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(39) RightToe1End_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(40) RightToe2
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(41) RightToe2Tip
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(42) RightToe2End
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(43) RightToe2End_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(44) RightToe3
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(45) RightToe3Tip
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(46) RightToe3End
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(47) RightToe3End_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(48) RightToe4
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(49) RightToe4Tip
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(50) RightToe4End
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(51) RightToe4End_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(52) RightToe5
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(53) RightToe5Tip
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(54) RightToe5End
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(55) RightToe5End_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(56) RightToe6
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(57) RightToe6Tip
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(58) RightToe6End
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(59) RightToe6End_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(60) Spine
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(61) Hips
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(62) LeftHips
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(63) LeftUpLeg
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(64) LeftLeg
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(65) LeftLowLeg
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(66) LeftLowLegBackShield
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(67) LeftLowLegBackShield1
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(68) LeftLowLegBackShield1_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(69) RightHips
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(70) RightUpLeg
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(71) RightLeg
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(72) RightLowLeg
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(73) RightLowLegBackShield
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(74) RightLowLegBackShield1
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(75) RightLowLegBackShield1_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(76) Spine1
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(77) Spine2
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(78) Neck
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(79) Neck_Extra
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(80) NeckLeftFrontHydraulic
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(81) NeckLeftFrontHydraulic_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(82) NeckRightFrontHydraulic
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(83) NeckRightFrontHydraulic_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(84) NeckLeftBackHydraulic
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(85) NeckLeftBackHydraulic_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(86) NeckRightBackHydraulic
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(87) NeckRightBackHydraulic_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(88) Neck1
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(89) Head
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(90) HeadEnd
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(91) HeadEnd_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(92) FACIAL_C_FacialRoot
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(93) FACIAL_LOD1_C_Forehead
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(94) FACIAL_LOD1_C_Forehead_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(95) FACIAL_LOD1_L_ForeheadIn
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(96) FACIAL_LOD1_L_ForeheadIn_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(97) FACIAL_LOD1_R_ForeheadIn
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(98) FACIAL_LOD1_R_ForeheadIn_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(99) FACIAL_LOD1_L_ForeheadMid
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(100) FACIAL_LOD1_L_ForeheadMid_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(101) FACIAL_LOD1_R_ForeheadMid
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(102) FACIAL_LOD1_R_ForeheadMid_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(103) FACIAL_LOD1_L_ForeheadOut
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(104) FACIAL_LOD1_L_ForeheadOut_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(105) FACIAL_LOD1_R_ForeheadOut
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(106) FACIAL_LOD1_R_ForeheadOut_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(107) FACIAL_LOD1_L_EyesackUpper
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(108) FACIAL_LOD1_L_EyesackUpper_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(109) FACIAL_LOD1_R_EyesackUpper
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(110) FACIAL_LOD1_R_EyesackUpper_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(111) FACIAL_LOD1_L_EyelidUpperFurrow
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(112) FACIAL_LOD1_L_EyelidUpperFurrow_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(113) FACIAL_LOD1_R_EyelidUpperFurrow
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(114) FACIAL_LOD1_R_EyelidUpperFurrow_end
+[2019.06.10-06.43.00:742][ 37]LogFbx: SortedLinks :(115) FACIAL_LOD1_L_EyelidUpper
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(116) FACIAL_LOD1_L_EyelidUpper_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(117) FACIAL_LOD1_R_EyelidUpper
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(118) FACIAL_LOD1_R_EyelidUpper_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(119) FACIAL_LOD1_L_Eyeball
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(120) FACIAL_LOD1_L_Pupil
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(121) FACIAL_LOD1_L_Pupil_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(122) FACIAL_LOD1_R_Eyeball
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(123) FACIAL_LOD1_R_Pupil
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(124) FACIAL_LOD1_R_Pupil_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(125) FACIAL_LOD1_L_EyelidLower
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(126) FACIAL_LOD1_L_EyelidLower_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(127) FACIAL_LOD1_R_EyelidLower
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(128) FACIAL_LOD1_R_EyelidLower_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(129) FACIAL_LOD1_L_EyesackLower
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(130) FACIAL_LOD1_L_EyesackLower_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(131) FACIAL_LOD1_R_EyesackLower
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(132) FACIAL_LOD1_R_EyesackLower_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(133) FACIAL_LOD1_L_CheekInner
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(134) FACIAL_LOD1_L_CheekInner_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(135) FACIAL_LOD1_R_CheekInner
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(136) FACIAL_LOD1_R_CheekInner_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(137) FACIAL_LOD1_L_CheekOuter
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(138) FACIAL_LOD1_L_CheekOuter_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(139) FACIAL_LOD1_R_CheekOuter
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(140) FACIAL_LOD1_R_CheekOuter_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(141) FACIAL_LOD1_C_NoseBridge
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(142) FACIAL_LOD1_C_NoseBridge_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(143) FACIAL_LOD1_L_NasolabialBulge
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(144) FACIAL_LOD1_L_NasolabialBulge_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(145) FACIAL_LOD1_R_NasolabialBulge
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(146) FACIAL_LOD1_R_NasolabialBulge_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(147) FACIAL_LOD1_L_NasolabialFurrow
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(148) FACIAL_LOD1_L_NasolabialFurrow_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(149) FACIAL_LOD1_R_NasolabialFurrow
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(150) FACIAL_LOD1_R_NasolabialFurrow_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(151) FACIAL_LOD1_L_CheekLower
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(152) FACIAL_LOD1_L_CheekLower_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(153) FACIAL_LOD1_R_CheekLower
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(154) FACIAL_LOD1_R_CheekLower_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(155) FACIAL_LOD1_C_Nose
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(156) FACIAL_LOD1_C_NoseLower
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(157) FACIAL_LOD1_C_NoseLower_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(158) FACIAL_LOD1_L_Nostril
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(159) FACIAL_LOD1_L_Nostril_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(160) FACIAL_LOD1_R_Nostril
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(161) FACIAL_LOD1_R_Nostril_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(162) FACIAL_LOD1_C_Mouth
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(163) FACIAL_LOD1_C_LipUpper
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(164) FACIAL_LOD1_C_LipUpperInner
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(165) FACIAL_LOD1_C_LipUpperInner_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(166) FACIAL_LOD1_L_LipUpper
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(167) FACIAL_LOD1_L_LipUpperInner
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(168) FACIAL_LOD1_L_LipUpperInner_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(169) FACIAL_LOD1_R_LipUpper
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(170) FACIAL_LOD1_R_LipUpperInner
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(171) FACIAL_LOD1_R_LipUpperInner_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(172) FACIAL_LOD1_L_LipUpperOuter
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(173) FACIAL_LOD1_L_LipUpperOuterInner
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(174) FACIAL_LOD1_L_LipUpperOuterInner_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(175) FACIAL_LOD1_R_LipUpperOuter
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(176) FACIAL_LOD1_R_LipUpperOuterInner
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(177) FACIAL_LOD1_R_LipUpperOuterInner_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(178) FACIAL_LOD1_L_LipCorner
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(179) FACIAL_LOD1_L_LipCornerInner
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(180) FACIAL_LOD1_L_LipCornerInner_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(181) FACIAL_LOD1_R_LipCorner
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(182) FACIAL_LOD1_R_LipCornerInner
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(183) FACIAL_LOD1_R_LipCornerInner_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(184) FACIAL_LOD1_C_LipLower
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(185) FACIAL_LOD1_C_LipLowerInner
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(186) FACIAL_LOD1_C_LipLowerInner_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(187) FACIAL_LOD1_L_LipLower
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(188) FACIAL_LOD1_L_LipLowerInner
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(189) FACIAL_LOD1_L_LipLowerInner_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(190) FACIAL_LOD1_R_LipLower
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(191) FACIAL_LOD1_R_LipLowerInner
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(192) FACIAL_LOD1_R_LipLowerInner_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(193) FACIAL_LOD1_L_LipLowerOuter
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(194) FACIAL_LOD1_L_LipLowerOuterInner
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(195) FACIAL_LOD1_L_LipLowerOuterInner_end
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(196) FACIAL_LOD1_R_LipLowerOuter
+[2019.06.10-06.43.00:743][ 37]LogFbx: SortedLinks :(197) FACIAL_LOD1_R_LipLowerOuterInner
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(198) FACIAL_LOD1_R_LipLowerOuterInner_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(199) FACIAL_LOD1_C_Jaw
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(200) FACIAL_LOD1_C_Chin
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(201) FACIAL_LOD1_C_Chin_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(202) FACIAL_LOD1_L_ChinSide
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(203) FACIAL_LOD1_L_ChinSide_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(204) FACIAL_LOD1_R_ChinSide
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(205) FACIAL_LOD1_R_ChinSide_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(206) FACIAL_LOD1_C_Tongue1
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(207) FACIAL_LOD1_C_Tongue2
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(208) FACIAL_LOD1_C_Tongue3
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(209) FACIAL_LOD1_C_Tongue4
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(210) FACIAL_LOD1_C_Tongue4_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(211) FACIAL_LOD1_L_Masseter
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(212) FACIAL_LOD1_L_Masseter_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(213) FACIAL_LOD1_R_Masseter
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(214) FACIAL_LOD1_R_Masseter_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(215) FACIAL_LOD1_C_UnderChin
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(216) FACIAL_LOD1_C_UnderChin_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(217) FACIAL_LOD1_L_UnderChin
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(218) FACIAL_LOD1_L_UnderChin_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(219) FACIAL_LOD1_R_UnderChin
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(220) FACIAL_LOD1_R_UnderChin_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(221) FACIAL_LOD1_L_Ear
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(222) FACIAL_LOD1_L_Ear_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(223) FACIAL_LOD1_R_Ear
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(224) FACIAL_LOD1_R_Ear_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(225) Neck1LeftBackHydraulic
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(226) Neck1LeftBackHydraulic_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(227) Neck1RightBackHydraulic
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(228) Neck1RightBackHydraulic_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(229) Neck1LeftFrontHydraulic
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(230) Neck1LeftFrontHydraulic_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(231) Neck1RightFrontHydraulic
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(232) Neck1RightFrontHydraulic_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(233) FACIAL_C_Neck2Root
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(234) FACIAL_LOD1_C_AdamsApple
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(235) FACIAL_LOD1_C_AdamsApple_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(236) Spine2Organs
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(237) LeftUpLung
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(238) LeftUpLung_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(239) RightUpLung
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(240) RightUpLung_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(241) Heart
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(242) Heart_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(243) LeftShoulder
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(244) LeftBackShoulder
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(245) LeftBackArm
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(246) LeftBackForeArm
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(247) LeftBackHand
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(248) LeftBackHand1
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(249) LeftBackHandThumb0
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(250) LeftBackHandThumb1
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(251) LeftBackHandThumb2
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(252) LeftBackHandThumb3
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(253) LeftBackHandThumb4
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(254) LeftBackHandThumb4_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(255) LeftBackHandIndex0
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(256) LeftBackHandAttach
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(257) LeftBackHandAttach_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(258) LeftBackHandIndex1
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(259) LeftBackHandIndex2
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(260) LeftBackHandIndex3
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(261) LeftBackHandIndex4
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(262) LeftBackHandIndex5
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(263) LeftBackHandIndex5_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(264) LeftBackHandMiddle1
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(265) LeftBackHandMiddle2
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(266) LeftBackHandMiddle3
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(267) LeftBackHandMiddle4
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(268) LeftBackHandMiddle5
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(269) LeftBackHandMiddle5_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(270) LeftBackForeArmHydraulicRoot
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(271) LeftBackForeArmHydraulic
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(272) LeftBackForeArmHydraulic1
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(273) LeftBackForeArmHydraulic1_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(274) LeftBackForeArmHydraulic1Aim
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(275) LeftBackForeArmHydraulic1Aim_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(276) LeftBackForeArmLock1
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(277) LeftBackForeArmLock1_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(278) LeftBackForeArmLock2
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(279) LeftBackForeArmLock2_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(280) LeftBackForeArmLock3
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(281) LeftBackForeArmLock3_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(282) LeftBackArmHydraulic
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(283) LeftBackArmSmallHydraulic
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(284) LeftBackArmSmallHydraulic_end
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(285) LeftBackArmLowHydraulic
+[2019.06.10-06.43.00:744][ 37]LogFbx: SortedLinks :(286) LeftBackArmLowHydraulic_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(287) LeftBackArmPauldron
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(288) LeftBackArmPauldron_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(289) LeftFrontShoulder
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(290) LeftArm
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(291) LeftForeArm
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(292) LeftHand
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(293) LeftHand1
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(294) LeftHand1_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(295) LeftFrontArm
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(296) LeftFrontForeArm
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(297) LeftFrontHand
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(298) LeftFrontHand1
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(299) LeftFrontHandThumb0
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(300) LeftFrontHandThumb1
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(301) LeftFrontHandThumb2
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(302) LeftFrontHandThumb3
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(303) LeftFrontHandThumb4
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(304) LeftFrontHandThumb4_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(305) LeftFrontHandIndex0
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(306) LeftFrontHandAttach
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(307) LeftFrontHandAttach_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(308) LeftFrontHandIndex1
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(309) LeftFrontHandIndex2
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(310) LeftFrontHandIndex3
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(311) LeftFrontHandIndex4
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(312) LeftFrontHandIndex5
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(313) LeftFrontHandIndex5_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(314) LeftFrontHandMiddle1
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(315) LeftFrontHandMiddle2
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(316) LeftFrontHandMiddle3
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(317) LeftFrontHandMiddle4
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(318) LeftFrontHandMiddle5
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(319) LeftFrontHandMiddle5_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(320) LeftFrontForeArmHydraulicRoot
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(321) LeftFrontForeArmHydraulic
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(322) LeftFrontForeArmHydraulic1
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(323) LeftFrontForeArmHydraulic1_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(324) LeftFrontForeArmHydraulic1Aim
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(325) LeftFrontForeArmHydraulic1Aim_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(326) LeftFrontForeArmLock1
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(327) LeftFrontForeArmLock1_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(328) LeftFrontForeArmLock2
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(329) LeftFrontForeArmLock2_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(330) LeftFrontForeArmLock3
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(331) LeftFrontForeArmLock3_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(332) LeftFrontArmHydraulic
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(333) LeftFrontArmSmallHydraulic
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(334) LeftFrontArmSmallHydraulic_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(335) LeftFrontArmLowHydraulic
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(336) LeftFrontArmLowHydraulic_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(337) RightShoulder
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(338) RightBackShoulder
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(339) RightBackArm
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(340) RightBackForeArm
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(341) RightBackHand
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(342) RightBackHand1
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(343) RightBackHandThumb0
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(344) RightBackHandThumb1
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(345) RightBackHandThumb2
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(346) RightBackHandThumb3
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(347) RightBackHandThumb4
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(348) RightBackHandThumb4_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(349) RightBackHandIndex0
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(350) RightBackHandAttach
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(351) RightBackHandAttach_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(352) RightBackHandIndex1
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(353) RightBackHandIndex2
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(354) RightBackHandIndex3
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(355) RightBackHandIndex4
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(356) RightBackHandIndex5
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(357) RightBackHandIndex5_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(358) RightBackHandMiddle1
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(359) RightBackHandMiddle2
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(360) RightBackHandMiddle3
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(361) RightBackHandMiddle4
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(362) RightBackHandMiddle5
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(363) RightBackHandMiddle5_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(364) RightBackForeArmHydraulicRoot
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(365) RightBackForeArmHydraulic
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(366) RightBackForeArmHydraulic1
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(367) RightBackForeArmHydraulic1_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(368) RightBackForeArmHydraulic1Aim
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(369) RightBackForeArmHydraulic1Aim_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(370) RightBackForeArmLock1
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(371) RightBackForeArmLock1_end
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(372) RightBackForeArmLock2
+[2019.06.10-06.43.00:745][ 37]LogFbx: SortedLinks :(373) RightBackForeArmLock2_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(374) RightBackForeArmLock3
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(375) RightBackForeArmLock3_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(376) RightBackArmHydraulic
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(377) RightBackArmSmallHydraulic
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(378) RightBackArmSmallHydraulic_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(379) RightBackArmLowHydraulic
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(380) RightBackArmLowHydraulic_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(381) RightBackArmPauldron
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(382) RightBackArmPauldron_001
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(383) RightBackArmPauldron_001_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(384) RightFrontShoulder
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(385) RightArm
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(386) RightForeArm
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(387) RightHand
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(388) RightHand1
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(389) RightHand1_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(390) RightArm_001
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(391) RightArm_001_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(392) RightFrontArm
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(393) RightFrontForeArm
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(394) RightFrontHand
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(395) RightFrontHand1
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(396) RightFrontHandThumb0
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(397) RightFrontHandThumb1
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(398) RightFrontHandThumb2
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(399) RightFrontHandThumb3
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(400) RightFrontHandThumb4
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(401) RightFrontHandThumb4_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(402) RightFrontHandIndex0
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(403) RightFrontHandAttach
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(404) RightFrontHandAttach_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(405) RightFrontHandIndex1
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(406) RightFrontHandIndex2
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(407) RightFrontHandIndex3
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(408) RightFrontHandIndex4
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(409) RightFrontHandIndex5
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(410) RightFrontHandIndex5_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(411) RightFrontHandMiddle1
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(412) RightFrontHandMiddle2
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(413) RightFrontHandMiddle3
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(414) RightFrontHandMiddle4
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(415) RightFrontHandMiddle5
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(416) RightFrontHandMiddle5_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(417) RightFrontForeArmHydraulicRoot
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(418) RightFrontForeArmHydraulic
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(419) RightFrontForeArmHydraulic1
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(420) RightFrontForeArmHydraulic1_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(421) RightFrontForeArmHydraulic1Aim
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(422) RightFrontForeArmHydraulic1Aim_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(423) RightFrontForeArmLock1
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(424) RightFrontForeArmLock1_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(425) RightFrontForeArmLock2
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(426) RightFrontForeArmLock2_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(427) RightFrontForeArmLock3
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(428) RightFrontForeArmLock3_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(429) RightFrontArmHydraulic
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(430) RightFrontArmSmallHydraulic
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(431) RightFrontArmSmallHydraulic_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(432) RightFrontArmLowHydraulic
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(433) RightFrontArmLowHydraulic_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(434) LeftBreastPlate
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(435) LeftBreastPlate_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(436) RightBreastPlate
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(437) RightBreastPlate_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(438) Spine1Organs
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(439) LeftLowLung
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(440) LeftLowLung_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(441) RightLowLung
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(442) RightLowLung_end
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(443) Spine_001
+[2019.06.10-06.43.00:746][ 37]LogFbx: SortedLinks :(444) Spine_001_end
+[2019.06.10-06.43.00:753][ 37]LogFbx: Parsing AnimStack Reference|ReferenceAction
+[2019.06.10-06.43.00:770][ 37]LogLinker: Can't find file '/Game/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance'
+[2019.06.10-06.43.00:770][ 37]LogLinker: Can't find file '/Game/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance'
+[2019.06.10-06.43.01:609][ 37]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.UnrelentingAdvance
+[2019.06.10-06.43.01:616][ 37]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.UnrelentingAdvance) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.10-06.43.06:009][408]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.UnrelentingAdvance
+[2019.06.10-06.43.06:049][408]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.06.10-06.43.06:272][408]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.10-06.43.06:276][408]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.06.10-06.43.06:326][408]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.10-06.43.06:790][408]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.06.10-06.43.06:816][408]LogRenderer: Reallocating scene render targets to support 1528x1280 Format 26 NumSamples 1 (Frame:1).
+[2019.06.10-06.43.06:816][408]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.10-06.43.27:737][741]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/UnrelentingAdvance17856FAF4506DC202018359B6B9FDE95.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.uasset'
+[2019.06.10-06.43.28:250][776]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/UnrelentingAdvanceAE3C59F949AC105FD0FCA5BDA524A5B7.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.uasset'
+[2019.06.10-06.43.28:602][797]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/UnrelentingAdvance2E8A813C4D124A328401E181FDBB96B6.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.uasset'
+[2019.06.10-06.43.29:041][829]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/UnrelentingAdvanceB247CB96429F2876EE47C59502CDB573.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.uasset'
+[2019.06.10-06.43.33:216][186]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/UnrelentingAdvanceEDD95F384631A851B1C9508D592C7FC0.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.uasset'
+[2019.06.10-06.43.33:661][215]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/UnrelentingAdvance04A8DCF64D45AA001143D68D97F5C456.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.uasset'
+[2019.06.10-06.43.34:071][246]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/UnrelentingAdvance1C8CB8DE43985482AAFFB98A0BDD33B6.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.uasset'
+[2019.06.10-06.43.34:480][272]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/UnrelentingAdvance2AA2CFBB4EB1D88496921DA57EB34B29.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.uasset'
+[2019.06.10-06.43.34:780][292]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/UnrelentingAdvanceE997B0F342211BBCAD125185E3D2580D.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.uasset'
+[2019.06.10-06.43.35:154][315]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/UnrelentingAdvanceF9C11EE54691A21923DBAF810D0F794D.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.uasset'
+[2019.06.10-06.43.35:530][342]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/UnrelentingAdvanceE64DB2E142C860A62F7CF6A44C034840.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.uasset'
+[2019.06.10-06.43.35:881][363]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/UnrelentingAdvanceC5E3B99E48D91AC1D7C33880CE33E0AB.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.uasset'
+[2019.06.10-06.43.36:183][382]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/UnrelentingAdvanceB95326444E4E2F1FEAC9BA97FD1BF6CB.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.uasset'
+[2019.06.10-06.43.36:397][391]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/UnrelentingAdvance4E15AA03463C81C0A4031FAE32EB5FD0.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.uasset'
+[2019.06.10-06.43.36:644][402]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/UnrelentingAdvanceB18D07464CD4C3AA1FEE1BA3B9DD5EE6.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.uasset'
+[2019.06.10-06.43.36:891][414]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/UnrelentingAdvance6E332BC5429871339D01CF813BBB9DE1.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/anims/UnrelentingAdvance.uasset'
+[2019.06.10-06.43.40:726][744]LogSlate: Window 'UnrelentingAdvance' being destroyed
+[2019.06.10-06.43.40:773][744]LogSlate: Window 'UnrelentingAdvance' being destroyed
+[2019.06.10-06.43.42:301][876]LogSlate: Window 'Message Log' being destroyed
+[2019.06.10-06.43.42:348][876]LogSlate: Window 'Message Log' being destroyed
+[2019.06.10-06.45.04:534][354]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.VRGrievousAnimBP
+[2019.06.10-06.45.04:555][354]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.10-06.45.04:955][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:955][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:955][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:955][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:955][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:955][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:955][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:955][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:955][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:955][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:955][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:959][354]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-06.45.04:959][354]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-06.45.04:959][354]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-06.45.04:959][354]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-06.45.04:959][354]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-06.45.04:959][354]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-06.45.04:959][354]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-06.45.04:963][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:963][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:963][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:963][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:963][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:963][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:963][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:963][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:963][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:963][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:963][354]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.06.10-06.45.04:967][354]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-06.45.04:967][354]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-06.45.04:968][354]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-06.45.04:968][354]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-06.45.04:968][354]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-06.45.04:968][354]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-06.45.04:968][354]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ChameleonDemo/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.06.10-06.45.05:063][354]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2019.06.10-06.45.05:665][354]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.10-06.45.05:932][354]LogSlate: Took 0.004648 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.10-06.45.06:095][354]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.10-06.45.06:160][355]LogSlate: Took 0.003556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.10-06.47.04:059][909]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.10-06.47.04:407][909]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPA29EABD849688EA20F7034816EF0C67C.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.47.05:330][978]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP1B566102400E48D40E480B850BA8037D.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.47.14:672][758]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.10-06.47.14:992][758]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP3DC6FA8A44CF0FF0D87F6FA98C61765C.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.47.19:257][118]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.10-06.47.19:575][118]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP77158D2042CF04296B507298BC484D08.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.47.20:075][147]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP2A98159440703E47A612BFAE0659A7BD.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.47.27:410][855]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP64165AF24472061ECCE4348C84CC1FE7.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.47.27:894][885]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP1D460E3946864B06E76AEAB3F0103C75.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.48.04:398][588]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.10-06.48.04:721][588]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP3B2DD42B4EFB642402F1E598F329C2BA.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.48.05:248][622]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPB36392B04FC0A2275F4436AD76F6F1B7.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.48.17:776][296]LogHttp: Warning: 000001BC184A6D40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.06.10-06.48.17:776][296]LogHttp: Warning: 000001BC184A6D40: libcurl info message cache 0 (Connection 2 seems to be dead!)
+[2019.06.10-06.48.17:776][296]LogHttp: Warning: 000001BC184A6D40: libcurl info message cache 1 (Closing connection 2)
+[2019.06.10-06.48.17:776][296]LogHttp: Warning: 000001BC184A6D40: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.06.10-06.48.17:776][296]LogHttp: Warning: 000001BC184A6D40: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.06.10-06.48.17:776][296]LogHttp: Warning: 000001BC184A6D40: libcurl info message cache 4 (Closing connection 3)
+[2019.06.10-06.48.17:776][296]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8F4F9679-40BA-4E1E-8275-0681DDC361A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=9b6c379546d2cae86d1828aa1fc8a3b0%7C00df9b6805af43d3a0c3c348f218e5bb%7Cd5c1aad9-425c-4666-a145-f45de9fb19cd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.06.10-06.50.21:589][196]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.10-06.50.21:918][196]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPF422023A48A3EBC1F49D0F819281E1FD.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.50.23:183][294]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPDD1D823149A24E55560B9BA567D23A2D.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.50.23:678][325]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP3990629C4EAF6B840DFEF9A743150346.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.50.24:068][350]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPB8DFFA4E4E140AF13F3E39BB9178053B.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.51.30:377][161]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/BF2_Assets/Characters/Grievous/Grievous_Skeleton.Grievous_Skeleton
+[2019.06.10-06.51.30:384][161]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.10-06.51.30:421][161]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.10-06.54.17:299][321]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.10-06.54.17:642][321]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP76590319441AAB78428601A6943C6CB9.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.54.18:203][357]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPE7AB33564E834B1061A417AEDA351BC3.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.54.18:765][396]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP5909CAEB4FA82F481735258ED46EE3E3.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.54.59:138][721]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.10-06.54.59:469][721]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPEAB0B44449A80C39D1918698A895C8B2.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.55.13:032][885]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.10-06.55.13:359][885]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP66E4929B4FD918323A5F3CB5848A8721.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.55.28:052][104]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPBDE3730645BBDBB607A448955AB934EC.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.55.28:526][134]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP4549C6F448C5C3044713CF8B099374ED.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.55.28:878][151]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPFA2A6D564BD27BA5566717AAC53D520C.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.55.54:800][402]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP8CDB637B4768BE597AF55DAD4114571C.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.55.55:293][434]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP524030E64F99335D32FF87BB0803F1B1.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.56.06:210][388]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.10-06.56.06:949][424]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP474C53F4461744317F02E3B5C76ED510.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.56.07:346][444]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP61F10D8D4460A76668D04D9000676851.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.57.01:107][639]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Lightsaber/Maps/Test' took 0.026
+[2019.06.10-06.57.01:114][639]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BF2_Assets/Characters/Grievous/VRGrievousAnimBP] ([1] browsable assets)...
+[2019.06.10-06.57.01:114][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/BF2_Assets/Characters/Grievous/VRGrievousAnimBP]
+[2019.06.10-06.57.01:171][639]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP_Auto1051627C44B9CB35476706D82EE133406.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/Autosaves/Game/BF2_Assets/Characters/Grievous/VRGrievousAnimBP_Auto1.uasset'
+[2019.06.10-06.57.01:171][639]LogFileHelpers: Auto-saving content packages took 0.064
+[2019.06.10-06.57.11:583][503]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.10-06.57.11:920][503]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP87F5D88548D9DD8A29103FB8FB17D1BB.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.57.12:624][548]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP1166C5C14252B638E04109B43A68CEAF.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.57.18:373][ 29]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP2A63F14E4A70A9802132B097437C6B95.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.57.18:910][ 65]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP7820CD684E206E43217B1FB7FA4E36FD.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.57.19:310][ 85]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP0F07E80A4FCDCA2F55BCDCB7E462FA80.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.57.21:504][240]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPACCEFB514BBCE8297C1BACA3B6A22E37.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.57.21:890][260]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP9AD69B2C4A031F8A8DBACCA6CBE805B7.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.57.23:148][334]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP87C18C704A578EA86D16858D29FB5D51.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.57.23:703][369]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP9DA116DC40BD3EE4E19101B9079C0DA3.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.57.24:119][392]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP66644EE444D505283FBEDD8A125EEB04.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.57.24:668][429]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP1709CEE64C7351DD2F6CCCA3F8DF9098.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.57.26:867][608]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP2D5B3A8F4890C6FE68B263BEFCC354E0.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.57.35:274][284]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPFEAAA1884DBF520514F35F8E924DE957.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.57.35:712][309]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPBBD13B47406FBFA861940C8A362160D8.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.57.36:047][327]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP2CF9757D4875A6D9A352AAB2C538D4E0.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.57.36:859][388]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP9B9CBBDA4BF73C84451C85AC6D1566AA.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.57.49:846][513]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.10-06.57.50:175][513]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPF3A560C941E39D6631DD62A15F5F73EE.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.58.03:077][619]BlueprintLog: New page: Compile VRGrievousAnimBP
+[2019.06.10-06.58.03:408][619]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPF463DB1844E6D56906F479B0E7C70A75.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.58.04:213][675]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBPC78498514A3FFA02D126EC9393A06A54.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.58.04:629][698]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR 4.21/Saved/VRGrievousAnimBP1ECB5CD24BD1ACEF2F182989AFA9918A.tmp' to '../../../../../Unreal Projects/StarWarsVR 4.21/Content/BF2_Assets/Characters/Grievous/VRGrievousAnimBP.uasset'
+[2019.06.10-06.58.09:627][133]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.06.10-06.58.09:627][133]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/StarterContent/Props/SM_TableRound.uasset.
+[2019.06.10-06.58.09:627][133]LoadErrors: Error: /Game/StarterContent/Props/SM_TableRound : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound
+[2019.06.10-06.58.09:627][133]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.06.10-06.58.09:627][133]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading ../../../../../Unreal Projects/StarWarsVR 4.21/Content/StarterContent/Props/SM_TableRound.uasset.
+[2019.06.10-06.58.09:649][133]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.06.10-06.58.09:650][133]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound.M_TableRound Referenced by SM_TableRound
+[2019.06.10-06.58.09:650][133]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading NULL.
+[2019.06.10-06.58.09:650][133]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.06.10-06.58.09:650][133]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading NULL.
+[2019.06.10-06.58.09:894][133]LogAIModule: Creating AISystem for world VRCharTest
+[2019.06.10-06.58.09:916][133]LogAssetEditorManager: Opening Asset editor for World /Game/Lightsaber/Maps/VRCharTest.VRCharTest
+[2019.06.10-06.58.09:947][133]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/StarWarsVR 4.21/Content/Lightsaber/Maps/VRCharTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.10-06.58.09:947][133]LightingResults: New page: Lighting Build
+[2019.06.10-06.58.09:948][133]LoadErrors: New page: Loading map: VRCharTest.umap
+[2019.06.10-06.58.09:955][133]MapCheck: New page: Map Check
+[2019.06.10-06.58.09:955][133]LightingResults: New page: Lighting Build
+[2019.06.10-06.58.10:122][133]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.10-06.58.10:194][133]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.10-06.58.10:194][133]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2019.06.10-06.58.10:195][133]LogFileHelpers: Loading map 'VRCharTest' took 0.248
+[2019.06.10-06.58.16:729][539]LogTemp: Repeating last play command: VR Preview
+[2019.06.10-06.58.16:756][539]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.06.10-06.58.16:757][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.10-06.58.16:757][539]PIE: New page: PIE session: VRCharTest (Jun 9, 2019, 10:58:16 PM)
+[2019.06.10-06.58.16:770][539]LogPlayLevel: Creating play world package: /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest
+[2019.06.10-06.58.16:775][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004707s)
+[2019.06.10-06.58.16:776][539]LogAIModule: Creating AISystem for world VRCharTest
+[2019.06.10-06.58.16:776][539]LogPlayLevel: PIE: World Init took: (0.000458s)
+[2019.06.10-06.58.16:776][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lightsaber/Maps/VRCharTest.VRCharTest to /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest (0.005701s)
+[2019.06.10-06.58.16:859][539]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.10-06.58.16:868][539]LogInit: FAudioDevice initialized.
+[2019.06.10-06.58.16:873][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-06.58.17:005][539]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.06.10-06.58.17:005][539]LogLoad: Game class is 'GameModeBase'
+[2019.06.10-06.58.17:007][539]LogWorld: Bringing World /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest up for play (max tick rate 0) at 2019.06.10-02.58.17
+[2019.06.10-06.58.17:023][539]LogWorld: Bringing up level for play took: 0.017224
+[2019.06.10-06.58.17:059][539]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.06.10-06.58.17:064][539]PIE: Play in editor start time for /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest -0.619
+[2019.06.10-06.58.17:065][539]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.06.10-06.58.17:139][541]LogRenderer: Reallocating scene render targets to support 3704x2056 Format 26 NumSamples 1 (Frame:1).
+[2019.06.10-07.01.20:931][ 30]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2019.06.10-07.01.22:931][ 30]LogD3D11RHI: Timed out while waiting for GPU to catch up. (2.0 s)
+[2019.06.10-07.01.22:945][ 30]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:140 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.06.10-07.01.22:945][ 30]LogD3D11RHI: [Aftermath] GDynamicRHI=000001BB0A9E8080, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.06.10-07.01.22:945][ 30]LogWindows: Windows GetLastError: The operation completed successfully. (0)
