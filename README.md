@@ -10,4 +10,6 @@ Huge thanks to mordentral for the VR Expansion Plugin for UE4, saved me a lot of
 This is a passion project and currently being worked on by one person. Anyone with proficiency in UE4 that wishes to assist in development
 can feel free to contact me via GitHub. As I am the only dev as of right now, please do let me know about any bugs/issues via GitHub. 
 
+!!AS OF NOW IT IS VERY EARLY IN DEVELOPMENT!!
+
 Have fun!
