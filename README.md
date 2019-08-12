@@ -5,6 +5,8 @@ This is a free fan made game produced within Unreal Engine 4. The models/texture
 of them come from DICE's Star Wars Battlefront 2 (2017). All characters, locations, and objects are subject to the terms of fair
 use and are the property of The Walt Disney Company and LucasArts.
 
+Huge thanks to mordentral for the VR Expansion Plugin for UE4, saved me a lot of hassle :)
+
 This is a passion project and currently being worked on by one person. Anyone with proficiency in UE4 that wishes to assist in development
 can feel free to contact me via GitHub. As I am the only dev as of right now, please do let me know about any bugs/issues via GitHub. 
 
