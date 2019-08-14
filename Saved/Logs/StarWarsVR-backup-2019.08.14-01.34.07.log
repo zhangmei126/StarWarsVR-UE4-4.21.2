@@ -1,0 +1,1235 @@
+﻿Log file open, 08/13/19 21:18:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: StarWarsVR
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.289145
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ParticleText
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogPluginManager: Mounting plugin OpenVRExpansionPlugin
+LogPluginManager: Mounting plugin VRExpansionPlugin
+LogStreaming: Display: Took  0.074s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: U:/UnrealEngine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.14-01.18.56:815][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.14-01.18.56:815][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Engine.ini]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Engine.ini]
+[2019.08.14-01.18.56:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Engine.ini]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Engine.ini]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.14-01.18.56:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Engine.ini]
+[2019.08.14-01.18.56:816][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Engine.ini]
+[2019.08.14-01.18.56:857][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.14-01.18.56:857][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.14-01.18.56:858][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.14-01.18.56:875][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.14-01.18.56:876][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.14-01.18.56:891][  0]LogHAL: Display: Platform has ~ 16 GB [17104732160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.08.14-01.18.56:891][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.14-01.18.56:891][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.14-01.18.56:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.14-01.18.56:892][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.14-01.18.56:895][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.14-01.18.56:895][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Config/Windows/Engine.ini]
+[2019.08.14-01.18.56:896][  0]LogInit: Computer: DESKTOP-G3P6UN7
+[2019.08.14-01.18.56:896][  0]LogInit: User: stott
+[2019.08.14-01.18.56:896][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.08.14-01.18.56:896][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.14-01.18.56:896][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.08.14-01.18.56:896][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.14-01.18.56:896][  0]LogMemory: Process Physical Memory: 107.06 MB used, 107.07 MB peak
+[2019.08.14-01.18.56:896][  0]LogMemory: Process Virtual Memory: 105.19 MB used, 105.19 MB peak
+[2019.08.14-01.18.56:896][  0]LogMemory: Physical Memory: 4637.65 MB used,  11674.70 MB free, 16312.34 MB total
+[2019.08.14-01.18.56:896][  0]LogMemory: Virtual Memory: 4696.98 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2019.08.14-01.18.57:465][  0]LogInit: Using OS detected language (en-US).
+[2019.08.14-01.18.57:465][  0]LogInit: Using OS detected locale (en-US).
+[2019.08.14-01.18.57:480][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.08.14-01.18.57:981][  0]LogStreaming: Display: Took  0.515s to InitEngineTextLocalization.
+[2019.08.14-01.18.57:982][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.14-01.18.58:082][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.14-01.18.58:082][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.14-01.19.02:471][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.14-01.19.02:524][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2019.08.14-01.19.02:524][  0]LogD3D11RHI:       8010/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.08.14-01.19.02:586][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.14-01.19.02:586][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.14-01.19.02:586][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.14-01.19.02:593][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.14-01.19.02:593][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.14-01.19.02:593][  0]LogWindows: EnumDisplayDevices:
+[2019.08.14-01.19.02:593][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2019.08.14-01.19.02:593][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2019.08.14-01.19.02:594][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.08.14-01.19.02:594][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2019.08.14-01.19.02:594][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.08.14-01.19.02:594][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2019.08.14-01.19.02:594][  0]LogD3D11RHI:   Driver Version: 431.36 (internal:26.21.14.3136, unified:431.36)
+[2019.08.14-01.19.02:594][  0]LogD3D11RHI:      Driver Date: 7-3-2019
+[2019.08.14-01.19.02:595][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2019.08.14-01.19.02:641][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.14-01.19.02:735][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.14-01.19.02:779][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2019.08.14-01.19.03:296][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.08.14-01.19.03:314][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.08.14-01.19.03:330][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.08.14-01.19.03:348][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.08.14-01.19.03:369][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.08.14-01.19.03:404][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.08.14-01.19.03:422][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.08.14-01.19.03:438][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.08.14-01.19.03:450][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:522][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.14-01.19.03:596][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.08.14-01.19.03:676][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.14-01.19.03:676][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.14-01.19.03:700][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.14-01.19.03:700][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.14-01.19.03:716][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.08.14-01.19.03:733][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.08.14-01.19.03:758][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.08.14-01.19.03:781][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.08.14-01.19.03:821][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.08.14-01.19.03:821][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.08.14-01.19.03:821][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.14-01.19.04:109][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Intermediate/Shaders/WorkingDirectory/13900/).
+[2019.08.14-01.19.04:109][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/stott/AppData/Local/Temp/UnrealShaderWorkingDir/F38DB4C243A9621842E7FD978C0CF475/'.
+[2019.08.14-01.19.04:128][  0]LogXGEController: Cleaning working directory: C:/Users/stott/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.14-01.19.04:129][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.14-01.19.04:129][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.14-01.19.04:129][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.14-01.19.05:667][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.14-01.19.05:838][  0]LogDerivedDataCache: Loaded boot cache 0.17s 72MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.08.14-01.19.05:839][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.08.14-01.19.05:839][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/StarWarsVR-UE4-4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.14-01.19.05:839][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.14-01.19.05:839][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/StarWarsVR-UE4-4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.14-01.19.05:839][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.14-01.19.05:865][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.14-01.19.05:865][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.14-01.19.05:865][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.14-01.19.05:877][  0]LogDerivedDataCache: Using Local data cache path C:/Users/stott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.14-01.19.05:877][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.14-01.19.05:877][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.14-01.19.05:965][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.14-01.19.06:010][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.14-01.19.06:024][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.14-01.19.06:353][  0]LogAssetRegistry: FAssetRegistry took 0.0317 seconds to start up
+[2019.08.14-01.19.07:238][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.14-01.19.08:029][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.08.14-01.19.08:084][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.08.14-01.19.08:085][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.14-01.19.08:086][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.14-01.19.08:086][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.08.14-01.19.08:516][  0]LogNetVersion: StarWarsVR 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3577061868)
+[2019.08.14-01.19.08:825][  0]LogNavigation: Error: [/Script/Engine.NavigationSystem] found in the DefaultEngine.ini file. This class has been moved. Please rename that section to [/Script/NavigationSystem.NavigationSystemV1]
+[2019.08.14-01.19.10:086][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.073643 seconds
+[2019.08.14-01.19.10:090][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.08.14-01.19.10:090][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.08.14-01.19.10:090][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.14-01.19.13:752][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.14-01.19.13:777][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.14-01.19.14:889][  0]SourceControl: Source control is disabled
+[2019.08.14-01.19.16:726][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.14-01.19.17:084][  0]LogOcInput: OculusInput pre-init called
+[2019.08.14-01.19.17:228][  0]LogPython: Python Scripts search path: ../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/Scripts
+[2019.08.14-01.19.17:228][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2019.08.14-01.19.17:228][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2019.08.14-01.19.17:757][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2019.08.14-01.19.17:757][  0]LogPython: 
+
+[2019.08.14-01.19.17:758][  0]LogPython: U:\UnrealEngine\UE_4.21\Engine\Plugins\UnrealEnginePython\
+[2019.08.14-01.19.17:758][  0]LogPython: 
+
+[2019.08.14-01.19.18:113][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2019.08.14-01.19.18:113][  0]LogPython: 
+
+[2019.08.14-01.19.18:116][  0]LogPython: ue_site Python module successfully imported
+[2019.08.14-01.19.18:542][  0]LogEngine: Initializing Engine...
+[2019.08.14-01.19.18:556][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-FCDAF386
+[2019.08.14-01.19.18:593][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.002 s
+[2019.08.14-01.19.18:593][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.14-01.19.18:593][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.08.14-01.19.18:594][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.14-01.19.18:969][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.14-01.19.19:121][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.14-01.19.19:266][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.14-01.19.19:280][  0]LogInit: FAudioDevice initialized.
+[2019.08.14-01.19.19:281][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.14-01.19.19:349][  0]LogDerivedDataCache: Saved boot cache 0.07s 72MB C:/Users/stott/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.08.14-01.19.19:358][  0]LogInit: Texture streaming: Enabled
+[2019.08.14-01.19.19:402][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.14-01.19.19:528][  0]LogInit: Transaction tracking system initialized
+[2019.08.14-01.19.19:656][  0]BlueprintLog: New page: Editor Load
+[2019.08.14-01.19.20:305][  0]LocalizationService: Localization service is disabled
+[2019.08.14-01.19.21:537][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.14-01.19.21:537][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.14-01.19.21:537][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.08.14-01.19.21:537][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.08.14-01.19.21:537][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.14-01.19.21:537][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.08.14-01.19.21:537][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.14-01.19.22:300][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR-UE4-4.21/Content/' took 0.02s
+[2019.08.14-01.19.22:478][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/Lightsaber/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.14-01.19.22:482][  0]LightingResults: New page: Lighting Build
+[2019.08.14-01.19.22:550][  0]MapCheck: New page: Map Check
+[2019.08.14-01.19.22:550][  0]LightingResults: New page: Lighting Build
+[2019.08.14-01.19.23:452][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; please replace or remove it.
+[2019.08.14-01.19.23:452][  0]LogBlueprint: Warning: [Compiler BP_MotionController] Set Hand  is deprecated; Please use the Motion Source property instead of Hand
+[2019.08.14-01.19.23:478][  0]LogBlueprint: Warning: [Compiler BP_MotionController] [0035.40] Compile of BP_MotionController successful, but with 2 Warning(s) [in 44 ms] (/Game/Lightsaber/Blueprints/BP_MotionController.BP_MotionController)
+[2019.08.14-01.19.25:814][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.08.14-01.19.25:814][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/StarterContent/Shapes/Shape_Cylinder.uasset.
+[2019.08.14-01.19.25:814][  0]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Cylinder : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall
+[2019.08.14-01.19.25:814][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.08.14-01.19.25:815][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading ../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/StarterContent/Shapes/Shape_Cylinder.uasset.
+[2019.08.14-01.19.25:815][  0]LoadErrors: Error: /Game/StarterContent/Shapes/Shape_Cylinder : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall
+[2019.08.14-01.19.26:952][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.08.14-01.19.26:952][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.08.14-01.19.26:952][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2019.08.14-01.19.26:952][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.08.14-01.19.26:952][  0]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall'
+[2019.08.14-01.19.26:953][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.08.14-01.19.26:953][  0]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall' while loading NULL.
+[2019.08.14-01.19.26:953][  0]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cylinder
+[2019.08.14-01.19.27:032][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2019.08.14-01.19.27:529][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2019.08.14-01.19.27:529][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2019.08.14-01.19.27:529][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2019.08.14-01.19.29:501][  0]LogAIModule: Creating AISystem for world Test
+[2019.08.14-01.19.29:956][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.14-01.19.30:004][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.14-01.19.30:004][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2019.08.14-01.19.30:004][  0]LogFileHelpers: Loading map 'Test' took 7.531
+[2019.08.14-01.19.30:213][  0]LogCollectionManager: Loaded 0 collections in 0.000628 seconds
+[2019.08.14-01.19.30:281][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR-UE4-4.21/Saved/Collections/' took 0.01s
+[2019.08.14-01.19.30:281][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR-UE4-4.21/Content/Developers/stott/Collections/' took 0.01s
+[2019.08.14-01.19.30:281][  0]LogFileCache: Scanning file cache for directory 'U:/Unreal Projects/StarWarsVR-UE4-4.21/Content/Collections/' took 0.01s
+[2019.08.14-01.19.30:281][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.14-01.19.30:287][  0]LogContentBrowser: Native class hierarchy populated in 0.0061 seconds. Added 2727 classes and 641 folders.
+[2019.08.14-01.19.30:309][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.14-01.19.30:317][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:323][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:356][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:366][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:371][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:379][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:384][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:388][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:392][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:397][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:416][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:420][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:425][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:431][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:453][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:464][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:469][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:473][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-01.19.30:716][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.14-01.19.30:759][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-01.19.30:765][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-01.19.30:770][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-01.19.30:776][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-01.19.30:799][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.08.14-01.19.31:396][  0]LogSlate: Took 0.007751 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.14-01.19.31:405][  0]LogSlate: Took 0.007830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.14-01.19.31:421][  0]LogSlate: Took 0.015956 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.14-01.19.31:632][  0]LogRenderer: Reallocating scene render targets to support 1304x1280 Format 26 NumSamples 1 (Frame:1).
+[2019.08.14-01.19.31:888][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.14-01.19.31:888][  0]LogLoad: (Engine Initialization) Total time: 43.81 seconds
+[2019.08.14-01.19.31:888][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.14-01.19.31:958][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.14-01.19.32:011][  0]LogSlate: Took 0.044852 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.14-01.19.32:415][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2019.08.14-01.19.32:580][  7]LogAssetRegistry: Asset discovery search completed in 26.2484 seconds
+[2019.08.14-01.19.32:582][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.14-01.19.32:582][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2019.08.14-01.19.38:822][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-01.20.15:473][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-01.20.15:609][499]LogAnimation: Warning: AnimBP ABP_hand_right_C is incompatible with skeleton SK_hand_left_Skeleton, removing AnimBP from actor.
+[2019.08.14-01.20.18:048][693]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lightsaber/Blueprints/AI_NPCs/BP_CloneAI.BP_CloneAI
+[2019.08.14-01.20.18:633][693]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.08.14-01.20.18:633][693]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.08.14-01.20.18:633][693]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.08.14-01.20.18:633][693]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.08.14-01.20.18:633][693]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.08.14-01.20.18:633][693]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.08.14-01.20.18:633][693]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.08.14-01.20.18:633][693]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.08.14-01.20.18:633][693]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.08.14-01.20.18:633][693]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.08.14-01.20.18:633][693]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.08.14-01.20.18:637][693]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.08.14-01.20.18:637][693]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.08.14-01.20.18:637][693]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.08.14-01.20.18:637][693]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.08.14-01.20.18:637][693]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.08.14-01.20.18:637][693]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.08.14-01.20.18:637][693]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/ColorGrade_50LUTs/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2019.08.14-01.20.18:694][693]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2019.08.14-01.20.19:494][693]LogSlate: Took 0.013234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.14-01.20.19:657][694]LogSlate: Took 0.004399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.14-01.20.34:155][ 10]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lightsaber/Blueprints/AI_NPCs/EnemyAIController.EnemyAIController
+[2019.08.14-01.20.39:657][506]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Lightsaber/Blueprints/AI_NPCs/BehaviorTrees/Default_BT.Default_BT
+[2019.08.14-01.20.56:261][456]LogSlate: Window 'BP_CloneAI' being destroyed
+[2019.08.14-01.20.56:307][456]LogSlate: Window 'BP_CloneAI' being destroyed
+[2019.08.14-01.20.56:307][456]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.14-01.22.47:230][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-01.22.50:505][996]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.08.14-01.22.50:505][996]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading ../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/StarterContent/Props/SM_TableRound.uasset.
+[2019.08.14-01.22.50:505][996]LoadErrors: Error: /Game/StarterContent/Props/SM_TableRound : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound
+[2019.08.14-01.22.50:505][996]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.08.14-01.22.50:506][996]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading ../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/StarterContent/Props/SM_TableRound.uasset.
+[2019.08.14-01.22.50:516][996]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.08.14-01.22.50:516][996]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound.M_TableRound Referenced by SM_TableRound
+[2019.08.14-01.22.50:517][996]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading NULL.
+[2019.08.14-01.22.50:517][996]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound'
+[2019.08.14-01.22.50:517][996]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Props/Materials/M_TableRound' while loading NULL.
+[2019.08.14-01.22.51:006][996]LogAIModule: Creating AISystem for world VRCharTest
+[2019.08.14-01.22.51:019][996]LogAssetEditorManager: Opening Asset editor for World /Game/Lightsaber/Maps/VRCharTest.VRCharTest
+[2019.08.14-01.22.51:052][996]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/Lightsaber/Maps/VRCharTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.14-01.22.51:052][996]LightingResults: New page: Lighting Build
+[2019.08.14-01.22.51:053][996]LoadErrors: New page: Loading map: VRCharTest.umap
+[2019.08.14-01.22.51:060][996]MapCheck: New page: Map Check
+[2019.08.14-01.22.51:060][996]LightingResults: New page: Lighting Build
+[2019.08.14-01.22.51:201][996]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.14-01.22.51:277][996]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.14-01.22.51:278][996]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2019.08.14-01.22.51:278][996]LogFileHelpers: Loading map 'VRCharTest' took 0.226
+[2019.08.14-01.22.54:400][355]LogEditorViewport: Clicking on Actor (LMB): VRVader_C (VRVader)
+[2019.08.14-01.22.59:509][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-01.22.59:615][937]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lightsaber/Blueprints/VRPlayerCharacters/Vader/VRVader.VRVader
+[2019.08.14-01.23.04:749][407]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lightsaber/Blueprints/VRPlayerCharacters/Grievous/VRGrievous.VRGrievous
+[2019.08.14-01.24.46:053][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.14-01.24.56:082][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-01.24.56:176][596]LogSlate: Window 'VRGrievous' being destroyed
+[2019.08.14-01.24.56:224][596]LogSlate: Window 'VRGrievous' being destroyed
+[2019.08.14-01.24.57:087][676]LogSlate: Window 'VRVader' being destroyed
+[2019.08.14-01.24.57:134][676]LogSlate: Window 'VRVader' being destroyed
+[2019.08.14-01.24.57:135][676]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.14-01.25.03:971][370]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lightsaber/Blueprints/VRPlayerCharacters/Vader/VRVader.VRVader
+[2019.08.14-01.25.07:573][688]LogRenderer: Reallocating scene render targets to support 1404x1280 Format 26 NumSamples 1 (Frame:1).
+[2019.08.14-01.25.30:325][847]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Saved/VRVader355CA4C04F944F7B7E72CEB0848CC8C1.tmp' to '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Vader/VRVader.uasset'
+[2019.08.14-01.25.30:753][861]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Saved/VRVader639842D64969899B6C98A88452A273B7.tmp' to '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Vader/VRVader.uasset'
+[2019.08.14-01.25.49:048][398]LogTemp: Repeating last play command: VR Preview
+[2019.08.14-01.25.49:086][398]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.08.14-01.25.49:086][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.14-01.25.49:087][398]PIE: New page: PIE session: VRCharTest (Aug 13, 2019, 5:25:49 PM)
+[2019.08.14-01.25.49:100][398]LogPlayLevel: Creating play world package: /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest
+[2019.08.14-01.25.49:103][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002520s)
+[2019.08.14-01.25.49:103][398]LogAIModule: Creating AISystem for world VRCharTest
+[2019.08.14-01.25.49:103][398]LogPlayLevel: PIE: World Init took: (0.000411s)
+[2019.08.14-01.25.49:103][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lightsaber/Maps/VRCharTest.VRCharTest to /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest (0.003109s)
+[2019.08.14-01.25.49:228][398]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.14-01.25.49:237][398]LogInit: FAudioDevice initialized.
+[2019.08.14-01.25.49:243][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-01.25.49:374][398]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.14-01.25.49:374][398]LogLoad: Game class is 'GameModeBase'
+[2019.08.14-01.25.49:386][398]LogWorld: Bringing World /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest up for play (max tick rate 0) at 2019.08.13-21.25.49
+[2019.08.14-01.25.49:404][398]LogWorld: Bringing up level for play took: 0.029007
+[2019.08.14-01.25.49:422][398]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.08.14-01.25.49:428][398]PIE: Play in editor start time for /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest 1.057
+[2019.08.14-01.25.49:428][398]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.08.14-01.25.49:482][400]LogRenderer: Reallocating scene render targets to support 3704x2056 Format 26 NumSamples 1 (Frame:1).
+[2019.08.14-01.25.53:918][794]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.08.14-01.25.54:035][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-01.25.54:085][794]LogSlate: Window 'StarWarsVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.14-01.25.54:164][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.14-01.25.54:165][794]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.08.14-01.25.54:209][795]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.08.14-01.25.55:974][  4]LogEditorViewport: Clicking on Actor (LMB): VRVader_C (VRVader)
+[2019.08.14-01.26.06:814][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-01.26.32:001][762]LogSlate: Window 'Save Content' being destroyed
+[2019.08.14-01.26.32:454][762]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Saved/VRCharTest53B1D85742D290B9CFC9B69F348835DE.tmp' to '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/Lightsaber/Maps/VRCharTest.umap'
+[2019.08.14-01.26.32:508][762]LogFileHelpers: Saving map 'VRCharTest' took 0.272
+[2019.08.14-01.26.33:430][855]LogTemp: Repeating last play command: VR Preview
+[2019.08.14-01.26.33:456][855]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.08.14-01.26.33:456][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.14-01.26.33:456][855]PIE: New page: PIE session: VRCharTest (Aug 13, 2019, 5:26:33 PM)
+[2019.08.14-01.26.33:456][855]LogPlayLevel: Creating play world package: /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest
+[2019.08.14-01.26.33:459][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002423s)
+[2019.08.14-01.26.33:459][855]LogAIModule: Creating AISystem for world VRCharTest
+[2019.08.14-01.26.33:459][855]LogPlayLevel: PIE: World Init took: (0.000368s)
+[2019.08.14-01.26.33:459][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lightsaber/Maps/VRCharTest.VRCharTest to /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest (0.002875s)
+[2019.08.14-01.26.33:552][855]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.14-01.26.33:560][855]LogInit: FAudioDevice initialized.
+[2019.08.14-01.26.33:566][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-01.26.33:680][855]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.14-01.26.33:680][855]LogLoad: Game class is 'GameModeBase'
+[2019.08.14-01.26.33:691][855]LogWorld: Bringing World /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest up for play (max tick rate 0) at 2019.08.13-21.26.33
+[2019.08.14-01.26.33:691][855]LogWorld: Bringing up level for play took: 0.010545
+[2019.08.14-01.26.33:708][855]PIE: Play in editor start time for /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest -0.664
+[2019.08.14-01.26.33:708][855]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.08.14-01.27.01:510][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.08.14-01.27.01:633][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-01.27.01:692][320]LogSlate: Window 'StarWarsVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.14-01.27.01:768][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.14-01.27.01:769][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.08.14-01.27.01:815][321]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.08.14-01.27.04:212][595]LogEditorViewport: Clicking on Actor (LMB): VRVader_C (VRVader)
+[2019.08.14-01.27.06:315][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-01.27.42:977][475]BlueprintLog: New page: Compile VRVader
+[2019.08.14-01.27.43:625][475]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Saved/VRVaderD9EE9BBE4D093175DFE37AA1611FBAF0.tmp' to '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Vader/VRVader.uasset'
+[2019.08.14-01.27.45:362][591]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Saved/VRVader6C7D97024D176BF0F28EE98814C171CC.tmp' to '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Vader/VRVader.uasset'
+[2019.08.14-01.27.50:835][142]BlueprintLog: New page: Compile VRVader
+[2019.08.14-01.27.51:480][142]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Saved/VRVader781ACAE24E63DBEBBEB772AA69577B51.tmp' to '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Vader/VRVader.uasset'
+[2019.08.14-01.28.07:139][564]LogSlate: Window 'Save Content' being destroyed
+[2019.08.14-01.28.07:442][564]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Saved/VRVader7215668840FC45B133CC009E172D98C3.tmp' to '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Vader/VRVader.uasset'
+[2019.08.14-01.28.07:650][564]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Saved/VRCharTest8CB3972848856C39DAC4EBB09811AE94.tmp' to '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/Lightsaber/Maps/VRCharTest.umap'
+[2019.08.14-01.28.07:704][564]LogFileHelpers: Saving map 'VRCharTest' took 0.259
+[2019.08.14-01.28.08:329][620]LogTemp: Repeating last play command: VR Preview
+[2019.08.14-01.28.08:359][620]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.08.14-01.28.08:359][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.14-01.28.08:360][620]PIE: New page: PIE session: VRCharTest (Aug 13, 2019, 5:28:08 PM)
+[2019.08.14-01.28.08:360][620]LogPlayLevel: Creating play world package: /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest
+[2019.08.14-01.28.08:362][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002591s)
+[2019.08.14-01.28.08:363][620]LogAIModule: Creating AISystem for world VRCharTest
+[2019.08.14-01.28.08:363][620]LogPlayLevel: PIE: World Init took: (0.000418s)
+[2019.08.14-01.28.08:363][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lightsaber/Maps/VRCharTest.VRCharTest to /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest (0.003096s)
+[2019.08.14-01.28.08:454][620]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.14-01.28.08:462][620]LogInit: FAudioDevice initialized.
+[2019.08.14-01.28.08:467][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-01.28.08:586][620]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.14-01.28.08:586][620]LogLoad: Game class is 'GameModeBase'
+[2019.08.14-01.28.08:596][620]LogWorld: Bringing World /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest up for play (max tick rate 0) at 2019.08.13-21.28.08
+[2019.08.14-01.28.08:597][620]LogWorld: Bringing up level for play took: 0.010792
+[2019.08.14-01.28.08:613][620]PIE: Play in editor start time for /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest 0.241
+[2019.08.14-01.28.08:613][620]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.08.14-01.28.43:730][678]LogBlueprintUserMessages: [BP_CloneAI_C_0] Clone DEAD
+[2019.08.14-01.28.43:756][680]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.08.14-01.29.57:911][239]LogBlueprintUserMessages: [BP_CloneAI_C_2] Clone DEAD
+[2019.08.14-01.30.04:563][791]LogBlueprintUserMessages: [BP_CloneAI_C_1] Clone DEAD
+[2019.08.14-01.30.25:126][612]LogBlueprintUserMessages: [BP_CloneAI_C_3] Clone DEAD
+[2019.08.14-01.30.33:805][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.08.14-01.30.33:930][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-01.30.33:994][384]LogSlate: Window 'StarWarsVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.14-01.30.34:067][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.14-01.30.34:068][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.08.14-01.30.34:122][385]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.08.14-01.30.44:694][550]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Saved/VRVader912D0BED42475723881ADB91CCD5D07E.tmp' to '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Vader/VRVader.uasset'
+[2019.08.14-01.30.45:375][623]LogSlate: Window 'VRVader' being destroyed
+[2019.08.14-01.30.45:421][623]LogSlate: Window 'VRVader' being destroyed
+[2019.08.14-01.30.49:175][ 36]LogEditorViewport: Clicking on Actor (LMB): VRVader_C (VRVader)
+[2019.08.14-01.30.51:479][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-01.30.51:577][268]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lightsaber/Blueprints/VRPlayerCharacters/Vader/VRVader.VRVader
+[2019.08.14-01.31.02:756][261]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Lightsaber/Blueprints/HeroSabers/VaderSaber1.VaderSaber1
+[2019.08.14-01.31.06:715][606]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave sw02_weapons_lightsaber_idle_intense_grievous_01...
+[2019.08.14-01.31.06:942][606]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2566656 while cooking SoundWave /Game/Lightsaber/Sound/SaberSounds/Idles/sw02_weapons_lightsaber_idle_intense_grievous_01.sw02_weapons_lightsaber_idle_intense_grievous_01.
+[2019.08.14-01.31.06:955][606]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave sw02_weapons_lightsaber_impacts_block_var_03...
+[2019.08.14-01.31.06:965][606]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 90112 while cooking SoundWave /Game/Lightsaber/Sound/SaberSounds/sw02_weapons_lightsaber_impacts_block_var_03.sw02_weapons_lightsaber_impacts_block_var_03.
+[2019.08.14-01.31.18:234][831]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_1.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.31.18:239][831]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_480.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.31.18:241][831]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_17.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.31.18:246][831]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_3.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.31.18:249][831]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_19.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.31.18:252][831]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_482.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.31.19:532][938]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave sw02_weapons_lightsaber_swing_fast_kyloren_var_03...
+[2019.08.14-01.31.19:543][938]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 99840 while cooking SoundWave /Game/BF2_Assets/Characters/KyloRen/saber/sounds/sw02_weapons_lightsaber_swing_fast_kyloren_var_03.sw02_weapons_lightsaber_swing_fast_kyloren_var_03.
+[2019.08.14-01.31.24:388][444]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave SW02_Characters_Heroes_DarthVader_Breathing_LowHealth_VAR_01...
+[2019.08.14-01.31.24:412][444]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 264704 while cooking SoundWave /Game/BF2_Assets/Characters/Vader/sounds/SW02_Characters_Heroes_DarthVader_Breathing_LowHealth_VAR_01.SW02_Characters_Heroes_DarthVader_Breathing_LowHealth_VAR_01.
+[2019.08.14-01.31.30:630][ 70]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave sw02_weapons_lightsaber_stop_darkside_red_var_01...
+[2019.08.14-01.31.30:649][ 70]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 96256 while cooking SoundWave /Game/BF2_Assets/Characters/Grievous/LightSabers/Sounds/sw02_weapons_lightsaber_stop_darkside_red_var_01.sw02_weapons_lightsaber_stop_darkside_red_var_01.
+[2019.08.14-01.31.36:963][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_5.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.31.36:966][763]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_484.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.31.36:968][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_21.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.31.36:973][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_7.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.31.36:976][763]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_486.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.31.36:978][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_23.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.31.55:164][681]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave sw01_weapons_lightsaber_start_darkside_var_02...
+[2019.08.14-01.31.55:197][681]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 316928 while cooking SoundWave /Game/BF2_Assets/Characters/Grievous/LightSabers/Sounds/sw01_weapons_lightsaber_start_darkside_var_02.sw01_weapons_lightsaber_start_darkside_var_02.
+[2019.08.14-01.31.58:889][ 77]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Birds01'
+[2019.08.14-01.31.58:889][ 77]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Birds01' while loading ../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/StarterContent/Audio/Starter_Background_Cue.uasset.
+[2019.08.14-01.31.58:889][ 77]LoadErrors: Error: /Game/StarterContent/Audio/Starter_Background_Cue : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Birds01
+[2019.08.14-01.31.58:889][ 77]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind05'
+[2019.08.14-01.31.58:889][ 77]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind05' while loading ../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/StarterContent/Audio/Starter_Background_Cue.uasset.
+[2019.08.14-01.31.58:889][ 77]LoadErrors: Error: /Game/StarterContent/Audio/Starter_Background_Cue : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind05
+[2019.08.14-01.31.58:889][ 77]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind06'
+[2019.08.14-01.31.58:889][ 77]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind06' while loading ../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/StarterContent/Audio/Starter_Background_Cue.uasset.
+[2019.08.14-01.31.58:889][ 77]LoadErrors: Error: /Game/StarterContent/Audio/Starter_Background_Cue : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind06
+[2019.08.14-01.31.58:889][ 77]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Birds01'
+[2019.08.14-01.31.58:889][ 77]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Birds01' while loading ../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/StarterContent/Audio/Starter_Background_Cue.uasset.
+[2019.08.14-01.31.58:890][ 77]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind05'
+[2019.08.14-01.31.58:890][ 77]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind05' while loading ../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/StarterContent/Audio/Starter_Background_Cue.uasset.
+[2019.08.14-01.31.58:890][ 77]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind06'
+[2019.08.14-01.31.58:890][ 77]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind06' while loading ../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/StarterContent/Audio/Starter_Background_Cue.uasset.
+[2019.08.14-01.31.58:890][ 77]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind05'
+[2019.08.14-01.31.58:890][ 77]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind05.Starter_Wind05 Referenced by SoundNodeWavePlayer_0
+[2019.08.14-01.31.58:890][ 77]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind05' while loading NULL.
+[2019.08.14-01.31.58:890][ 77]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Birds01'
+[2019.08.14-01.31.58:890][ 77]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Birds01.Starter_Birds01 Referenced by SoundNodeWavePlayer_2
+[2019.08.14-01.31.58:890][ 77]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Birds01' while loading NULL.
+[2019.08.14-01.31.58:890][ 77]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind06'
+[2019.08.14-01.31.58:890][ 77]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind06.Starter_Wind06 Referenced by SoundNodeWavePlayer_3
+[2019.08.14-01.31.58:890][ 77]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind06' while loading NULL.
+[2019.08.14-01.31.58:890][ 77]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind05'
+[2019.08.14-01.31.58:890][ 77]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind05.Starter_Wind05'
+[2019.08.14-01.31.58:890][ 77]LogLinker: Error: AddRedirectList(AddKnownMissing) failed to add redirector from /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind05 to /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind05 with invalid characters!
+[2019.08.14-01.31.58:890][ 77]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Birds01'
+[2019.08.14-01.31.58:890][ 77]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Birds01.Starter_Birds01'
+[2019.08.14-01.31.58:890][ 77]LogLinker: Error: AddRedirectList(AddKnownMissing) failed to add redirector from /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Birds01 to /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Birds01 with invalid characters!
+[2019.08.14-01.31.58:892][ 77]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind06'
+[2019.08.14-01.31.58:892][ 77]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind06.Starter_Wind06'
+[2019.08.14-01.31.58:892][ 77]LogLinker: Error: AddRedirectList(AddKnownMissing) failed to add redirector from /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind06 to /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Wind06 with invalid characters!
+[2019.08.14-01.31.58:897][ 77]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Music01'
+[2019.08.14-01.31.58:897][ 77]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Music01' while loading ../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/StarterContent/Audio/Starter_Music_Cue.uasset.
+[2019.08.14-01.31.58:897][ 77]LoadErrors: Error: /Game/StarterContent/Audio/Starter_Music_Cue : Can't find file for asset. /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Music01
+[2019.08.14-01.31.58:899][ 77]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Music01'
+[2019.08.14-01.31.58:899][ 77]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Music01' while loading ../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/StarterContent/Audio/Starter_Music_Cue.uasset.
+[2019.08.14-01.31.58:899][ 77]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Music01'
+[2019.08.14-01.31.58:899][ 77]LoadErrors: Failed to load /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Music01.Starter_Music01 Referenced by SoundNodeWavePlayer_0
+[2019.08.14-01.31.58:899][ 77]LogLinker: Warning: Can't find file for asset '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Music01' while loading NULL.
+[2019.08.14-01.31.58:899][ 77]LogLinker: Warning: Can't find file '/Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Music01'
+[2019.08.14-01.31.58:899][ 77]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Music01.Starter_Music01'
+[2019.08.14-01.31.58:899][ 77]LogLinker: Error: AddRedirectList(AddKnownMissing) failed to add redirector from /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Music01 to /Game/LandscapeStuff/Landscape(Sub-folder)/StarterContent/Audio/Starter_Music01 with invalid characters!
+[2019.08.14-01.32.55:686][663]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave unrelentingloop2...
+[2019.08.14-01.32.55:745][663]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 775680 while cooking SoundWave /Game/BF2_Assets/Characters/Grievous/sounds/unrelentingloop2.unrelentingloop2.
+[2019.08.14-01.33.05:178][544]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_9.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.33.05:181][544]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_488.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.33.05:183][544]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_25.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.33.05:188][544]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_11.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.33.05:191][544]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_490.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.33.05:193][544]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_27.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.33.12:769][237]BlueprintLog: New page: Compile VaderSaber1
+[2019.08.14-01.33.12:973][237]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_13.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.33.12:976][237]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_492.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.33.12:979][237]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_29.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.33.12:999][237]LogActorComponent: RegisterComponentWithWorld: (/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_496.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.33.13:001][237]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_17.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.33.13:003][237]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_VaderSaber1_C_CHILDACTOR_33.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-01.33.13:253][237]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Saved/VaderSaber1DDF350D1404814FAA6F6D9A6F57C36C8.tmp' to '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/Lightsaber/Blueprints/HeroSabers/VaderSaber1.uasset'
+[2019.08.14-01.33.15:222][407]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Saved/VaderSaber16D0E702948A44C3E5ADDC7B2EB96E41B.tmp' to '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/Lightsaber/Blueprints/HeroSabers/VaderSaber1.uasset'
+[2019.08.14-01.33.16:493][522]LogSlate: Window 'VaderSaber1' being destroyed
+[2019.08.14-01.33.16:540][522]LogSlate: Window 'VaderSaber1' being destroyed
+[2019.08.14-01.33.16:619][522]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.14-01.33.18:663][593]LogSlate: Window 'Save Content' being destroyed
+[2019.08.14-01.33.19:037][593]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Saved/BP_VaderBOSSAIA8C12AF843D6193A59C55D96202427A6.tmp' to '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/Lightsaber/Blueprints/AI_NPCs/Bosses/BP_VaderBOSSAI.uasset'
+[2019.08.14-01.33.19:083][593]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Saved/VRVader25AB07C4449FDE9B6E0AB39C7C89D959.tmp' to '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/Lightsaber/Blueprints/VRPlayerCharacters/Vader/VRVader.uasset'
+[2019.08.14-01.33.19:293][593]LogSavePackage: Moving '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Saved/VRCharTest2F3B5CE842A4FCAB1504F2A54AC824FF.tmp' to '../../../../../Unreal Projects/StarWarsVR-UE4-4.21/Content/Lightsaber/Maps/VRCharTest.umap'
+[2019.08.14-01.33.19:347][593]LogFileHelpers: Saving map 'VRCharTest' took 0.259
+[2019.08.14-01.33.20:317][685]LogTemp: Repeating last play command: VR Preview
+[2019.08.14-01.33.20:351][685]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.08.14-01.33.20:351][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.14-01.33.20:352][685]PIE: New page: PIE session: VRCharTest (Aug 13, 2019, 5:33:20 PM)
+[2019.08.14-01.33.20:352][685]LogPlayLevel: Creating play world package: /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest
+[2019.08.14-01.33.20:355][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003242s)
+[2019.08.14-01.33.20:355][685]LogAIModule: Creating AISystem for world VRCharTest
+[2019.08.14-01.33.20:355][685]LogPlayLevel: PIE: World Init took: (0.000394s)
+[2019.08.14-01.33.20:355][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lightsaber/Maps/VRCharTest.VRCharTest to /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest (0.003734s)
+[2019.08.14-01.33.20:450][685]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.14-01.33.20:458][685]LogInit: FAudioDevice initialized.
+[2019.08.14-01.33.20:464][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-01.33.20:576][685]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.14-01.33.20:577][685]LogLoad: Game class is 'GameModeBase'
+[2019.08.14-01.33.20:588][685]LogWorld: Bringing World /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest.VRCharTest up for play (max tick rate 0) at 2019.08.13-21.33.20
+[2019.08.14-01.33.20:588][685]LogWorld: Bringing up level for play took: 0.010754
+[2019.08.14-01.33.20:604][685]PIE: Play in editor start time for /Game/Lightsaber/Maps/UEDPIE_0_VRCharTest 0.233
+[2019.08.14-01.33.20:605][685]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.08.14-01.33.48:854][189]LogBlueprintUserMessages: [BP_CloneAI_C_0] Clone DEAD
+[2019.08.14-01.33.48:875][191]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.08.14-01.33.57:038][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.08.14-01.33.57:157][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-01.33.57:201][921]LogSlate: Window 'StarWarsVR Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.14-01.33.57:272][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.14-01.33.57:272][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel' has LevelScriptBlueprint '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest' with GeneratedClass '/Game/Lightsaber/Maps/VRCharTest.VRCharTest_C' with ClassGeneratedBy '/Game/Lightsaber/Maps/VRCharTest.VRCharTest:PersistentLevel.VRCharTest'
+[2019.08.14-01.33.57:322][922]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.08.14-01.34.04:886][799]Cmd: CLOSE_SLATE_MAINFRAME
+[2019.08.14-01.34.05:050][799]LogSlate: Window 'StarWarsVR - Unreal Editor' being destroyed
+[2019.08.14-01.34.05:093][799]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.14-01.34.05:301][800]Cmd: QUIT_EDITOR
+[2019.08.14-01.34.05:892][800]LogHMD: SteamVR Shutting down.
+[2019.08.14-01.34.05:954][800]LogExit: Preparing to exit.
+[2019.08.14-01.34.06:377][800]LogExit: Editor shut down
+[2019.08.14-01.34.06:377][800]LogExit: Transaction tracking system shut down
+[2019.08.14-01.34.06:623][800]LogExit: Object subsystem successfully closed.
+[2019.08.14-01.34.06:647][800]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.14-01.34.06:651][800]LogD3D11RHI: Shutdown
+[2019.08.14-01.34.06:651][800]LogD3D11RHI: CleanupD3DDevice
+[2019.08.14-01.34.06:655][800]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.14-01.34.06:717][800]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (640)
+[2019.08.14-01.34.06:717][800]LogModuleManager: Shutting down and abandoning module Voice (638)
+[2019.08.14-01.34.06:717][800]LogModuleManager: Shutting down and abandoning module BlueprintGraph (636)
+[2019.08.14-01.34.06:717][800]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (634)
+[2019.08.14-01.34.06:717][800]LogModuleManager: Shutting down and abandoning module SceneOutliner (632)
+[2019.08.14-01.34.06:717][800]LogModuleManager: Shutting down and abandoning module AddContentDialog (630)
+[2019.08.14-01.34.06:718][800]LogModuleManager: Shutting down and abandoning module WidgetCarousel (629)
+[2019.08.14-01.34.06:718][800]LogModuleManager: Shutting down and abandoning module EditorWidgets (626)
+[2019.08.14-01.34.06:718][800]LogModuleManager: Shutting down and abandoning module CollectionManager (624)
+[2019.08.14-01.34.06:718][800]LogModuleManager: Shutting down and abandoning module StatsViewer (622)
+[2019.08.14-01.34.06:718][800]LogModuleManager: Shutting down and abandoning module FoliageEdit (620)
+[2019.08.14-01.34.06:718][800]LogModuleManager: Shutting down and abandoning module LandscapeEditor (618)
+[2019.08.14-01.34.06:719][800]LogModuleManager: Shutting down and abandoning module MeshPaintMode (616)
+[2019.08.14-01.34.06:719][800]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (614)
+[2019.08.14-01.34.06:719][800]LogModuleManager: Shutting down and abandoning module ActorPickerMode (612)
+[2019.08.14-01.34.06:719][800]LogModuleManager: Shutting down and abandoning module GeometryMode (610)
+[2019.08.14-01.34.06:719][800]LogModuleManager: Shutting down and abandoning module TextureAlignMode (608)
+[2019.08.14-01.34.06:719][800]LogModuleManager: Shutting down and abandoning module BspMode (606)
+[2019.08.14-01.34.06:719][800]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (604)
+[2019.08.14-01.34.06:719][800]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (602)
+[2019.08.14-01.34.06:719][800]LogModuleManager: Shutting down and abandoning module AutomationWorker (600)
+[2019.08.14-01.34.06:719][800]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (598)
+[2019.08.14-01.34.06:719][800]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (596)
+[2019.08.14-01.34.06:719][800]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (594)
+[2019.08.14-01.34.06:720][800]LogModuleManager: Shutting down and abandoning module PlacementMode (593)
+[2019.08.14-01.34.06:720][800]LogModuleManager: Shutting down and abandoning module MaterialEditor (592)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (588)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (586)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (584)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (582)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module WebMMedia (580)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (578)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (576)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (572)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (570)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (568)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (566)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (564)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (562)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (560)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (558)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (556)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (554)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module CharacterAI (552)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module SmartSnapping (550)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module SessionServices (548)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.08.14-01.34.06:721][800]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.08.14-01.34.06:722][800]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.08.14-01.34.06:722][800]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.08.14-01.34.06:723][800]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.08.14-01.34.06:723][800]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.08.14-01.34.06:723][800]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.08.14-01.34.06:723][800]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.08.14-01.34.06:723][800]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.08.14-01.34.06:723][800]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.08.14-01.34.07:093][800]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.08.14-01.34.07:093][800]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.08.14-01.34.07:093][800]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.08.14-01.34.07:093][800]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.08.14-01.34.07:093][800]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.08.14-01.34.07:093][800]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.08.14-01.34.07:094][800]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.08.14-01.34.07:094][800]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.08.14-01.34.07:094][800]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.08.14-01.34.07:094][800]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.08.14-01.34.07:094][800]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.08.14-01.34.07:094][800]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.08.14-01.34.07:094][800]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.08.14-01.34.07:094][800]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.08.14-01.34.07:094][800]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.08.14-01.34.07:094][800]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.08.14-01.34.07:094][800]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.08.14-01.34.07:094][800]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.08.14-01.34.07:094][800]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.08.14-01.34.07:094][800]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.08.14-01.34.07:094][800]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.08.14-01.34.07:095][800]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.08.14-01.34.07:095][800]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.08.14-01.34.07:149][800]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.08.14-01.34.07:149][800]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.08.14-01.34.07:149][800]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.08.14-01.34.07:151][800]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.08.14-01.34.07:151][800]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.08.14-01.34.07:151][800]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.08.14-01.34.07:151][800]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2019.08.14-01.34.07:151][800]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2019.08.14-01.34.07:152][800]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2019.08.14-01.34.07:152][800]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2019.08.14-01.34.07:156][800]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2019.08.14-01.34.07:156][800]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2019.08.14-01.34.07:156][800]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2019.08.14-01.34.07:156][800]LogModuleManager: Shutting down and abandoning module ModuleUI (450)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module MovieSceneTools (448)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module OutputLog (446)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module GammaUI (444)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module Documentation (442)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (440)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module MovieScene (438)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (436)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module LauncherPlatform (434)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module AnalyticsET (432)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module PortalServices (430)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module PortalRpc (428)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module MessagingRpc (426)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module AIModule (424)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module GameplayDebugger (423)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module AITestSuite (421)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module NavigationSystem (419)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module DesktopPlatform (416)
+[2019.08.14-01.34.07:157][800]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (414)
+[2019.08.14-01.34.07:159][800]LogModuleManager: Shutting down and abandoning module ProfilerService (412)
+[2019.08.14-01.34.07:323][800]LogModuleManager: Shutting down and abandoning module TaskGraph (410)
+[2019.08.14-01.34.07:323][800]LogModuleManager: Shutting down and abandoning module PythonEditor (408)
+[2019.08.14-01.34.07:323][800]LogModuleManager: Shutting down and abandoning module VRExpansionPlugin (406)
+[2019.08.14-01.34.07:323][800]LogModuleManager: Shutting down and abandoning module OpenVRExpansionPlugin (404)
+[2019.08.14-01.34.07:323][800]LogModuleManager: Shutting down and abandoning module UnrealEnginePython (402)
+[2019.08.14-01.34.07:323][800]LogPython: Goodbye Python
+[2019.08.14-01.34.07:337][800]LogModuleManager: Shutting down and abandoning module SteamVRController (400)
+[2019.08.14-01.34.07:338][800]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (398)
+[2019.08.14-01.34.07:338][800]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (396)
+[2019.08.14-01.34.07:338][800]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.08.14-01.34.07:338][800]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.08.14-01.34.07:338][800]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.08.14-01.34.07:338][800]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.08.14-01.34.07:338][800]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.08.14-01.34.07:338][800]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.08.14-01.34.07:338][800]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.08.14-01.34.07:338][800]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.08.14-01.34.07:338][800]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.08.14-01.34.07:338][800]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.08.14-01.34.07:338][800]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.08.14-01.34.07:338][800]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.08.14-01.34.07:338][800]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.08.14-01.34.07:341][800]LogModuleManager: Shutting down and abandoning module HTML5Networking (368)
+[2019.08.14-01.34.07:341][800]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (366)
+[2019.08.14-01.34.07:341][800]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (364)
+[2019.08.14-01.34.07:341][800]LogModuleManager: Shutting down and abandoning module BackChannel (362)
+[2019.08.14-01.34.07:341][800]LogModuleManager: Shutting down and abandoning module AppleVision (360)
+[2019.08.14-01.34.07:341][800]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (358)
+[2019.08.14-01.34.07:341][800]LogModuleManager: Shutting down and abandoning module AppleImageUtils (356)
+[2019.08.14-01.34.07:341][800]LogModuleManager: Shutting down and abandoning module AlembicImporter (354)
+[2019.08.14-01.34.07:341][800]LogModuleManager: Shutting down and abandoning module AlembicLibrary (353)
+[2019.08.14-01.34.07:341][800]LogModuleManager: Shutting down and abandoning module GeometryCache (352)
+[2019.08.14-01.34.07:341][800]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (351)
+[2019.08.14-01.34.07:341][800]LogModuleManager: Shutting down and abandoning module VariantManagerContent (346)
+[2019.08.14-01.34.07:341][800]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2019.08.14-01.34.07:341][800]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (342)
+[2019.08.14-01.34.07:341][800]LogModuleManager: Shutting down and abandoning module PluginBrowser (340)
+[2019.08.14-01.34.07:342][800]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (338)
+[2019.08.14-01.34.07:342][800]LogModuleManager: Shutting down and abandoning module PolygonModeling (336)
+[2019.08.14-01.34.07:342][800]LogModuleManager: Shutting down and abandoning module MeshEditor (334)
+[2019.08.14-01.34.07:342][800]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2019.08.14-01.34.07:342][800]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2019.08.14-01.34.07:342][800]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2019.08.14-01.34.07:342][800]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2019.08.14-01.34.07:342][800]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2019.08.14-01.34.07:342][800]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2019.08.14-01.34.07:342][800]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2019.08.14-01.34.07:342][800]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2019.08.14-01.34.07:343][800]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2019.08.14-01.34.07:343][800]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2019.08.14-01.34.07:343][800]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (312)
+[2019.08.14-01.34.07:343][800]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (310)
+[2019.08.14-01.34.07:343][800]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.08.14-01.34.07:343][800]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.08.14-01.34.07:343][800]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.08.14-01.34.07:343][800]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.08.14-01.34.07:343][800]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.08.14-01.34.07:343][800]LogModuleManager: Shutting down and abandoning module PythonConsole (298)
+[2019.08.14-01.34.07:343][800]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (296)
+[2019.08.14-01.34.07:343][800]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (294)
+[2019.08.14-01.34.07:343][800]LogModuleManager: Shutting down and abandoning module PhysXVehicles (292)
+[2019.08.14-01.34.07:343][800]LogModuleManager: Shutting down and abandoning module OculusEditor (290)
+[2019.08.14-01.34.07:343][800]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (288)
+[2019.08.14-01.34.07:343][800]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2019.08.14-01.34.07:343][800]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2019.08.14-01.34.07:445][800]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2019.08.14-01.34.07:545][800]LogModuleManager: Shutting down and abandoning module ParticleText (280)
+[2019.08.14-01.34.07:545][800]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.08.14-01.34.07:545][800]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.08.14-01.34.07:545][800]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.08.14-01.34.07:545][800]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.08.14-01.34.07:545][800]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.08.14-01.34.07:545][800]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.08.14-01.34.07:546][800]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.08.14-01.34.07:546][800]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.08.14-01.34.07:546][800]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.08.14-01.34.07:546][800]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.08.14-01.34.07:546][800]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.08.14-01.34.07:547][800]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.08.14-01.34.07:547][800]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.08.14-01.34.07:547][800]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.08.14-01.34.07:547][800]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.08.14-01.34.07:547][800]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.08.14-01.34.07:547][800]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.08.14-01.34.07:547][800]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.08.14-01.34.07:547][800]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.08.14-01.34.07:549][800]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.08.14-01.34.07:555][800]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.08.14-01.34.07:555][800]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.08.14-01.34.07:555][800]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.08.14-01.34.07:555][800]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.08.14-01.34.07:555][800]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.08.14-01.34.07:555][800]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.08.14-01.34.07:555][800]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.08.14-01.34.07:555][800]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.08.14-01.34.07:555][800]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.08.14-01.34.07:555][800]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.08.14-01.34.07:555][800]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.08.14-01.34.07:556][800]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.08.14-01.34.07:556][800]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.08.14-01.34.07:556][800]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.08.14-01.34.07:556][800]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.08.14-01.34.07:556][800]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.08.14-01.34.07:557][800]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.08.14-01.34.07:557][800]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.08.14-01.34.07:558][800]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.08.14-01.34.07:558][800]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.08.14-01.34.07:559][800]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.08.14-01.34.07:559][800]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.08.14-01.34.07:559][800]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.08.14-01.34.07:559][800]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.08.14-01.34.07:559][800]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.08.14-01.34.07:559][800]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.08.14-01.34.07:559][800]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.08.14-01.34.07:559][800]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.08.14-01.34.07:559][800]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.08.14-01.34.07:559][800]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.08.14-01.34.07:559][800]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.08.14-01.34.07:559][800]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.08.14-01.34.07:560][800]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.08.14-01.34.07:560][800]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.08.14-01.34.07:560][800]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.08.14-01.34.07:560][800]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.08.14-01.34.07:560][800]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.08.14-01.34.07:560][800]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.08.14-01.34.07:601][800]LogDerivedDataCache: Shutdown
+[2019.08.14-01.34.07:601][800]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.08.14-01.34.07:601][800]LogXGEController: Cleaning working directory: C:/Users/stott/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.14-01.34.07:601][800]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.08.14-01.34.07:601][800]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.08.14-01.34.07:601][800]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.08.14-01.34.07:601][800]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.08.14-01.34.07:602][800]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.08.14-01.34.07:602][800]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.08.14-01.34.07:602][800]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.08.14-01.34.07:602][800]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.08.14-01.34.07:602][800]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.08.14-01.34.07:602][800]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.08.14-01.34.07:602][800]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.08.14-01.34.07:602][800]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.08.14-01.34.07:602][800]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.08.14-01.34.07:602][800]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.08.14-01.34.07:602][800]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.08.14-01.34.07:602][800]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.08.14-01.34.07:602][800]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.08.14-01.34.07:603][800]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.08.14-01.34.07:603][800]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.08.14-01.34.07:603][800]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.08.14-01.34.07:603][800]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.08.14-01.34.07:603][800]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.08.14-01.34.07:603][800]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.08.14-01.34.07:603][800]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.08.14-01.34.07:604][800]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.08.14-01.34.07:604][800]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.08.14-01.34.07:608][800]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.08.14-01.34.07:608][800]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.08.14-01.34.07:609][800]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.08.14-01.34.07:610][800]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.08.14-01.34.07:619][800]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.08.14-01.34.07:619][800]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.08.14-01.34.07:619][800]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46CBA200-47D3-1E06-3CAE-8E81A733CDCF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=9b6c379546d2cae86d1828aa1fc8a3b0%7C00df9b6805af43d3a0c3c348f218e5bb%7Cd5c1aad9-425c-4666-a145-f45de9fb19cd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.14-01.34.07:631][800]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.08.14-01.34.07:632][800]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.08.14-01.34.07:632][800]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.08.14-01.34.07:632][800]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.08.14-01.34.07:632][800]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.08.14-01.34.07:632][800]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.08.14-01.34.07:632][800]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.08.14-01.34.07:632][800]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.08.14-01.34.07:632][800]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.14-01.34.07:632][800]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.08.14-01.34.07:632][800]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.08.14-01.34.07:633][800]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.08.14-01.34.07:633][800]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.08.14-01.34.07:633][800]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.08.14-01.34.07:633][800]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.08.14-01.34.07:633][800]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.08.14-01.34.07:633][800]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.08.14-01.34.07:633][800]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.08.14-01.34.07:633][800]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.08.14-01.34.07:634][800]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.08.14-01.34.07:634][800]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.08.14-01.34.07:634][800]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.08.14-01.34.07:634][800]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.08.14-01.34.07:634][800]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.08.14-01.34.07:634][800]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.08.14-01.34.07:634][800]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.08.14-01.34.07:634][800]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.08.14-01.34.07:634][800]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.08.14-01.34.07:634][800]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.08.14-01.34.07:645][800]LogExit: Exiting.
+[2019.08.14-01.34.07:649][800]Log file closed, 08/13/19 21:34:07
